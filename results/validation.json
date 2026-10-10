@@ -1,0 +1,12 @@
+{
+  "actor_episode_ids_unique": true,
+  "all_actor_source_ids_present": true,
+  "all_passage_source_ids_present": true,
+  "key_claims_match": true,
+  "network_required": false,
+  "original_heatmap_cells_match": true,
+  "scope": "Computational reproduction and recorded-decision propagation only; no independent semantic recoding or live-URL availability check.",
+  "source_ids_unique": true,
+  "status": "passed",
+  "table1_matches": true
+}

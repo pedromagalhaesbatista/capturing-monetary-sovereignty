@@ -1,0 +1,25 @@
+> Historical design protocol retained. The implemented v2 refinements, missingness rules and limitations are in methods.md and codebook.md. This file does not certify readiness.
+
+# Stablecoin remuneration genealogy — working protocol
+
+Cutoff: 2026-10-02 (Europe/London). User-specified deliverables are CSV and Markdown research files with standalone publication figures, not a dashboard. Public primary evidence only. All earliest claims mean first located within the bounded corpus.
+
+## Discovery before synthesis
+Each jurisdiction first creates a source-universe register covering official episodes and version chains, linked official inputs and located respondent-hosted submissions. Record included, excluded, unavailable, uninspected, negative findings and reasons. Freeze the register before comparative conclusions; retain subsequent additions as a dated supplement. Do not call the open web exhaustive. Record exact search strings, search dates and unresolved gaps.
+
+## File handoff
+Write `jurisdictions/EU.json`, `UK.json`, or `US.json` with arrays `sources`, `observations`, `arguments`, `chronology`, `searches`, `gaps`. Each source has source_id, jurisdiction, episode_id, episode_title, document_title, actor, actor_type, input_channel, document_date (ISO, null if unknown), date_precision, url, status, inclusion_exclusion_reason, inspection_scope, local_path, sha256, access_date, notes. Use unique jurisdiction prefixes.
+
+Observations: observation_id, jurisdiction, episode_id, episode_title, date, date_precision, actor, actor_type, input_channel, observation_kind (named_input / anonymous_aggregate / institutional_policy), source_ids, categories (object A-E -> stance or not_addressed), position (permit / permit conditionally / prohibit / no position / ambiguous), rationales (array), reserve_safety_distribution_distinguished (yes/no/not_addressed), deposit_displacement_bank_funding, monetary_policy_transmission, financial_stability_run_risk, payments_vs_investment, legal_classification, competition_innovation_consumer_welfare, commercial_viability (flags yes/no; no = not explicitly invoked in inspected evidence), attribution_strength, notes. One observation per actor-episode. Opposed stances across categories => ambiguous in overall stance; preserve category-specific stance. Do not include institutional policy or anonymous aggregate in named respondent tables.
+
+Arguments: argument_id, observation_id, source_id, jurisdiction, date, actor, remuneration_category (one A-E or unspecified_holder), position, rationale, supporting_quote (short verbatim, usually <=25 words PER SOURCE across research prose/datasets to respect retrieved-content limits; use one short shared quote and precise paraphrases/pinpoints for additional arguments), passage_paraphrase, pinpoint, url, attribution_strength, notes. Every positive rationale and substantive stance must have a supporting passage. No quote invention; no search-snippet-only substantive coding. Full archives may preserve source documents without reproducing them as narrative.
+
+Chronology: event_id, jurisdiction, date, date_precision, event_type, actor, event, remuneration_category, position, rationale, source_ids, pinpoint, temporal_inference_limit. Earliest markers must explicitly be bounded-corpus claims. Distinguish legal effective dates from publication/adoption dates.
+
+Categories: A issuer-paid holder interest; B pass-through of reserve/backing income; C third-party/intermediary yield; D activity rewards independent of duration; E issuer income on reserves, including central-bank balances. Never infer B permission merely from A permission or E permission. Map a legal prohibition to B only with explicit pass-through language or label interpretation, distinct from speaker's express position. Broad references to interest with unknown payer/funding source remain unspecified_holder.
+
+Rationale tags: backing_redemption_safety, deposit_displacement_bank_funding, monetary_policy_transmission, financial_stability_run_risk, payments_vs_investment, legal_classification, competition_innovation_consumer_welfare, commercial_viability, other. Distinguish argument invoked from analyst's interpretation. Do not infer causation from resemblance or temporal proximity.
+
+Archive permissible downloaded originals to archive/{jurisdiction}/; extract readable text to extracted/{jurisdiction}/. Hash downloaded bytes SHA-256. Retain access errors and avoid classifying challenge/error HTML as documents. Write jurisdiction research notes separately; root integrates findings only after all source registers are frozen.
+
+Independent second pass: root selects deterministic stratified >=20% named observations across jurisdictions, actor types and stances. A different agent gets blinded source/pinpoint packets without first-pass codes; recodes and records disagreements; root adjudicates against primary source. This is independent AI recoding, not independent human validation.

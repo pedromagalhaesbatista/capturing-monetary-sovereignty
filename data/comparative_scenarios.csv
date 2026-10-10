@@ -1,0 +1,3 @@
+﻿model,scenario,deposit_decline_percent,reduction_in_lending_capacity_USD_billions,source_url,pinpoint,qualification
+Nigrinis,non_interest,6.2,250,https://doi.org/10.2139/ssrn.5586850,"pp6–7,10; table3; framework pp81–82",Rounded model scenario reported by the source; not an observed causal effect.
+Nigrinis,yield_competitive_with_federal_funds_rate,25.9,1500,https://doi.org/10.2139/ssrn.5586850,"pp6–7,10; table3; framework pp81–82",Rounded model scenario reported by the source; not an observed causal effect.

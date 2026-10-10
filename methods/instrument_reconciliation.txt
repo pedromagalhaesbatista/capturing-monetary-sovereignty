@@ -1,0 +1,49 @@
+CODING INSTRUMENT AND PROPAGATION — PACKAGE OF 10 OCTOBER 2026
+
+The substantive evidence cutoff is 2 October 2026. That is not a claim that all
+coding was completed that day. The archived clarification is dated 3 October;
+model-assisted review and adjudication continued after the evidence cutoff.
+The separate qualitative retrieval/inspection supplement is dated 9 October.
+
+The original protocol, final codebook, neutral blind rubric and Clarification 001
+are preserved here. Changes separated issuer interest (A), express reserve-income
+pass-through (B), intermediary rewards (C), activity benefits (D), and issuer
+reserve earnings (E); distinguished descriptive no-position from not-addressed;
+kept broad-ban coverage of B separate from an express B argument; and narrowed
+the safety/income distinction to holder allocation, preserving E-only analysis
+separately. Commercial viability was clarified to include banks, issuers and
+intermediaries where operating revenue/cost or ability to operate was argued.
+
+Second-session reviews cover 320 of 517 observations; 197 have no such second-review
+record. Absence of a second review does not establish that no first-stage semantic
+reading occurred. The sample design targeted substantive/central/institutional
+records and a stratified subset of negatives, with later mandatory batches.
+The package does not certify that every observation potentially affected by every
+definition change was reread under the final instrument. That remains a limitation.
+
+For all 320 reviewed observations, reconcile_reviews.py reconstructs 15 final
+fields from second codes plus the recorded adjudication override, then compares
+them with the final actor dataset: 4,800 comparisons. The original field-level audit is retained in audit/field_reconciliation.csv.
+The recorded dataset matches all 4,800. There are 192 observation-level adjudication decisions. This mechanical
+propagation check is distinct from validating those semantic decisions against
+the original contributions. The remaining 197 records are listed separately.
+
+Figure 1 and stance totals are recalculated from the final actor rows, never from
+summed quotations. Category/position labels on V2ADJ passage rows describe a
+decision context and can differ from final category-specific codes. The apparent
+cross-products are listed in passage_cross_product_diagnostics.csv. Final actor
+category fields govern counts; those rows are not independent votes. The archived
+wording is retained, not silently recoded to force agreement.
+
+Among 245 private no-position rows, 108 have a verified complete-context second
+review, 5 a qualified second review, and 132 no second-review record. Some of the 132
+have first-stage semantic review; others retain keyword/context or survey-answer
+screening. Inspect their recorded scopes individually. All 22 private unknown
+rows have partial-context second review and insufficient-to-classify status.
+No position means no overall recommendation was recorded in the inspected
+material; it does not uniformly certify whole-contribution silence. The strict
+negative-coverage sensitivity output is an exclusion exercise, not a recoding.
+
+Agreement statistics compare earlier codes with a refined instrument. They are
+not reliability under an unchanged instrument, and not independent human coding.
+Safety/income distinction frequency is unsuitable as a robust comparative result.

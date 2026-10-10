@@ -1,0 +1,51 @@
+# Independent source coding instructions
+
+This is a neutral documentary content-analysis task. Read the complete relevant primary submission, including annexes, or the actor's complete contribution within a compiled hearing. Do not read prior coded datasets, findings, earlier reviews, article drafts, or files outside the assigned packet and its linked primary/derived sources. Do not infer the prior coder's answer. Do not treat document length or repeated wording as additional observations.
+
+The packet deliberately omits stance, rationales, selected supporting passages and selection reasons. Actor/source identity is supplied to locate the contribution. Verify source dates, identity and legal status from the document rather than accepting metadata automatically. For a large compiled volume, the actor's complete testimony, questions/answers and adopted attachments are the relevant broad context; identify precisely what you read. Where a contribution cannot be recovered or read adequately, mark it unverified rather than no position.
+
+## Mechanisms
+
+A: the issuer pays holder interest or yield. B: reserve/backing-asset income is distributed to holders. C: a third party/intermediary remunerates holders. D: an activity-based reward/rebate/discount independent of holding duration. E: the issuer earns reserve/backing-asset income, including central-bank balances.
+
+A does not establish B. E does not establish B. A question about the use of reserve income without identifying holders is not B. A money-market fund purchased using a stablecoin is a different product. Contingent indemnity of lost principal is not ordinarily passive income remuneration; preserve explicit boundary cases. A B-funded transaction rebate may be coded B and D only with the activity qualification made explicit; do not turn it into passive B permission.
+
+For each mechanism assign permit, permit conditionally, prohibit, no position, ambiguous, or not_addressed. The last is a coverage value: no relevant category discussion. No position means the category is actually described, questioned or contemplated but no normative recommendation is made. Silence receives not_addressed at category level and no position overall. Ambiguous requires relevant text whose normative direction is unresolved, or conflicting explicit positions. Description of an existing law/model is no position unless the actor adopts or recommends it. The issuing authority's own legal rule is a policy position.
+
+A substantive condition must impose an actual safeguard or policy limitation beyond the definition of the category. Defining D as non-duration/activity-linked is not itself a conditional-permission safeguard. Preserve issuer independence, funding restrictions, caps or other additional conditions.
+
+**B evidence discipline:** assign a substantive B position only when reserve/backing income and payment to holders are explicit in the actor's argument or rule. Broad A/C bans may legally encompass B, but record that separately in `category_B_scope_inference` with its text and limitation; do not count an inferred B prohibition as an explicit B policy argument. For other categories also distinguish express text from scope interpretation in `category_evidence_basis`.
+
+Overall position aggregates A–D only. All unaddressed/no-position categories -> no position. One substantive stance -> that stance. Permit plus permit conditionally -> permit conditionally. Other conflicting directions -> ambiguous. E-only normative positions do not supply an overall holder stance. If the payer is unspecified, preserve `unspecified_holder_position` and use it in aggregation without inventing A/C/B.
+
+## Rationales
+
+Record yes only with a passage linking the rationale to remuneration or its directly relevant proposed design; a general paragraph elsewhere on stablecoin risk is not enough. Record no for absence of invocation, not disagreement. Supply quotation, pinpoint and the direction of the argument.
+
+- deposit_displacement_bank_funding: deposit migration/substitution, funding, lending or credit.
+- monetary_policy_transmission: policy effectiveness or transmission, specified in context.
+- financial_stability_run_risk: runs, contagion, liquidity or systemic instability.
+- payments_vs_investment: payments distinguished from saving, investment or store of value.
+- legal_classification: legal deposit/e-money/security/CIS/AIF or equivalent classification; economic analogy with bank deposits alone is insufficient.
+- competition_innovation_consumer_welfare: competition, innovation, access, choice, consumer costs/benefits.
+- commercial_viability: issuer/intermediary operating costs, revenues or ability to operate.
+
+## Reserve safety versus income allocation
+
+Recode this variable independently for every assigned observation. Use the following subsidiary classification and record the exact passage:
+
+- `explicit_analytical_distinction`: expressly distinguishes principal backing/redemption safety or liquidity from entitlement/allocation of the backing income, or analyzes their compatibility as separate design choices. A source may make the distinction and still oppose remuneration because it changes run incentives; distinction is not agreement that remuneration is riskless.
+- `joint_mention_only`: mentions full backing, reserves or redemption and holder remuneration without expressly analyzing their relationship or separately allocating principal/income. Mentioning E beside A is insufficient.
+- `explicit_equation`: affirmatively equates or denies the separability of backing protection and income allocation. Quote the exact argument; do not infer this from a ban.
+- `not_addressed`: neither relationship is analyzed.
+- `uncertain`: insufficient context to choose; explain.
+
+Map to the legacy flag: explicit_analytical_distinction -> yes; explicit_equation -> no; joint_mention_only/not_addressed -> not_addressed; uncertain -> ambiguous. A legal rule reserving backing income to issuer while restricting holder interest can be a separation of entitlements, but does not automatically analyze the safety/distribution relationship. Explain which proposition the text actually makes.
+
+## Negative review
+
+Read full relevant prose, headings, footnotes, tables and annexes, including indirect economic descriptions and appropriate translated terms. Keyword searches aid navigation but cannot certify semantic absence. Inspect image/scanned pages when extraction is incomplete. Mark `review_depth` as full_document_semantic, full_actor_contribution_semantic, partial_context_only, or unavailable. Record page/section coverage, missing material and any visually checked OCR pages. Never call a partial/blocked read a full negative.
+
+## Output per observation
+
+Return JSON with observation_id; reviewer_id; position; categories A–E; unspecified_holder_position if needed; category_evidence_basis; category_B_scope_inference; all seven rationale flags; reserve_safety_distribution_distinguished; reserve_income_separation_level; source_metadata_verified (source_id, date, actor, title/version, legal_status and pinpoint); review_depth; reviewed_sources; coverage; quotations/pinpoints supporting each positive code; negative_review_note if appropriate; ambiguities; source_access_failures. Keep quotations short and attributable; paraphrases must be labelled. Report contrary evidence within the source. Do not infer private influence, motive or a preferred thesis.

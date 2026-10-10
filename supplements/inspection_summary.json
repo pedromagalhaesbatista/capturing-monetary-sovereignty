@@ -1,0 +1,45 @@
+{
+  "frozen_register_source_records": 2176,
+  "frozen_uninspected_records": 1011,
+  "jurisdiction_breakdown": {
+    "EU": 4,
+    "US": 986,
+    "UK": 21
+  },
+  "own_local_content_records": 50,
+  "distinct_existing_local_paths": 47,
+  "distinct_existing_local_object_hashes": 47,
+  "records_without_own_local_content_path": 961,
+  "own_extracted_text_records_machine_screened_only_unless_review_listed": 42,
+  "distinct_own_extracted_text_objects": 39,
+  "existing_relation_audit": {
+    "linked_included_or_inspected": 59,
+    "linked_partial_review": 12,
+    "linked_duplicate_only": 1,
+    "other_linked": 16,
+    "no_match": 923
+  },
+  "new_full_document_semantic_reads": 3,
+  "new_full_document_semantic_read_pages": 23,
+  "new_targeted_semantic_primary_document_reads": 5,
+  "document_relationship_checks_only": 1,
+  "agency_attachment_attempts": 26,
+  "agency_attachment_failures_403": 26,
+  "respondent_original_pdfs_recovered": 1,
+  "respondent_primary_reader_recoveries_without_original_bytes": 1,
+  "supplemental_status_counts": {
+    "metadata_or_lead_pending_content_recovery": 891,
+    "linked_existing_included_or_inspected; scope_not_inherited": 59,
+    "other_linked_source; still_unresolved": 12,
+    "local_material_pending_semantic_review": 24,
+    "linked_existing_partial_review": 11,
+    "full_document_semantic": 3,
+    "linked_new_supplemental_review; inspect linked scope": 5,
+    "targeted_primary_reader_sections": 1,
+    "targeted_sections_semantic": 4,
+    "document_relationship_inspection_only": 1
+  },
+  "residual_status_note": "Do not subtract all link or screen categories from1,011 to claim a completed semantic universe. Included/inspected records have mixed depths, duplicates require contribution consolidation, and newly targeted reviews do not support full-document negatives.",
+  "original_source_universe_sha256": "8c1673c4594699db46f30998cb3fd1a62a5f2da62b9f230f9998d752824bcf7c",
+  "original_actor_dataset_sha256": "d3fa31b9ad398bcbe09e64f85d921e6ef25969403bc0679631bc239ef96017de"
+}

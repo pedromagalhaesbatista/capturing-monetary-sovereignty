@@ -1,0 +1,518 @@
+observation_id,jurisdiction,respondent_population,actor_identity_key,negative_semantic_review,post_enactment_review_or_implementation,complete_published_collection
+EU-O001,EU,institutional_policy,european central bank,True,False,False
+EU-O002,EU,institutional_policy,european parliament and council,True,False,False
+EU-O003,EU,institutional_policy,european commission,True,False,False
+EU-O004,EU,anonymous_aggregate,unidentified emd-review respondents (commission aggregate summary),False,False,False
+EU-O005,EU,institutional_policy,european commission,True,False,False
+EU-O006,EU,named_public_authority,european central bank,True,False,False
+EU-O007,EU,institutional_policy,european parliament and council,True,False,False
+EU-O008,EU,institutional_policy,european commission,True,False,False
+EU-O009,EU,institutional_policy,european commission,False,False,False
+EU-O010,EU,named_private_respondent,finance watch,False,False,False
+EU-O011,EU,named_private_respondent,beuc,False,False,False
+EU-O012,EU,named_private_respondent,association for financial markets in europe,False,False,False
+EU-O013,EU,named_private_respondent,financial services user group,True,False,False
+EU-O014,EU,named_private_respondent,electronic money association,True,False,False
+EU-O015,EU,named_public_authority,european central bank,True,False,False
+EU-O016,EU,institutional_policy,council of the european union,False,False,False
+EU-O017,EU,institutional_policy,european parliament and council,False,False,False
+EU-O018,EU,institutional_policy,european commission,True,False,False
+EU-O019,EU,institutional_policy,european commission,True,True,False
+EU-O020,EU,named_private_respondent,ulrich bindseil and erwin voloder (joint blockchain for europe report),True,True,False
+EU-O021,EU,named_private_respondent,julian gretzinger,True,True,False
+EU-O022,EU,named_public_authority,european system of central banks,True,True,False
+EU-O023,EU,named_public_authority,european banking authority,True,True,False
+EU-O024,EU,named_private_respondent,electronic money association,True,True,False
+EU-O025,EU,named_private_respondent,financial services user group,True,True,False
+EU-O026,EU,anonymous_input,anonymous respondent f509360,False,False,False
+EU-O027,EU,named_private_respondent,bnp paribas,False,False,False
+EU-O028,EU,named_private_respondent,afti,False,False,False
+EU-O029,EU,institutional_policy,european banking authority,True,False,False
+EU-O030,EU,institutional_policy,european securities and markets authority,True,False,False
+US_O_BILLS-116hr8827ih,US,institutional_policy,rashida tlaib,True,False,False
+US_O_BILLS-118hr4766ih,US,institutional_policy,patrick mchenry,True,False,False
+US_O_BILLS-118hr4766rh,US,institutional_policy,house financial services committee,True,False,False
+US_O_BILLS-118s4155is,US,institutional_policy,cynthia lummis and kirsten gillibrand,False,False,False
+US_O_BILLS-119s394is,US,institutional_policy,bill hagerty and cosponsors,False,False,False
+US_O_STABLE_DraftFeb2025,US,institutional_policy,bryan steil and french hill,False,False,False
+US_O_TRUST,US,institutional_policy,pat toomey,True,False,False
+US_O_Campbell2023,US,named_private_respondent,j. austin campbell,True,False,False
+US_O_Chervinsky2023,US,named_private_respondent,blockchain association,False,False,False
+US_O_HarrisA2023,US,named_public_authority,new york department of financial services (adrienne harris),False,False,False
+US_O_DisparteD2023,US,named_private_respondent,circle,False,False,False
+US_O_ReynoldsHandD2023,US,named_private_respondent,consumer reports (delicia reynolds hand),True,False,False
+US_O_GENIUSMarch,US,institutional_policy,bill hagerty and cosponsors,False,False,False
+US_O_STABLEMarch,US,institutional_policy,bryan steil and french hill,False,False,False
+US_O_Armstrong2025,US,named_private_respondent,coinbase,True,False,False
+US_O_GENIUSMay,US,institutional_policy,bill hagerty and cosponsors,False,False,False
+US_O_SenateMyths,US,institutional_policy,senate banking committee majority,True,False,False
+US_O_FAC2025,US,named_private_respondent,federal advisory council,True,False,False
+US_O_GENIUSFinal,US,institutional_policy,united states congress,False,False,False
+US_O_BPIAugust,US,named_private_respondent,bank policy institute,True,True,False
+US_O_TreasuryANPRM,US,institutional_policy,u.s. treasury,True,True,False
+US_O_CoinbaseTreasury,US,named_private_respondent,coinbase,True,True,False
+US_O_JointTradesTreasury,US,named_private_respondent,"bpi, the clearing house, aba, consumer bankers association and financial services forum",True,True,False
+US_O_BetterMarketsTreasury,US,named_private_respondent,better markets,True,True,False
+US_O_OCC,US,institutional_policy,office of the comptroller of the currency,False,True,False
+US_O_BAOCC,US,named_private_respondent,blockchain association,True,True,False
+US_O_ConsensysOCC,US,named_private_respondent,consensys software inc.,True,True,False
+US_O_MSBAOCC,US,named_private_respondent,money services business association,True,True,False
+US_O_ICBAOCC,US,named_private_respondent,independent community bankers of america,True,True,False
+US_O_CEA,US,institutional_policy,council of economic advisers,True,True,False
+US_O_FDIC,US,institutional_policy,federal deposit insurance corporation,False,True,True
+US_O_DeconflictFDIC,US,named_private_respondent,deconflict inc.,False,True,True
+US_O_InterledgerFDIC,US,named_private_respondent,interledger foundation,True,True,True
+US_O_PayPalFDIC,US,named_private_respondent,paypal,True,True,True
+US_O_CircleFDIC,US,named_private_respondent,circle,True,True,True
+US_O_CoinbaseFDIC,US,named_private_respondent,coinbase,True,True,True
+US_O_ICBAFDIC,US,named_private_respondent,independent community bankers of america,True,True,True
+US_O_CLARITY2026,US,institutional_policy,senate banking committee,False,True,False
+US_O_Fed2026,US,institutional_policy,federal reserve board,False,True,False
+US_O_Marcus2019,US,named_private_respondent,calibra / facebook (david marcus),True,False,False
+UK-O-FSA2002,UK,institutional_policy,financial services authority,False,False,False
+UK-O-HMT2010,UK,institutional_policy,hm treasury,False,False,False
+UK-O-EMR2011,UK,institutional_policy,uk government,False,False,False
+UK-O-HMT2011NEG,UK,institutional_policy,hm treasury,True,False,False
+UK-O-HMT2021NEG,UK,institutional_policy,hm treasury,True,False,False
+UK-O-HMT2022NEG,UK,institutional_policy,hm treasury,True,False,False
+UK-O-HMT2023NEG,UK,institutional_policy,hm treasury,True,False,False
+UK-O-BOE2021,UK,institutional_policy,bank of england,True,False,False
+UK-O-BOE2022AGG,UK,anonymous_aggregate,unidentified respondents reported by bank of england,True,False,False
+UK-O-DPF2021NEG,UK,named_private_respondent,digital pound foundation,False,False,False
+UK-O-EPA2021NEG,UK,named_private_respondent,emerging payments association,True,False,False
+UK-O-BOE2023,UK,institutional_policy,bank of england,True,False,False
+UK-O-FCA2023,UK,institutional_policy,financial conduct authority,True,False,False
+UK-O-UKF2024FCA,UK,named_private_respondent,uk finance,True,False,False
+UK-O-UKF2024BOE,UK,named_private_respondent,uk finance,True,False,False
+UK-O-FCA2025,UK,institutional_policy,financial conduct authority,False,False,False
+UK-O-EMA2025,UK,named_private_respondent,electronic money association,True,False,False
+UK-O-UKF2025,UK,named_private_respondent,uk finance,True,False,False
+UK-O-ICAEW2025NEG,UK,named_private_respondent,icaew,False,False,False
+UK-O-IA2025NEG,UK,named_private_respondent,investment association,True,False,False
+UK-O-CRYPTOUK2025NEG,UK,named_private_respondent,cryptouk,False,False,False
+UK-O-GDF2025,UK,named_private_respondent,global digital finance and crypto council for innovation,True,False,False
+UK-O-BOE2025,UK,institutional_policy,bank of england,True,False,False
+UK-O-GDF2026,UK,named_private_respondent,global digital finance and crypto council for innovation,False,False,False
+UK-O-UKF2026,UK,named_private_respondent,uk finance,True,False,False
+UK-O-IA2026,UK,named_private_respondent,investment association,True,False,False
+UK-O-BOE2026,UK,institutional_policy,bank of england,False,False,False
+UK-O-BOE2026AGG,UK,anonymous_aggregate,unidentified respondents summarized by bank of england,True,False,False
+UK-O-FCA2026,UK,institutional_policy,financial conduct authority,False,True,False
+UK-O-SOTON2025NEG,UK,named_private_respondent,marion laboure and larisa yarovaya,False,False,False
+UK-O-LORDS-COINBASE,UK,named_private_respondent,coinbase,True,False,False
+UK-O-LORDS-WHITE,UK,named_private_respondent,lawrence h. white,True,False,False
+UK-O-LORDS-UKF,UK,named_private_respondent,uk finance,True,False,False
+UK-O-LORDS-ALEXANDER,UK,named_private_respondent,kern alexander,True,False,False
+UK-O-GDFLORDS2026,UK,named_private_respondent,global digital finance and crypto council for innovation,False,False,False
+EUSCA-O001,EU,anonymous_input,anonymous respondent f515372,False,False,False
+EUSCA-O002,EU,named_private_respondent,crypto uk association ltd,False,False,False
+EUSCA-O003,EU,named_private_respondent,fg lawyers b.v.,False,False,False
+EUSCA-O004,EU,named_private_respondent,electronic money association,False,False,False
+EUSCA-O005,EU,named_private_respondent,global digital finance,False,False,False
+EUSCA-O006,EU,anonymous_input,anonymous respondent f515367,False,False,False
+EUSCA-O007,EU,named_private_respondent,deutsche bank ag,False,False,False
+EUSCA-O008,EU,named_private_respondent,european banking federation,False,False,False
+EUSCA-O009,EU,named_private_respondent,italian banking association,False,False,False
+EUSCA-O010,EU,named_private_respondent,flow traders,False,False,False
+EUSCA-O011,EU,named_private_respondent,fédération bancaire française,False,False,False
+EUSCA-O012,EU,named_private_respondent,state street corporation,False,False,False
+EUSCA-O013,EU,anonymous_input,anonymous respondent f515350,True,False,False
+EUSCA-O014,EU,anonymous_input,anonymous respondent f515349,False,False,False
+EUSCA-O015,EU,anonymous_input,anonymous respondent f509387,True,False,False
+EUSCA-O016,EU,anonymous_input,anonymous respondent f509386,False,False,False
+EUSCA-O017,EU,named_private_respondent,london stock exchange group,False,False,False
+EUSCA-O018,EU,anonymous_input,anonymous respondent f509384,False,False,False
+EUSCA-O019,EU,anonymous_input,anonymous respondent f509383,False,False,False
+EUSCA-O020,EU,named_private_respondent,association of german banks (bundesverband deutscher banken),False,False,False
+EUSCA-O021,EU,named_private_respondent,better finance - the european federation of investors and financial services users,False,False,False
+EUSCA-O022,EU,named_private_respondent,stichting crypto delta / digital assets delta foundation,False,False,False
+EUSCA-O023,EU,named_private_respondent,dolya consulting,False,False,False
+EUSCA-O024,EU,named_private_respondent,chainslayer b.v.,False,False,False
+EUSCA-O025,EU,named_private_respondent,association de la finance digitale a.s.b.l,False,False,False
+EUSCA-O026,EU,named_private_respondent,ripple labs,False,False,False
+EUSCA-O027,EU,named_private_respondent,international association of trusted blockchain applications - inatba,False,False,False
+EUSCA-O028,EU,named_private_respondent,blockchain for europe,False,False,False
+EUSCA-O029,EU,named_private_respondent,fintelum,False,False,False
+EUSCA-O030,EU,named_private_respondent,ernst & young,True,False,False
+EUSCA-O031,EU,anonymous_input,anonymous respondent f509367,False,False,False
+EUSCA-O032,EU,anonymous_input,anonymous respondent f509366,False,False,False
+EUSCA-O033,EU,named_private_respondent,association of credit card issuers europe (accie),False,False,False
+EUSCA-O034,EU,named_public_authority,comision nacional del mercado de valores (cnmv),False,False,False
+EUSCA-O035,EU,anonymous_input,anonymous respondent f509362,False,False,False
+EUSCA-O036,EU,named_private_respondent,goobit group ab,False,False,False
+EUSCA-O037,EU,named_private_respondent,advisory committee of the cnmv. it has been established by the spanish securities market act as the consultative body of the cnmv. this committee is composed by market participants.,False,False,False
+EUSCA-O038,EU,named_private_respondent,nasdaq,False,False,False
+EUSCA-O039,EU,named_private_respondent,"babel-blockchains and artificial intelligence for business, economics and law in the department of economics and management at the university of florence",False,False,False
+EUSCA-O040,EU,named_private_respondent,counter extremism project germany ggmbh,False,False,False
+EUSCA-O041,EU,anonymous_input,anonymous respondent f509354,False,False,False
+EUSCA-O042,EU,anonymous_input,anonymous respondent f509353,False,False,False
+EUSCA-O043,EU,named_private_respondent,federation of european securities exchanges,True,False,False
+EUSCA-O044,EU,named_private_respondent,bitpanda gmbh,False,False,False
+EUSCA-O045,EU,anonymous_input,anonymous respondent f509347,False,False,False
+EUSCA-O046,EU,anonymous_input,anonymous respondent f509344,False,False,False
+EUSCA-O047,EU,anonymous_input,anonymous respondent f509343,False,False,False
+EUSCA-O048,EU,anonymous_input,anonymous respondent f509340,False,False,False
+EUSCA-O049,EU,named_private_respondent,börse stuttgart,False,False,False
+EUSCA-O050,EU,anonymous_input,anonymous respondent f509333,False,False,False
+EUSCA-O051,EU,named_private_respondent,paypal,True,False,False
+EUSCA-O052,EU,named_private_respondent,fountain gmbh (in formation),False,False,False
+EUSCA-O053,EU,named_private_respondent,cyber capital,True,False,False
+EUSCA-O054,EU,named_private_respondent,paris europlace,False,False,False
+EUSCA-O055,EU,anonymous_input,anonymous respondent f509326,True,False,False
+EUSCA-O056,EU,anonymous_input,anonymous respondent f509325,False,False,False
+EUSCA-O057,EU,named_private_respondent,esbg (european savings and retail banking group),False,False,False
+EUSCA-O058,EU,anonymous_input,anonymous respondent f509323,False,False,False
+EUSCA-O059,EU,named_private_respondent,"coinlex, a network of lawyer, tax consultants, cpas and auditors expert in crypto-assets.",False,False,False
+EUSCA-O060,EU,named_private_respondent,association pour le développement des actifs numériques,False,False,False
+EUSCA-O061,EU,named_private_respondent,lithuanian free market institute,True,False,False
+EUSCA-O062,EU,named_private_respondent,deutscher sparkassen- und giroverband e. v.,False,False,False
+EUSCA-O063,EU,anonymous_input,anonymous respondent f509318,False,False,False
+EUSCA-O064,EU,named_public_authority,caisse des dépôts et consignations,False,False,False
+EUSCA-O065,EU,named_private_respondent,r3 llc.,False,False,False
+EUSCA-O066,EU,anonymous_input,anonymous respondent f509315,False,False,False
+EUSCA-O067,EU,named_public_authority,finnish financial supervisory authority (fin-fsa),False,False,False
+EUSCA-O068,EU,anonymous_input,anonymous respondent f509313,False,False,False
+EUSCA-O069,EU,named_private_respondent,german banking industry committee,False,False,False
+EUSCA-O070,EU,named_private_respondent,iota stiftung (iota foundation),False,False,False
+EUSCA-O071,EU,named_private_respondent,iness - institute of economic and social studies,False,False,False
+EUSCA-O072,EU,named_private_respondent,decentralised finance group,True,False,False
+EUSCA-O073,EU,named_private_respondent,swedish securities dealers association,False,False,False
+EUSCA-O074,EU,named_private_respondent,european central securities depositories association (ecsda),False,False,False
+EUSCA-O075,EU,anonymous_input,anonymous respondent f509306,True,False,False
+EUSCA-O076,EU,named_public_authority,"austrian financial market authority (fma), austrian ministry of finance (bmf), austrian national bank (oenb) [combined statement]",False,False,False
+EUSCA-O077,EU,anonymous_input,anonymous respondent f509304,False,False,False
+EUSCA-O078,EU,anonymous_input,anonymous respondent f509303,False,False,False
+EUSCA-O079,EU,named_private_respondent,european crowdfunding network aisbl,False,False,False
+EUSCA-O080,EU,named_private_respondent,xreg consulting limited,False,False,False
+EUSCA-O081,EU,anonymous_input,anonymous respondent f509300,False,False,False
+EUSCA-O082,EU,named_private_respondent,datev eg,False,False,False
+EUSCA-O083,EU,named_private_respondent,danske bank,True,False,False
+EUSCA-O084,EU,named_private_respondent,bvi,False,False,False
+EUSCA-O085,EU,anonymous_input,anonymous respondent f509295,False,False,False
+EUSCA-O086,EU,named_private_respondent,european association of co-operative banks,False,False,False
+EUSCA-O087,EU,named_private_respondent,finance denmark,False,False,False
+EUSCA-O088,EU,named_private_respondent,thinkblocktank a.s.b.l.,False,False,False
+EUSCA-O089,EU,named_public_authority,stabsstelle für finanzplatzinnovation der regierung des fürstentums liechtenstein,False,False,False
+EUSCA-O090,EU,named_private_respondent,european venues and intermediaries association [“evia”],False,False,False
+EUSCA-O091,EU,named_private_respondent,multichain asset managers association (mama),False,False,False
+EUSCA-O092,EU,named_private_respondent,"royal united services institute (rusi), centre for financial crime & security studies",False,False,False
+EUSCA-O093,EU,anonymous_input,anonymous respondent f509286,False,False,False
+EUSCA-O094,EU,named_private_respondent,international capital market association (icma),True,False,False
+EUSCB-O001,EU,named_private_respondent,association of national numbering agencies scrl (anna),True,False,False
+EUSCB-O002,EU,named_private_respondent,the world federation of exchanges,False,False,False
+EUSCB-O003,EU,named_private_respondent,banca sella holding,False,False,False
+EUSCB-O004,EU,anonymous_input,anonymous respondent f509281,False,False,False
+EUSCB-O005,EU,anonymous_input,anonymous respondent f509230,False,False,False
+EUSCB-O006,EU,named_private_respondent,european payment institutions federation (epif),False,False,False
+EUSCB-O007,EU,named_private_respondent,bitkom e.v.,False,False,False
+EUSCB-O008,EU,named_private_respondent,european association of ccp clearing houses (each),False,False,False
+EUSCB-O009,EU,named_private_respondent,bme,False,False,False
+EUSCB-O010,EU,anonymous_input,anonymous respondent f509221,False,False,False
+EUSCB-O011,EU,anonymous_input,anonymous respondent f509215,False,False,False
+EUSCB-O012,EU,anonymous_input,anonymous respondent f509214,False,False,False
+EUSCB-O013,EU,named_private_respondent,nikola tchouparov,False,False,False
+EUSCB-O014,EU,anonymous_input,anonymous respondent f509203,False,False,False
+EUSCB-O015,EU,named_private_respondent,financial markets law committee (fmlc),False,False,False
+EUSCB-O016,EU,anonymous_input,anonymous respondent f509196,False,False,False
+EUSCB-O017,EU,anonymous_input,anonymous respondent f509189,True,False,False
+EUSCB-O018,EU,named_private_respondent,global legal entity identifier foundation,False,False,False
+EUSCB-O019,EU,named_private_respondent,nägele attorneys at law llc,False,False,False
+EUSCB-O020,EU,named_private_respondent,spectrocoin,False,False,False
+EUSCB-O021,EU,named_private_respondent,verum capital ag,False,False,False
+EUSCB-O022,EU,named_private_respondent,wirex,True,False,False
+EUSCB-O023,EU,named_private_respondent,tobias dahlberg,False,False,False
+EUSCB-O024,EU,named_private_respondent,capexmove ltd,False,False,False
+EUSCB-O025,EU,anonymous_input,anonymous respondent f508733,False,False,False
+EUSCB-O026,EU,named_private_respondent,deutsche börse group,False,False,False
+EUSCB-O027,EU,named_private_respondent,utocat,True,False,False
+EUSCB-O028,EU,named_private_respondent,rolf leder,False,False,False
+EUSCB-O029,EU,named_private_respondent,the depository trust & clearing corporation (dtcc),False,False,False
+EUSCB-O030,EU,anonymous_input,anonymous respondent f508602,False,False,False
+EUSCB-O031,EU,anonymous_input,anonymous respondent f508576,False,False,False
+EUSCB-O032,EU,named_private_respondent,association of the luxembourg fund industry,False,False,False
+EUSCB-O033,EU,anonymous_input,anonymous respondent f508440,True,False,False
+EUSCB-O034,EU,named_private_respondent,nestor merayo,False,False,False
+EUSCB-O035,EU,named_public_authority,czech national bank,False,False,False
+EUSCB-O036,EU,named_private_respondent,julian gretzinger,False,False,False
+EUSCB-O037,EU,named_private_respondent,crypto economy organisation,True,False,False
+EUSCB-O038,EU,named_private_respondent,"dr. jonathan levy, attorney (us) & solicitor (ireland)",False,False,False
+EUSCB-O039,EU,anonymous_input,anonymous respondent f515354,False,False,False
+EUSCB-O040,EU,named_private_respondent,forgeone,False,False,False
+EUSCB-O041,EU,named_private_respondent,david siegel,False,False,False
+EUSCB-O042,EU,named_private_respondent,maurizio bello,False,False,False
+EUSCB-O043,EU,named_private_respondent,creative investment research,False,False,False
+EUSCB-O044,EU,named_private_respondent,christoffer de geer,False,False,False
+EUSCB-O045,EU,anonymous_input,anonymous respondent f506871,True,False,False
+EUSCB-O046,EU,anonymous_input,anonymous respondent f506870,False,False,False
+EUSCB-O047,EU,anonymous_input,anonymous respondent f506869,False,False,False
+EUSCB-O048,EU,anonymous_input,anonymous respondent f506868,False,False,False
+EUSCB-O049,EU,anonymous_input,anonymous respondent f506867,False,False,False
+EUSCB-O050,EU,named_private_respondent,klickown ag,False,False,False
+EUSCB-O051,EU,anonymous_input,anonymous respondent f506865,True,False,False
+EUSCB-O052,EU,named_private_respondent,marc-antoine van haute,True,False,False
+EUSCB-O053,EU,named_private_respondent,datafloq b.v.,False,False,False
+EUSCB-O054,EU,named_private_respondent,links foundation,True,False,False
+EUSCB-O055,EU,named_private_respondent,centre européen de droit d'économie,False,False,False
+EUSCB-O056,EU,named_private_respondent,educablock.com,False,False,False
+EUSCB-O057,EU,anonymous_input,anonymous respondent f503462,False,False,False
+EUSCB-O058,EU,anonymous_input,anonymous respondent f503658,False,False,False
+EUSCB-O059,EU,anonymous_input,anonymous respondent f503358,False,False,False
+EUSCB-O060,EU,anonymous_input,anonymous respondent f503692,False,False,False
+EUSCB-O061,EU,anonymous_input,anonymous respondent f503329,False,False,False
+EUSCB-O062,EU,anonymous_input,anonymous respondent f503701,False,False,False
+EUSCB-O063,EU,anonymous_input,anonymous respondent f503307,False,False,False
+EUSCB-O064,EU,named_private_respondent,giuseppe zileni,True,False,False
+EUSCB-O065,EU,anonymous_input,anonymous respondent f503216,False,False,False
+EUSCB-O066,EU,named_private_respondent,sami darwish,False,False,False
+EUSCB-O067,EU,anonymous_input,anonymous respondent f503818,False,False,False
+EUSCB-O068,EU,anonymous_input,anonymous respondent f503817,False,False,False
+EUSCB-O069,EU,anonymous_input,anonymous respondent f503816,False,False,False
+EUSCB-O070,EU,named_private_respondent,martijnbolt.com,True,False,False
+EUSCB-O071,EU,anonymous_input,anonymous respondent f503814,True,False,False
+EUSCB-O072,EU,anonymous_input,anonymous respondent f503813,True,False,False
+EUSCB-O073,EU,anonymous_input,anonymous respondent f503812,False,False,False
+EUSCB-O074,EU,anonymous_input,anonymous respondent f503811,False,False,False
+EUSCB-O075,EU,named_private_respondent,giampaolo scatozza,True,False,False
+EUSCB-O076,EU,anonymous_input,anonymous respondent f503809,False,False,False
+EUSCB-O077,EU,named_private_respondent,diseo ag,False,False,False
+EUSCB-O078,EU,anonymous_input,anonymous respondent f503807,False,False,False
+EUSCB-O079,EU,named_private_respondent,ferenc vágujhelyi,False,False,False
+EUSCB-O080,EU,named_private_respondent,wamo.io,False,False,False
+EUSCB-O081,EU,anonymous_input,anonymous respondent f503804,False,False,False
+EUSCB-O082,EU,anonymous_input,anonymous respondent f503803,False,False,False
+EUSCB-O083,EU,anonymous_input,anonymous respondent f502757,False,False,False
+EUSCB-O084,EU,anonymous_input,anonymous respondent f504541,False,False,False
+EUSCB-O085,EU,anonymous_input,anonymous respondent f504540,False,False,False
+EUSCB-O086,EU,anonymous_input,anonymous respondent f504539,False,False,False
+EUSCB-O087,EU,named_private_respondent,edgar borges,True,False,False
+EUSCB-O088,EU,anonymous_input,anonymous respondent f504537,False,False,False
+EUSCB-O089,EU,named_private_respondent,tiago pratas,False,False,False
+EUSCB-O090,EU,named_private_respondent,panagiotis mekras,False,False,False
+EUSCB-O091,EU,anonymous_input,anonymous respondent f504534,True,False,False
+EUSCB-O092,EU,anonymous_input,anonymous respondent f504533,False,False,False
+EUSCB-O093,EU,named_private_respondent,tiago amorim,False,False,False
+EUSCB-O094,EU,anonymous_input,anonymous respondent f507334,True,False,False
+EUSCB-O095,EU,anonymous_input,anonymous respondent f507333,True,False,False
+FDICS-O002,US,named_private_respondent,michael ravnitzky,True,False,True
+FDICS-O003,US,named_private_respondent,international bancshares corporation,False,True,True
+FDICS-O004,US,named_private_respondent,kayanda llc,False,False,True
+FDICS-O005,US,named_private_respondent,veloxvfx llc,True,True,True
+FDICS-O009,US,named_private_respondent,daniel wheeler / the fintech lawyer,False,True,True
+FDICS-O010,US,named_private_respondent,eric l. anderson,False,False,True
+FDICS-O011,US,named_private_respondent,auditchain labs ag,False,True,True
+FDICS-O012,US,named_private_respondent,consensys software inc.,True,True,True
+FDICS-O013,US,named_private_respondent,sds municipal consulting llc,False,True,True
+FDICS-O015,US,named_private_respondent,capitol federal savings bank,True,True,True
+FDICS-O016,US,named_private_respondent,turnhouse consulting,True,True,True
+FDICS-O017,US,named_private_respondent,value chain risk institute,True,True,True
+FDICS-O018,US,named_private_respondent,aimichia technology co. ltd.,True,True,True
+FDICS-O019,US,named_private_respondent,chainalysis,True,True,True
+FDICS-O020,US,named_private_respondent,texas bankers association,True,True,True
+FDICS-O021,US,named_private_respondent,white buffalo alliance / indigenous nations tribal reserve,False,True,True
+FDICS-O022,US,named_private_respondent,global legal entity identifier foundation,False,True,True
+FDICS-O023,US,named_private_respondent,american bankers association,True,True,True
+FDICS-O024,US,named_private_respondent,better markets,True,True,True
+FDICS-O025,US,named_private_respondent,bank policy institute / consumer bankers association,True,True,True
+FDICS-O026,US,named_private_respondent,center for audit quality,True,True,True
+FDICS-O027,US,named_private_respondent,custodia bank inc.,True,True,True
+FDICS-O028,US,named_private_respondent,stellar development foundation,False,True,True
+FDICS-O029,US,named_private_respondent,attion consulting llc,True,True,True
+FDICS-O030,US,named_private_respondent,kansas bankers association,True,True,True
+FDICS-O031,US,named_private_respondent,fiserv inc.,False,True,True
+FDICS-O032,US,named_private_respondent,independent bankers association of texas,True,True,True
+FDICS-O033,US,named_private_respondent,national community reinvestment coalition,True,True,True
+FDICS-O034,US,named_private_respondent,paradigm operations lp,True,True,True
+FDICS-O035,US,named_private_respondent,usbc inc.,True,True,True
+FDICS-O036,US,named_private_respondent,main street foundation / center for regulatory analysis and engagement,False,True,True
+FDICS-O037,US,named_private_respondent,hsbc global payments solutions,False,True,True
+FDICS-O038,US,named_private_respondent,societe generale,False,True,True
+FDICS-O039,US,named_private_respondent,twilight os inc.,False,True,True
+FDICS-O040,US,named_private_respondent,bank policy institute / the clearing house association / consumer bankers association,False,True,True
+FDICS-O041,US,named_private_respondent,bank of new york mellon,False,True,True
+FDICS-O042,US,named_private_respondent,paxos,True,True,True
+FDICS-O043,US,named_private_respondent,institute of international bankers,True,True,True
+FDICS-O044,US,named_private_respondent,wisconsin bankers association,False,True,True
+FDICS-O045,US,named_private_respondent,a+ protocols,False,True,True
+FDICS-O047,US,named_private_respondent,ripple labs,False,True,True
+FDICS-O048,US,named_private_respondent,the digital chamber,False,True,True
+FDICS-O049,US,named_private_respondent,blockchain association,True,True,True
+FDICS-O050,US,named_private_respondent,usig digital inc.,True,False,True
+FDICS-O051,US,named_private_respondent,crypto council for innovation,True,True,True
+FDICS-O053,US,named_private_respondent,settlement integrity institute,True,True,True
+FDICS-O054,US,named_private_respondent,digital asset holdings llc / canton network,False,True,True
+FDICS-O057,US,named_private_respondent,american institute of cpas,False,True,True
+FDICS-O058,US,named_private_respondent,ddcp foundation inc. / ddusd llc (in formation) / ddcp reserve management foundation,False,True,True
+FDICS-O059,US,named_private_respondent,robert rukowski,False,False,True
+FDICS-O060,US,named_public_authority,conference of state bank supervisors,True,True,True
+FDICS-O061,US,named_private_respondent,mona armande,True,True,True
+FDICS-O062,US,named_private_respondent,james zeng (personal capacity),True,True,True
+LORDSO-O-BOE,UK,named_public_authority,bank of england,True,False,False
+LORDSO-O-GILES,UK,named_private_respondent,chris giles,True,False,False
+LORDSO-O-HMT,UK,named_public_authority,hm treasury,False,False,False
+LORDSO-O-REVOLUT,UK,named_private_respondent,revolut,True,False,False
+LORDSW-O001,UK,named_private_respondent,agant finance limited,True,False,False
+LORDSW-O003,UK,named_private_respondent,the american institute of cpas and the chartered institute of management accountants,True,False,False
+LORDSW-O006,UK,named_private_respondent,professor filippo annunziata,True,False,False
+LORDSW-O007,UK,anonymous_input,anonymous,False,False,False
+LORDSW-O008,UK,named_private_respondent,association for financial markets in europe,True,False,False
+LORDSW-O010,UK,named_private_respondent,alexander bowder,False,False,False
+LORDSW-O011,UK,named_private_respondent,professor ross buckley,True,False,False
+LORDSW-O012,UK,named_private_respondent,hleb buziuk,False,False,False
+LORDSW-O014,UK,named_private_respondent,"the centre of fintech, university of east london",False,False,False
+LORDSW-O016,UK,named_private_respondent,circle,False,False,False
+LORDSW-O019,UK,named_private_respondent,christopher clarke,True,False,False
+LORDSW-O023,UK,named_private_respondent,richard crook,False,False,False
+LORDSW-O026,UK,named_private_respondent,dr daniele d’alvia,False,False,False
+LORDSW-O030,UK,named_public_authority,financial conduct authority,True,False,False
+LORDSW-O032,UK,named_private_respondent,alan fletcher,False,False,False
+LORDSW-O037,UK,named_private_respondent,professor andros gregoriou,False,False,False
+LORDSW-O039,UK,named_private_respondent,mark henderson,False,False,False
+LORDSW-O042,UK,named_private_respondent,anjum hoda,True,False,False
+LORDSW-O043,UK,named_private_respondent,scott howard,False,False,False
+LORDSW-O050,UK,named_private_respondent,simon alexander legge,True,False,False
+LORDSW-O052,UK,named_private_respondent,mastercard,True,False,False
+LORDSW-O058,UK,named_private_respondent,natwest group,True,False,False
+LORDSW-O059,UK,named_private_respondent,notabene inc.,True,False,False
+LORDSW-O061,UK,named_private_respondent,robert john paulley,False,False,False
+LORDSW-O062,UK,anonymous_input,anonymous respondent sta0013,False,False,False
+LORDSW-O063,UK,named_private_respondent,prici foundation,True,False,False
+LORDSW-O066,UK,named_private_respondent,richard ridyard,False,False,False
+LORDSW-O068,UK,named_private_respondent,tony salmon,False,False,False
+LORDSW-O069,UK,named_private_respondent,santander,True,False,False
+LORDSW-O070,UK,named_private_respondent,scottish centre of excellence,True,False,False
+LORDSW-O071,UK,named_private_respondent,signet stack ltd.,True,False,False
+LORDSW-O072,UK,named_private_respondent,"anthony song, rachel phang, jason grant allen",True,False,False
+LORDSW-O073,UK,named_private_respondent,stand with crypto in the uk,False,False,False
+LORDSW-O074,UK,named_private_respondent,stripe,True,False,False
+LORDSW-O075,UK,named_private_respondent,superteam uk,True,False,False
+LORDSW-O076,UK,named_private_respondent,aisha tariq,False,False,False
+LORDSW-O078,UK,named_private_respondent,uk cryptoasset business council,True,False,False
+LORDSW-O082,UK,named_private_respondent,"arthur e. wilmarth, jr.",False,False,False
+LORDSW-O084,UK,named_private_respondent,youhodler sa,True,False,False
+LORDSW-O085,UK,named_private_respondent,hilary j. allen,False,False,False
+USHS-O001,US,institutional_policy,cynthia lummis and kirsten gillibrand,False,False,False
+USHS-O002,US,institutional_policy,"president’s working group, fdic and occ",True,False,False
+USHS-O003,US,named_private_respondent,open markets institute (alexis goldstein),True,False,False
+USHS-O004,US,named_private_respondent,jai massari (personal capacity; davis polk partner),True,False,False
+USHS-O005,US,named_private_respondent,circle,False,False,False
+USHS-O006,US,named_private_respondent,hilary j. allen,False,False,False
+USHS-O007,US,named_private_respondent,ftx,True,False,False
+USHS-O008,US,institutional_policy,pat toomey,True,False,False
+USHS-O009,US,named_private_respondent,crypto council for innovation,True,False,False
+USHS-O010,US,named_private_respondent,electronic transactions association,True,False,False
+USHS-O011,US,named_private_respondent,americans for financial reform,False,False,False
+USHS-O012,US,named_private_respondent,bank policy institute,False,False,False
+USHS-O013,US,named_private_respondent,credit union national association,True,False,False
+USHS-O014,US,named_private_respondent,independent community bankers of america,False,False,False
+USHS-O015,US,named_private_respondent,national association of federally-insured credit unions,False,False,False
+USHS-O016,US,named_private_respondent,public citizen,True,False,False
+USHS-O017,US,named_private_respondent,joint civil-society letter (14 named organizations),False,False,False
+USHS-O018,US,institutional_policy,bill foster,True,False,False
+USHS-O019,US,named_private_respondent,electronic privacy information center,True,False,False
+USHS-O020,US,named_private_respondent,independent community bankers of america,True,False,False
+USHS-O021,US,named_private_respondent,national association of federally-insured credit unions,True,False,False
+USHS-O022,US,named_private_respondent,caitlin long (personal capacity),True,False,False
+USHS-O023,US,institutional_policy,jerry moran,True,False,False
+USHS-O024,US,institutional_policy,john hickenlooper,True,False,False
+USHS-O025,US,institutional_policy,elizabeth warren,True,False,False
+USHS-O026,US,named_private_respondent,bank of new york mellon,False,False,False
+USHS-O027,US,named_private_respondent,paxos,False,False,False
+USHS-O028,US,named_private_respondent,stripe,True,False,False
+USHS-O029,US,named_private_respondent,randall guynn (personal capacity; davis polk),True,False,False
+USHS-O030,US,named_private_respondent,carole house (personal capacity; atlantic council),True,False,False
+V2EU-O001,EU,anonymous_aggregate,"certain member states (unnamed, reported by commission)",True,False,False
+V2EU-O002,EU,institutional_policy,council presidency,True,False,False
+V2EU-O003,EU,institutional_policy,european parliament (econ report),False,False,False
+V2EU-O004,EU,named_private_respondent,association for financial markets in europe,True,True,False
+V2EU-O005,EU,named_private_respondent,global blockchain business council,True,True,False
+V2EU-O006,EU,named_private_respondent,wh partners,False,True,False
+V2EU-O007,EU,named_private_respondent,greenfield capital,False,True,False
+V2EU-O008,EU,named_public_authority,austrian financial market authority,False,True,False
+V2EU-O009,EU,named_private_respondent,stand with crypto europe,True,False,False
+V2EU-O010,EU,named_private_respondent,coinbase,True,False,False
+V2EU-O011,EU,named_public_authority,european securities and markets authority,False,True,False
+V2EU-O012,EU,named_private_respondent,defi education fund,False,True,False
+V2EU-O013,EU,named_private_respondent,circle,False,True,False
+V2FDIC-O001,US,named_private_respondent,american bankers association / bank policy institute / consumer bankers association / independent community bankers of america,True,True,True
+V2FDIC-O002,US,named_private_respondent,iso technical committee 68 standards advisory group,True,True,True
+V2FDIC-O003,US,named_private_respondent,the institute of internal auditors,True,True,True
+V2LATE-UK-O001,UK,anonymous_aggregate,anonymous participants reported by fca (stablecoin sprint and trade-finance roundtable),True,True,False
+V2LATE-US-O001,US,named_private_respondent,south dakota bankers association,True,True,False
+NCUAF-O001,US,named_private_respondent,tokenization systems (zach zukowski),False,True,False
+NCUAF-O002,US,named_private_respondent,veloxvfx llc,True,True,False
+NCUAF-O003,US,named_private_respondent,association of national numbering agencies (anna),True,True,False
+NCUAF-O004,US,named_private_respondent,new york credit union association,True,True,False
+NCUAF-O005,US,named_private_respondent,digital token identifier foundation and product advisory committee,True,True,False
+NCUAF-O006,US,named_private_respondent,mark e. budnitz (personal capacity),True,True,False
+NCUAF-O007,US,named_private_respondent,global legal entity identifier foundation,True,True,False
+NCUAF-O008,US,named_private_respondent,trustage,True,True,False
+NCUAF-O009,US,named_private_respondent,better markets,True,True,False
+NCUAF-O010,US,named_private_respondent,"cooperative credit union association, inc.",True,True,False
+NCUAF-O011,US,named_private_respondent,alm first,True,True,False
+NCUAF-O012,US,named_private_respondent,american bankers association; consumer bankers association; bank policy institute; independent community bankers of america (joint submission),False,True,False
+NCUAF-O013,US,named_private_respondent,iso/tc 68/ag2 standards advisory group (todd albers and karla mckenna),True,False,False
+NCUAF-O014,US,named_private_respondent,defense credit union council,True,True,False
+NCUAF-O015,US,named_private_respondent,corporate credit union alliance,True,True,False
+NCUAF-O016,US,named_private_respondent,xbrl us,True,True,False
+NCUAF-O017,US,named_private_respondent,circle,True,True,False
+NCUAF-O018,US,named_private_respondent,"main street foundation, center for regulatory analysis and engagement (andrew m. langer)",True,True,False
+NCUAF-O019,US,named_private_respondent,illinois credit union league,False,True,False
+NCUAF-O020,US,named_private_respondent,america's credit unions,True,True,False
+NCUAF-O021,US,named_public_authority,national association of state credit union supervisors (nascus),False,True,False
+NCUAF-O022,US,named_private_respondent,robert e. rutkowski,True,True,False
+V2ROOT-O001,US,named_private_respondent,greg baer (bpi president; personal prepared remarks),True,False,False
+V2ROOT-O003,US,named_private_respondent,american bankers association and state banking associations (joint),True,False,False
+V2ROOT-O005,US,institutional_policy,bill hagerty,False,False,False
+V2ROOT-O003ANS,US,institutional_policy,bryan steil,False,False,True
+V2ROOT-O019,US,institutional_policy,stephen f. lynch,True,False,True
+UKV2-O-EMA2026,UK,named_private_respondent,electronic money association,True,False,False
+UKV2-O-ISDA2026,UK,named_private_respondent,international swaps and derivatives association,False,False,False
+UKV2-O-CITYLORDS,UK,named_public_authority,city of london corporation,True,False,False
+UKV2-O-CLEARBANKLORDS,UK,named_private_respondent,clearbank limited,True,False,False
+UKV2-O-CRYPTOCOMLORDS,UK,named_private_respondent,crypto.com,False,False,False
+UKV2-O-DCGGLORDS,UK,named_private_respondent,digital currencies governance group,True,False,False
+UKV2-O-CAVANAGHLORDS,UK,named_private_respondent,paul cavanagh,False,False,False
+UKV2-O-ENTREPRENEURSLORDS,UK,named_private_respondent,entrepreneurs network,True,False,False
+UKV2-O-EVOQLORDS,UK,named_private_respondent,evoq limited (submission by zipwire),True,False,False
+UKV2-O-GBTDLORDS,UK,named_private_respondent,great british tokenised deposit project,True,False,False
+UKV2-O-HALLETTLORDS,UK,named_private_respondent,charlie hallett,True,False,False
+UKV2-O-IALORDS,UK,named_private_respondent,investment association,True,False,False
+UKV2-O-KENDRICKLORDS,UK,named_private_respondent,paul kendrick,True,False,False
+UKV2-O-LECKOWLORDS,UK,named_private_respondent,ross leckow,False,False,False
+UKV2-O-LOCAPERKLORDS,UK,named_private_respondent,locaperk limited,True,False,False
+UKV2-O-ANON12LORDS,UK,anonymous_input,anonymous respondent (sta0012),True,False,False
+UKV2-O-MCMULLENLORDS,UK,named_private_respondent,george mcmullen,False,False,False
+UKV2-O-PRICELORDS,UK,named_private_respondent,david price,True,False,False
+UKV2-O-RIPPLELORDS,UK,named_private_respondent,ripple,True,False,False
+UKV2-O-GRAYLORDS,UK,named_private_respondent,martyn gray,True,False,False
+UKV2-O-CP117,UK,institutional_policy,financial services authority,False,False,False
+UKV2-O-PS117AGG,UK,anonymous_aggregate,unidentified respondents summarized by fsa (cp117),True,False,False
+UKV2-O-AFME2026,UK,named_private_respondent,association for financial markets in europe,True,False,False
+UKV2-O-CRYPTOUK2026,UK,named_private_respondent,cryptouk,True,False,False
+UKV2-O-IRSG2026,UK,named_private_respondent,international regulatory strategy group,True,False,False
+UKV2-O-FMLC2026,UK,named_private_respondent,financial markets law committee,False,False,False
+UKV2-O-WSBA2026,UK,named_private_respondent,wall street blockchain alliance,True,False,False
+UKV2-O-UKCBC2026,UK,named_private_respondent,uk cryptoasset business council,True,False,False
+UKV2-O-INNOVATELORDS,UK,named_private_respondent,innovate finance,True,False,False
+UKV2-O-TPALORDS,UK,named_private_respondent,payments association,False,False,False
+UKV2-O-CITYUKLORDS,UK,named_private_respondent,thecityuk,True,False,False
+UKV2-O-MILNELORDS,UK,named_private_respondent,alistair milne,True,False,False
+UKV2-O-UKF2021,UK,named_private_respondent,uk finance and asset and liability management association,True,False,False
+UKV2-O-EMA2024,UK,named_private_respondent,electronic money association,True,False,False
+USV2-NCUA-O013,US,named_private_respondent,"solari, inc.",True,True,False
+USV2-NCUA-O022,US,named_private_respondent,paradigm operations lp,True,True,False
+USV2-NCUA-O025,US,named_private_respondent,the league of credit unions & affiliates,True,True,False
+USV2-NCUA-O026,US,named_private_respondent,cornerstone credit union league,True,True,False
+USV2-NCUA-O027,US,named_private_respondent,the digital chamber,False,True,False
+USV2-ABA-O001,US,named_private_respondent,american bankers association,True,False,False
+USV2-ABA-O002,US,named_private_respondent,american bankers association,True,False,False
+USV2-OCC-O0234,US,named_private_respondent,competitive enterprise institute,False,True,False
+USV2-OCC-O0249,US,named_private_respondent,american bankers association and state bankers associations (joint submission),True,True,False
+USV2-OCC-O0214,US,named_public_authority,conference of state bank supervisors and money transmitter regulators association,True,True,False
+USV2-OCC-O0303,US,named_private_respondent,paypal,True,True,False
+USV2-PENDING-O001,US,named_public_authority,conference of state bank supervisors,True,True,False
+USV2-PENDING-O002,US,named_private_respondent,milken institute,True,True,False
+USV2-PENDING-O003,US,named_private_respondent,crypto council for innovation and blockchain association (joint submission),True,True,False
+USV2-PENDING-O004,US,named_private_respondent,"aba, america’s credit unions, amba, cdba, dcuc, inclusiv, icba and national bankers association (joint submission)",True,True,False
+USV2-PENDING-O005,US,named_public_authority,conference of state bank supervisors,True,True,False
+USV2-PENDING-O006,US,named_private_respondent,american bankers association and state bankers associations (joint submission),False,True,False

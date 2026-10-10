@@ -1,0 +1,45 @@
+RIGHTS AND THIRD-PARTY SOURCE MATERIAL — VERSION v1.0.0
+Copyright (c) 2026 Pedro M Batista, for the author's original material.
+
+The author has selected CC BY 4.0 for original research data and documentation,
+and MIT for original code. The grants have separate scopes, as set out in
+LICENSE.txt; neither applies to the entire package without qualification.
+
+CC BY 4.0 applies to the author's original classifications, coding instruments,
+analysis and explanatory text, audit work, tabulations and figures. It covers
+original contributions in data/, evidence/, audit/, methods/, supplements/,
+reference/ and results/, and the package's original documentation. Source-derived
+quotations and third-party metadata within these files are excluded. The author's
+code in scripts/ is covered by MIT. Dependencies retain their own licences.
+
+THIRD-PARTY EXCLUSIONS
+Copyright and database rights in third-party excerpts, source-supplied titles,
+bibliographic metadata and other source content remain with their respective
+holders. These materials are supplied for provenance and scholarly verification;
+the package grants no new rights in them. Facts and identifiers may themselves
+be free of copyright, and no new restriction is claimed over such material.
+An original coding judgment or contextual analysis accompanying a quotation is
+covered by CC BY 4.0; the quoted passage itself is not.
+
+Source URLs, original hashes and pinpoints identify the originals. Consult the
+source's own terms for uses requiring permission. Public availability does not
+by itself establish a right to redistribute a full document or corpus. No raw
+third-party corpus is included. Any separate private reviewer source companion
+is outside this public package and outside these licence grants.
+
+ATTRIBUTION
+For the author's licensed research material, identify Pedro M Batista and cite
+Capturing Monetary Sovereignty: Replication Package, v1.0.0 (10 October 2026),
+https://github.com/pedromagalhaesbatista/capturing-monetary-sovereignty .
+Include a link to CC BY 4.0 and indicate changes as its terms require. CITATION.cff
+provides citation metadata. For code, retain the MIT copyright and permission
+notice as required by LICENSE-MIT.txt. Preserve source attribution when using
+third-party evidence; this package does not replace the source's own terms.
+
+OFFICIAL LICENCE TEXTS
+LICENSE-CC-BY-4.0.txt was retrieved unmodified on 10 October 2026 from:
+https://creativecommons.org/licenses/by/4.0/legalcode.txt
+LICENSE-MIT.txt uses the official MIT terms retrieved on 10 October 2026 from:
+https://opensource.org/license/mit
+The MIT copyright placeholder is completed with the author's name and year.
+The scope notices in LICENSE.txt and this file are separate from the licence texts.

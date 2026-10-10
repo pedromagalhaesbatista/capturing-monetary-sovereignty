@@ -1,0 +1,35 @@
+# Fresh blind coding audit
+
+320 actor–episode reviews returned (289 overall stances classifiable) from 320 selected observations; 244 have verified complete-document or complete-actor context. The remaining returned codes retain partial-source qualifications. Population: 517 observations.
+
+This is independent AI-agent consistency checking, not external legal or human validation. Fresh reviewers received neutral source packets without first-pass stances, rationales, findings or selection reasons. Separate model contexts provided procedural blinding; shared filesystem permissions did not provide technical access isolation. Packet/source hashes and frozen first codes are retained.
+
+The instrument was refined to separate A–E, descriptive no-position from not-addressed, explicit B from scope inference, and analytic safety/distribution separation from joint mention. Clarification001 was sent to all blind reviewers before first-code disclosure. Agreement below therefore measures an old/frozen-code versus revised-instrument audit, not pure inter-rater reliability under an unchanged codebook. It is computed before adjudication; adjudicated agreement is not presented as independent reliability.
+
+| Field | Paired n | Exact agreement | Cohen κ |
+|---|---:|---:|---:|
+| position | 289 | 0.923875 | 0.878657 |
+| reserve_safety_distribution_distinguished | 316 | 0.870253 | 0.298462 |
+| unspecified_holder_position | 320 | 0.91875 | 0.218633 |
+| deposit_displacement_bank_funding | 281 | 0.950178 | 0.878767 |
+| monetary_policy_transmission | 281 | 0.97153 | 0.846196 |
+| financial_stability_run_risk | 285 | 0.821053 | 0.569754 |
+| payments_vs_investment | 282 | 0.914894 | 0.772351 |
+| legal_classification | 286 | 0.916084 | 0.733561 |
+| competition_innovation_consumer_welfare | 282 | 0.904255 | 0.804679 |
+| commercial_viability | 283 | 0.893993 | 0.740906 |
+| category_A | 286 | 0.877622 | 0.808373 |
+| category_B | 281 | 0.939502 | 0.822403 |
+| category_C | 285 | 0.929825 | 0.86155 |
+| category_D | 280 | 0.878571 | 0.693101 |
+| category_E | 290 | 0.689655 | 0.451577 |
+
+Full jurisdiction statistics and confusion matrices: [statistics](v2/reliability_statistics.csv), [confusion matrices](v2/reliability_confusion.csv). Mandatory-set and new stratified-negative coverage: [coverage](v2/independent_review_coverage.csv).
+
+Null fields represent unknown source coverage, not silence or a substantive ambiguous stance; paired agreement excludes null fields and separately reports classifiable coverage. Partial reviews are sufficient only for the expressly verified positive passages or identified legal provisions; they cannot certify submission-wide silence. Published EU CSV fragments, incomplete reader extracts and incorporated but unread attachments are counted as partial. Every unresolved item remains in the coverage file.
+
+The sample contains every originally substantive/category-B/institutional/central-or-priority observation plus a deterministic ceil25% stratified sample of remaining negatives by jurisdiction × observation kind × actor type; late central and recovered inputs are supplementary frozen batches. Newly substantive codes discovered by recoding are retained and adjudicated.
+
+Adjudications retain first, second and final codes with source pinpoints and reasons in [adjudication log](adjudication_log.md).
+
+The safety/distribution-separation variable warrants special caution: exact agreement is 87.0% but Cohen’s κ is 0.298 across 316 classifiable pairs. This is not evidence that the earlier reliability concern has disappeared. The refined distinction and imbalanced category frequencies affect the comparison; inspect the confusion matrix and every positive primary passage. Do not treat frequencies of explicit analytical separation as a robust comparative finding.

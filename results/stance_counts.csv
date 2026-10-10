@@ -1,0 +1,7 @@
+position,actor_episodes,denominator
+permit,12,350
+permit conditionally,10,350
+prohibit,27,350
+ambiguous,34,350
+no position,245,350
+unknown,22,350

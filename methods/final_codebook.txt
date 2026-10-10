@@ -1,0 +1,69 @@
+PACKAGE PATH GUIDE
+This file preserves the final codebook from the research archive. Its historical
+file references map to this package as follows:
+  review/v2/blind_coding_rubric.md -> methods/blind_coding_rubric.txt
+  review/v2/rubric_clarification_001.md -> methods/rubric_clarification_001.txt
+  respondent_level_dataset.csv -> data/actor_episode.csv
+  source_universe.csv -> data/source_register.csv
+  argument_level_dataset.csv -> evidence/passage_ledger.csv
+  argument_coding_rows.csv -> audit/historical_argument_rows.csv
+Other references to the original archive describe provenance; the raw corpus is
+not distributed. Use README.txt for the executable package workflow.
+
+PRESERVED CODEBOOK TEXT
+
+# Codebook — v2
+
+Research cutoff: 2 October 2026. Read together with `review/v2/blind_coding_rubric.md` and `review/v2/rubric_clarification_001.md`; those files preserve the exact neutral instructions used by the fresh reviewers.
+
+## Unit and populations
+
+One actor–episode is one observation. Supplements and written/oral contributions in the same inquiry are consolidated, retaining passage dates so an earlier participation date cannot backdate a later argument. Joint signatories are one coalition, not multiplied responses. Repeat actors in different episodes remain separate. Named private input, named public-authority input, institutional policy, anonymous individual input and anonymous aggregate reports are analytically separate. An official list of names creates source leads, never inferred stances.
+
+Identifiers are stable `source_id`, `observation_id`, `argument_id`, `event_id` and `claim_id`. Canonical episode/actor mappings preserve original labels. Date precision is explicit; publication, receipt, signature and commencement dates are not interchangeable. CSV structured objects use JSON; pipe-separated passage labels indicate multiple supported categories, not additional observations.
+
+## Categories and stances
+
+| Code | Meaning | Exclusion |
+|---|---|---|
+| A | Issuer pays interest/yield to holders | Funding source alone is unspecified. |
+| B | Reserve/backing income distributed to holders | Requires express source-income and holder-allocation connection; no automatic inference from A, C or E. |
+| C | Intermediary/third party remunerates holders | Issuer-directed evasion and independent programs must retain their scope. |
+| D | Activity reward/rebate/discount unrelated to holding duration | A duration-linked benefit is not D because labelled a reward. |
+| E | Issuer earns reserve/backing income, including central-bank balances | Not permission to share income with holders. |
+
+`permit` is an express recommendation or applicable official policy allowing the mechanism. `permit conditionally` adds a substantive safeguard/limit beyond the category definition. `prohibit` expressly rejects it. `no position` records relevant description, question or contemplation without normative recommendation. `ambiguous` requires unresolved direction or conflicting explicit positions. `not_addressed` is a category coverage value; it is not opposition or permission.
+
+Overall holder stance aggregates A–D, plus a supported payer-unspecified holder position where necessary. E alone cannot supply it. No substantive holder stance gives overall no position; permit plus conditional permit gives conditional permit; conflicting permission/prohibition gives ambiguous. Always read category columns alongside overall position. A legal definition excluding interest-bearing instruments is a perimeter restriction, not automatically an operative universal ban. Description of law is not private endorsement; an authority’s own operative rule is institutional policy.
+
+Broad A/C legal coverage of reserve-funded income is preserved in `category_B_scope_inference`, not counted as an express B argument. `category_evidence_basis` distinguishes express language, legal-scope interpretation and unresolved payer/funding identity. User-benefit examples must identify the recipient of reserve income before receiving B.
+
+## Rationales
+
+Positive flags require exact linked passages. `no` means not invoked in the inspected remuneration evidence, not disagreement with the proposition. Flags: deposit displacement/bank funding/credit; monetary policy/transmission; financial stability/run/liquidity risk; payments versus investment/saving; legal deposit/e-money/security/fund classification; competition/innovation/consumer welfare; commercial viability (operating revenues/costs, margins, ability to enter or continue operating, including banks, issuers and intermediaries; profit allocation alone is insufficient). This beneficiary clarification follows root adjudication; the original blind rubric remains frozen. Generic stablecoin risk elsewhere is contextual and excluded. Each flag counts once per actor–episode across A–E; directions and category context remain in passages.
+
+Principal reserve-safety/income classification: `explicit_analytical_distinction` maps to yes; `explicit_equation` maps to no; `joint_mention_only` and `not_addressed` map to not_addressed; unresolved substantive interpretation maps to ambiguous. Insufficient source coverage maps to null, an administrative missing value, never a substantive stance. The principal variable concerns holder income allocation. An explicit E-only compatibility argument receives a separate `issuer_earnings_safety_analysis` annotation. Neither reserves plus interest in one document nor E permitted beside A banned automatically establishes analytical separation.
+
+## Evidence and negative findings
+
+Substantive codes require primary source, short exact quotation or attributable paraphrase, pinpoint and attribution strength. Printed versus PDF page numbers are labelled. HTML uses heading/paragraph or retained reader line locator. Quotes document an actor’s statement, not the truth of its economic assertion. Attribution levels distinguish direct named primary evidence, official anonymous aggregate, primary republication, interpretive scope and unverified lead.
+
+Inspection statuses distinguish full document semantic review, complete relevant actor contribution, partial context, machine screen, metadata-only and unavailable. Inaccessible documents never become negatives. Full legal provision review in a large bill is not a full semantic review of unrelated provisions. Missing image text, truncated survey cells, missing incorporated documents and respondent-authored summaries are explicit coverage limitations. Ordinary machine negatives stay visible but cannot support strong origin claims.
+
+Exact repeated passage rows are consolidated only if every non-category/rationale field matches. Original argument identifiers remain traceable. Negative-screen and contextual-nonremuneration rows do not enter substantive minima. Superseded coding stays in review history with its reason; it must not silently continue contributing to current tables or chronology.
+
+## Genealogy and review
+
+“Earliest located” refers only to the defined inspected corpus. Confidence concerns historical priority, independently of authenticity of a source. Low-confidence minima are discovery aids and are not used as article-level origin inferences. Official consideration, private recommendation, draft, adoption and commencement are different events. Later reviews cannot cause earlier proposals; similarity and chronology alone establish no influence or capture.
+
+Fresh mandatory blind recoding and a new stratified negative sample supersede reliance on v1’s limited agreement figures. Missing or partial review is reported, not imputed. Agreement is computed before adjudication. Because definitions were tightened, the statistics describe a revised-instrument audit and not a pure unchanged-instrument reliability experiment. The audit remains AI-only; no independent human legal validation is claimed.
+
+## Missingness and review replacement
+
+Blank CSV/null JSON stance, category or rationale fields indicate unresolved source coverage. They are excluded from classifiable denominators and separately counted; they are not no position, not_addressed or ambiguous. The optional unspecified_holder_position field is normalized to not_addressed when no distinct payer-unspecified proposition was assigned; it cannot certify whole-document silence. Complete-context and partial-context reviews remain separately reported. A positive passage can be usable even when source-wide absence cannot be certified.
+
+For reviewed observations, the current argument dataset uses fresh primary passages and recorded root adjudication evidence. Superseded first-pass passage rows remain inactive in argument_coding_rows.csv. Root adjudication evidence is not eligible for mechanical historical minima. Administrative missingness decisions without a primary passage remain only in the adjudication log. Multi-source adjudication excerpts are retained as adjudication_evidence_text and are not falsely assigned as a quotation from the first source.
+
+E includes express reserve-investment authorization or description where that is the policy mechanism allowing issuers to receive investment returns. Such authorization is identified as an investment-permission proxy and is not an express statement about distributing returns or proof of positive realized income. A general reserve-custody or safety statement without investment/earnings content is not enough.
+
+Agency question text reproduced in a private response is not the respondent’s position or descriptive analysis. Code the respondent’s answer. An authority’s own question may establish official contemplation, but that attribution must remain with the authority. A reporting-field question listing reserve yield does not by itself support a respondent category-E code.

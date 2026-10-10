@@ -1,0 +1,28 @@
+SCOPED LICENCES — VERSION v1.0.0
+Copyright (c) 2026 Pedro M Batista, for the author's original material.
+
+The licences apply to distinct material; they are not alternative licences for
+all files in this repository.
+
+1. Original research data and documentation: CC BY 4.0.
+   The author's original classifications, research notes, documentation, audit
+   records, figures and tabulations are licensed under the Creative Commons
+   Attribution 4.0 International licence. This includes original material in
+   data/, evidence/, audit/, methods/, supplements/, reference/ and results/,
+   and original package documentation, subject to the exclusions below.
+   Full official terms: LICENSE-CC-BY-4.0.txt.
+
+2. Original code: MIT.
+   The author's code in scripts/ is licensed under the MIT licence.
+   Full terms and copyright notice: LICENSE-MIT.txt.
+   The Python libraries named in the requirements files are not bundled and
+   retain their own licences.
+
+3. Third-party material: excluded from both grants.
+   Quoted source passages, source-supplied titles, bibliographic metadata and
+   other third-party content remain subject to the rights and terms of their
+   respective holders. They are not relicensed by this package, even when they
+   appear in a file containing the author's original analysis. No ownership is
+   asserted over facts, identifiers or other material free of copyright.
+
+See RIGHTS.txt for attribution, scope and source-use guidance.

@@ -1,0 +1,4 @@
+# Plotting requires Python 3.12 or later; tested with Python 3.12.14.
+# scripts/reproduce.py uses only the standard library and also supports Python 3.10+.
+matplotlib==3.11.2
+numpy==2.5.3

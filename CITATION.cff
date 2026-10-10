@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite this versioned replication package alongside the paper. Licence scopes and third-party exclusions are specified in LICENSE.txt and RIGHTS.txt."
+title: "Capturing Monetary Sovereignty: Replication Package"
+authors:
+  - family-names: "Batista"
+    given-names: "Pedro M"
+type: dataset
+version: "v1.0.0"
+date-released: "2026-10-10"
+doi: "10.5281/zenodo.23272352"
+repository-code: "https://github.com/pedromagalhaesbatista/capturing-monetary-sovereignty"
+url: "https://github.com/pedromagalhaesbatista/capturing-monetary-sovereignty"
+# These apply to separate scopes, not as alternatives for every file.
+license:
+  - CC-BY-4.0
+  - MIT
+abstract: "Computational reproduction of the frozen actor-episode counts and rationale heatmap, with source links, coding scope, reconciliation and separate qualitative supplements."

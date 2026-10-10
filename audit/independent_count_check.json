@@ -1,0 +1,32 @@
+{
+  "independent_recomputation": "CSV standard-library loops, independent of generation script; blank overall stance mapped to unknown",
+  "all_actor_episodes": 517,
+  "source_records": 2176,
+  "private_actor_episodes": 350,
+  "source_by_jurisdiction": {
+    "EU": 598,
+    "US": 1370,
+    "UK": 208
+  },
+  "actors_by_jurisdiction": {
+    "EU": 232,
+    "US": 171,
+    "UK": 114
+  },
+  "private_by_jurisdiction": {
+    "EU": 125,
+    "US": 137,
+    "UK": 88
+  },
+  "stances": {
+    "no position": 245,
+    "permit": 12,
+    "permit conditionally": 10,
+    "prohibit": 27,
+    "ambiguous": 34,
+    "unknown": 22
+  },
+  "heatmap_cells_checked": 161,
+  "classifiable_cells_checked": 161,
+  "result": "PASS; exact published matrix counts and denominators match frozen actor fields. Does not validate semantic coding."
+}

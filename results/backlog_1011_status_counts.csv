@@ -1,0 +1,11 @@
+final_administrative_status,source_register_entries
+direct_full_document_review,8
+direct_targeted_review,21
+document_relationship_check,1
+index_with_targeted_linked_response_review,1
+lead_awaiting_content_recovery,891
+link_to_existing_included_or_inspected_record,59
+link_to_existing_partial_review,11
+link_to_new_supplemental_review,5
+metadata_or_index_only_inspection,2
+other_unresolved_linked_record,12

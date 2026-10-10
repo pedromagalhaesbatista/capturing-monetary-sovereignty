@@ -1,0 +1,86 @@
+[
+  {
+    "observation_id": "US_O_DisparteD2023",
+    "actor": "Circle (Dante Disparte)",
+    "canonical_episode_id": "US_HouseHearing2023",
+    "date": "2023-04-19",
+    "position": "no position",
+    "source_ids": "[\"US_DisparteD2023\"]",
+    "category_A_position": "not_addressed",
+    "category_B_position": "not_addressed",
+    "category_C_position": "not_addressed",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "US_O_ReynoldsHandD2023",
+    "actor": "Consumer Reports (Delicia Reynolds Hand)",
+    "canonical_episode_id": "US_HouseHearing2023",
+    "date": "2023-04-19",
+    "position": "no position",
+    "source_ids": "[\"US_ReynoldsHandD2023\"]",
+    "category_A_position": "not_addressed",
+    "category_B_position": "not_addressed",
+    "category_C_position": "not_addressed",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "US_O_CircleFDIC",
+    "actor": "Circle Internet Group Inc.",
+    "canonical_episode_id": "US_FDICNPRM2026",
+    "date": "2026-06-09",
+    "position": "ambiguous",
+    "source_ids": "[\"ROOT-USFDIC052\"]",
+    "category_A_position": "prohibit",
+    "category_B_position": "not_addressed",
+    "category_C_position": "permit conditionally",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "LORDSW-O016",
+    "actor": "Circle",
+    "canonical_episode_id": "UK-LORDS-2026",
+    "date": "2026-03-20",
+    "position": "no position",
+    "source_ids": "[\"ROOT-UKLORDS016\"]",
+    "category_A_position": "not_addressed",
+    "category_B_position": "not_addressed",
+    "category_C_position": "not_addressed",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "USHS-O005",
+    "actor": "Circle (Dante Disparte)",
+    "canonical_episode_id": "US_SenateHearing2021",
+    "date": "2021-12-14",
+    "position": "no position",
+    "source_ids": "[\"US_Hearing2021_Dante\"]",
+    "category_A_position": "no position",
+    "category_B_position": "not_addressed",
+    "category_C_position": "not_addressed",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "V2EU-O013",
+    "actor": "Circle",
+    "canonical_episode_id": "EU-MiCA-review-2026",
+    "date": "2026-10-01",
+    "position": "no position",
+    "source_ids": "[\"V2EU036\"]",
+    "category_A_position": "not_addressed",
+    "category_B_position": "not_addressed",
+    "category_C_position": "not_addressed",
+    "category_D_position": "not_addressed"
+  },
+  {
+    "observation_id": "NCUAF-O017",
+    "actor": "Circle Internet Group, Inc.",
+    "canonical_episode_id": "NCUA-2026-1024",
+    "date": "2026-07-17",
+    "position": "ambiguous",
+    "source_ids": "[\"V2_NCUA-2026-1024-0028\"]",
+    "category_A_position": "prohibit",
+    "category_B_position": "not_addressed",
+    "category_C_position": "permit conditionally",
+    "category_D_position": "permit conditionally"
+  }
+]

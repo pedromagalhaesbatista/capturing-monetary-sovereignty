@@ -1,0 +1,2630 @@
+[
+  {
+    "observation_id": "EU-O001",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "ECB explicitly describes reserve investments obtaining returns, liquidity-loss risk, remunerated balances as competitive issuance cost, and recommends appropriate float investment. E is guarded issuer earnings; it does not show B.",
+    "source_pinpoint": "EU001 PDF17,19,31 / printed13,15,27",
+    "exact_passage": "invested in order to obtain asset returns",
+    "root_review": "Relevant full pages read with preceding and following paragraphs."
+  },
+  {
+    "observation_id": "EU-O002",
+    "final_values": {
+      "category_E": "not_addressed"
+    },
+    "reason": "Article5 specifies eligible investments but does not expressly address receipt or allocation of income. Preserve investment-authority inference separately; do not turn it into an explicit E stance.",
+    "source_pinpoint": "EU003 Article5(1)",
+    "exact_passage": "shall have investments",
+    "root_review": "Primary provision and full independent context checked."
+  },
+  {
+    "observation_id": "EU-O003",
+    "final_values": {
+      "financial_stability_run_risk": "no",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Report expressly links investment limits to ability to earn on received funds and competitive disadvantage, and recommends safeguarded relaxation. Generic protection of the float does not by itself invoke the specified runs/liquidity/systemic-risk category. E-related arguments are not reasons for the holder-interest position.",
+    "source_pinpoint": "EU021 section4.4 printed12–13/PDF13–14",
+    "exact_passage": "significantly reduces the opportunity of ELMIs to earn money",
+    "root_review": "Both complete pages read, including float safeguards and bank/card receivables."
+  },
+  {
+    "observation_id": "EU-O006",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "ECB expressly connects investment liberalisation with profit, industry growth, liquidity/default risks and additional safeguards. These are E arguments, not B permission.",
+    "source_pinpoint": "EU005 section3.5/PDF10",
+    "exact_passage": "options that it leaves e-money issuers to make a profit",
+    "root_review": "Complete page and numbered neighbouring sections read."
+  },
+  {
+    "observation_id": "EU-O007",
+    "final_values": {
+      "category_D": "permit",
+      "category_E": "not_addressed"
+    },
+    "reason": "Non-duration benefits are expressly excepted; duration independence defines D rather than adding a safeguard. Article7 eligible-investment authority does not expressly allocate or discuss income, so E remains unaddressed.",
+    "source_pinpoint": "EU006 recital13; Article7(2)",
+    "exact_passage": "unless those benefits are not related to the length of time",
+    "root_review": "Recital/provisions read; distinction between investment authorisation and income respected."
+  },
+  {
+    "observation_id": "EU-O008",
+    "final_values": {
+      "payments_vs_investment": "yes",
+      "legal_classification": "yes",
+      "category_D": "permit conditionally"
+    },
+    "reason": "Q&A explicitly distinguishes deposit/e-money and payment/saving. Purchase-discount answer is tentative and case-specific, also excluding amount-linked benefits; this is narrower than general D permission. Retain conditional code and preserve reviewer disagreement.",
+    "source_pinpoint": "EU039 PDF1–3",
+    "exact_passage": "nor to the amount of e-money held",
+    "root_review": "All three pages read, question and official answer distinguished."
+  },
+  {
+    "observation_id": "EU-O014",
+    "final_values": {
+      "monetary_policy_transmission": "no",
+      "category_E": "no position"
+    },
+    "reason": "EMA's monetary-policy phrase describes why a CBDC might charge interest; its own removal rationale is competitive parity, not a transmission claim. Section5.2.1 describes issuer profit/loss allocation, but broader correlated reserve investment proposal does not expressly recommend an earnings-allocation rule. Third adjudicated E code is descriptive.",
+    "source_pinpoint": "EU015 sections5.2.1–5.4.2/PDF6",
+    "exact_passage": "any profits, losses or adverse value fluctuations",
+    "root_review": "Entire relevant page read; E description separated from A/C removal request."
+  },
+  {
+    "observation_id": "EU-O015",
+    "final_values": {
+      "deposit_displacement_bank_funding": "no",
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "no",
+      "category_C": "no position",
+      "category_E": "not_addressed"
+    },
+    "reason": "Section2.1.1 notes rather than endorses the Articles36/45 prohibition and aligns it with e-money. Next paragraph discusses stablecoin deposit displacement generally, not remuneration specifically. Section3.2.4 level-playing-field investment safeguards do not expressly concern reserve earnings; no E or remuneration-competition flag inferred.",
+    "source_pinpoint": "EU019 PDF4 sections2.1.1–2.1.2; PDF11 section3.2.4",
+    "exact_passage": "the ECB notes the prohibition on payment of interest",
+    "root_review": "Original image pages4 and11 visually read because native extraction omitted them."
+  },
+  {
+    "observation_id": "EU-O020",
+    "final_values": {
+      "payments_vs_investment": "yes",
+      "category_C": "no position",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Report expressly challenges the payment/store-of-value boundary, describes contested US third-party arrangements without endorsing them, and allocates realised reserve yield after issuer costs/buffers/profit. Conditional E is express; separate from conditional B.",
+    "source_pinpoint": "EU023 PDF5,9,12",
+    "exact_passage": "profit margin retained by the issuer",
+    "root_review": "Complete relevant pages read; original full31-page blind review retained."
+  },
+  {
+    "observation_id": "EU-O021",
+    "final_values": {
+      "category_B": "permit conditionally",
+      "category_E": "no position"
+    },
+    "reason": "Q20 expressly connects Treasury-reserve earnings retained by issuer with a proposal to share economics with holders above circulation threshold and below rate cap. This is explicit B advocacy; factual claims about Tether are actor assertions, not findings.",
+    "source_pinpoint": "EU024 Q20 complete section03",
+    "exact_passage": "Above threshold, yield flows to holders",
+    "root_review": "Complete Q20 argument and preceding/following sections read."
+  },
+  {
+    "observation_id": "EUSCA-O064",
+    "final_values": {
+      "position": "no position",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_C": "no position",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_D": null,
+      "category_E": null
+    },
+    "reason": "CDC describes existing DeFi providers generating interest for clients and recommends custody/guarantee rules. It does not expressly request permission to remunerate. Preserve description and client protection argument, with broad crypto-asset scope; do not infer stablecoin B from custodial client assets. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509317 published column222 (Question34, not Q33.2)",
+    "exact_passage": "let them generate interests to share with their clients",
+    "root_review": "Complete published answer and exact question read. Other published fragments remain partial-source caveat. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available questionnaire answers and text of three annexes (6+2+6 PDF pages) read. C236 and C396 begin mid-sentence. Slide images/logos not exhaustively inspected; no global negative certified."
+  },
+  {
+    "observation_id": "V2EU-O001",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Reported purpose expressly invokes competition between lighter-regulated ELMIs and banks, alongside deposit displacement; anonymous attribution retained.",
+    "source_pinpoint": "EU029 section11/PDF6",
+    "exact_passage": "prevent the lighter regulated ELMIs from competing with banks for deposits",
+    "root_review": "Official historical report and source context checked; not original pre2000 submission."
+  },
+  {
+    "observation_id": "V2EU-O006",
+    "final_values": {
+      "reserve_safety_distribution_distinguished": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null
+    },
+    "reason": "Brief summary requests sharing compliant reserve returns subject to preserved redemption and disclosure. It stipulates safeguards but does not explain compatibility or separately analyse principal versus income. Under the refined analytic test this is joint mention only; conditional B remains supported. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "V2EU024 Stablecoins, international access and reserve-sharing finalparagraph",
+    "exact_passage": "Any such change must preserve redemption rights",
+    "root_review": "Full actor-authored webpage read. Underlying submission unavailable; no global negative inferred. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Complete actor-authored webpage summary read; full underlying consultation response was not supplied in the observation packet."
+  },
+  {
+    "observation_id": "V2EU-O009",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Manifesto explicitly describes issuers earning backing interest; this supports descriptive E, separately from express holder-sharing advocacy.",
+    "source_pinpoint": "V2EU068 manifesto point1",
+    "exact_passage": "Stablecoin issuers earn interest for holding the backing assets",
+    "root_review": "Full archived manifesto body read; original publication date remains unknown."
+  },
+  {
+    "observation_id": "V2EU-O010",
+    "final_values": {
+      "category_A": "not_addressed",
+      "unspecified_holder_position": "no position"
+    },
+    "reason": "Coinbase's passage concerns possible return from underlying assets and classification. It does not specify issuer-paid interest; B contemplation does not establish A. Generic no-interest ART boundary is separately described; payer not specified, so unspecified-holder descriptive code applies.",
+    "source_pinpoint": "EU037 PDF7/printed6 Q4",
+    "exact_passage": "potentially receiving a return from the underlying assets",
+    "root_review": "Broad question context and independent visual verification record checked."
+  },
+  {
+    "observation_id": "UK-O-BOE2022AGG",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "reserve_safety_distribution_distinguished": "not_addressed",
+      "category_A": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "The reported HQLA model expressly assumes reserve income passed to holders with capital and asset safeguards, but does not expressly identify the payer or analytically separate income entitlement from backing safety. Retain B, not an inferred A. The deposit flag comes from a different anonymous group proposing negative remuneration thresholds for new digital money broadly; it must not be attributed to the B proponents.",
+    "source_pinpoint": "UK-BOE2022 Stylised regulatory models; Phased regulation as an alternative to limits",
+    "exact_passage": "with the interest being passed on to coinholders",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-FCA2025",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes",
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_A": "prohibit",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Issuer identity and indirect route are express in the reserve-income ban. Earnings permission is conditioned on trust/reconciliation duties. Express allocation of reconciled excess away from protected principal explains entitlement separation; it does not establish that holder distribution is unsafe. Risk and viability flags concern permitted issuer backing investments.",
+    "source_pinpoint": "UK-FCA2025 §§2.12,3.45,3.70–71,3.101–104; draft CASS16.2.13–14R",
+    "exact_passage": "Comingling ‘firm’ and ‘client’ assets could potentially expose the backing assets to creditor claims",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-GDF2026",
+    "final_values": {
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_B": "no position"
+    },
+    "reason": "Full Q4/Q12 distinguish protected principal from legal entitlement to backing income and ask who owns that income. No express recommendation independently prohibits B. Q18 expressly opposes issuer contractual interest while allowing qualified promotional rewards. Q1 safe central-bank earnings alone would not support the principal separation flag.",
+    "source_pinpoint": "UK-GDF2026 Q4 p12; Q12 pp24–25; Q18 pp29–30",
+    "exact_passage": "whether such income accrues to coinholders by default under trust law",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-BOE2026",
+    "final_values": {
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_D": "permit"
+    },
+    "reason": "The statement separately fixes the holder reference-value claim and issuer residual/earnings entitlement subject to safeguarding. This is an allocation analysis, not proof of riskless holder yield. D is defined by payment/usage activity and absence of a holding trigger, without an additional policy safeguard in this text.",
+    "source_pinpoint": "UK-BOE2026 §§2.2.2,2.2.4",
+    "exact_passage": "The issuer will be a beneficiary in each trust, but only after all other stated costs have been met.",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-BOE2026AGG",
+    "final_values": {
+      "position": "ambiguous",
+      "category_A": "prohibit",
+      "unspecified_holder_position": "ambiguous",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Majority endorsement expressly concerns issuer interest, so retain A prohibition with majority-only attribution. Contrary concerns concern a broader remuneration ban and activity incentives, without express issuer-interest permission: preserve heterogeneous overall aggregate in unspecified-holder ambiguous rather than treating all respondents as prohibiting or inventing contrary A permission. E views differ on calibration but support interest-bearing assets subject to liquidity safeguards.",
+    "source_pinpoint": "UK-BOE2026 §2.2.4 feedback; §2.1.1/BoxA",
+    "exact_passage": "Some raised concerns that a broad prohibition on remuneration could reduce the commercial viability of certain business models.",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-FCA2026",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes",
+      "reserve_safety_distribution_distinguished": "yes"
+    },
+    "reason": "Section3.10 links the permitted investment range with issuer viability and liquidity/stablecoin stability. Trust rules distinguish the protected reference-value claim from reconciled excess, including income, which ceases to be trust property on compliant withdrawal. This establishes entitlement separation, not an empirical finding that any holder pass-through is safe.",
+    "source_pinpoint": "UK-FCA2026 §3.10 p9; CASS16.5.4R/16.5.6G PDF113–114",
+    "exact_passage": "with the value of each holder’s proprietary claim being the reference value",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-GDFLORDS2026",
+    "final_values": {
+      "position": "ambiguous",
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "legal_classification": "yes",
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_A": "prohibit",
+      "category_D": "permit conditionally"
+    },
+    "reason": "Lords evidence expressly incorporates the February joint submission; its Q18 opposes issuer contractual interest and supports constrained promotional rewards. Q4/Q12 analyze principal versus income rights, while Q8 discusses non-yield deposits as a substitution constraint. Incorporation does not create a second actor in the episode; attach the complete incorporated source. Missing referenced data annex still prevents a whole-submission negative.",
+    "source_pinpoint": "UK-GDFLORDS2026 §125; UK-GDF2026 Q4/Q8/Q12/Q18",
+    "exact_passage": "We agree with the Bank’s core principle that systemic stablecoins should not be interest-bearing",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSO-O-GILES",
+    "final_values": {
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_D": "permit conditionally"
+    },
+    "reason": "Q5 specifically permits merchant discount schemes under money-regulatory constraints. Q8 expressly discusses fully safe narrow-bank backing together with the choice to pay interest, separating interest policy from backing protection. This is not explicit B because income source is not traced to reserves.",
+    "source_pinpoint": "ROOT-UKLORDS035 Q5/Q8",
+    "exact_passage": "provided that they are regulated as money",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O008",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "legal_classification": "no",
+      "category_A": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Retain explicit general-holder and connected-third-party prohibition; do not invent A payer. The alternative E backing design is expressly subject to market study. Contrary to the second pass, §§13–17/35–39 link that design to payment-versus-store-value and flight-to-safety stability risks, so those flags remain yes but are E design arguments, not the §43 holder-ban reason. MiCA alignment alone is not legal deposit/e-money classification.",
+    "source_pinpoint": "ROOT-UKLORDS008 §§13–17,35–39,43,48",
+    "exact_passage": "financial stability risks of a potential flight to safety during a crisis",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-CITYUKLORDS",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "category_A": "not_addressed"
+    },
+    "reason": "Q4 expressly recommends no-interest rules to protect consumers and align with e-money but identifies no payer. General prohibition retained, A not inferred.",
+    "source_pinpoint": "ROOT-UKLORDS077 Q4 Market integrity p6",
+    "exact_passage": "no-interest rules to safeguard users",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-MILNELORDS",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_E": "no position"
+    },
+    "reason": "The proposed UK-regulated interest-bearing dollar opportunity expressly rebuts systemic prudential risk in favor of conduct concerns. Invocation counts even when the actor disputes the risk. Model description retains a small issuer charge alongside B pass-through: descriptive E, not independent E policy. MMF/store-value scope and limited par fluctuations remain explicit.",
+    "source_pinpoint": "ROOT-UKLORDS057 §§2.8,3.2",
+    "exact_passage": "The risks are primarily of customer protection not systemic prudential risks",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-EVOQLORDS",
+    "final_values": {
+      "position": "ambiguous",
+      "category_A": "ambiguous",
+      "category_B": "ambiguous"
+    },
+    "reason": "Paragraph16 criticizes the restriction and requests reconsideration while acknowledging the issuer benefit of retaining backing income. It does not specify a replacement permission rule. Reconsideration is not unconditional permit. Its allegation about US bank motives is an actor assertion, not this study’s causal finding.",
+    "source_pinpoint": "ROOT-UKLORDS029 §16 pp10–11",
+    "exact_passage": "the restriction merits reconsideration",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-GBTDLORDS",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "category_A": "not_addressed",
+      "category_E": "not_addressed"
+    },
+    "reason": "Express holder-ban endorsement does not identify payer. Support for a 40:60 backing split does not expressly discuss receipt or allocation of earnings and cannot supply E. Directly linked credit/transmission/stability and payment rationale passages remain.",
+    "source_pinpoint": "ROOT-UKLORDS033 pp2,4",
+    "exact_passage": "maintaining the prohibition on interest payments to coinholders",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-PRICELORDS",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Retain first code: §2 expressly lists treasury yield on idle cash via reserve returns as a benefit to SME and corporate users. That is a remuneration-linked customer benefit even though it does not endorse a legal permission. General competition passages elsewhere are not needed.",
+    "source_pinpoint": "ROOT-UKLORDS064 §2 p2",
+    "exact_passage": "yield on idle cash (via reserve returns)",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "V2LATE-UK-O001",
+    "final_values": {
+      "commercial_viability": "yes",
+      "category_C": "not_addressed"
+    },
+    "reason": "The actor aggregate debates issuers sharing rewards with third parties and holders, not third parties paying holders. Thus C was a directional overread. Keeping payment transactions free or low-cost links remuneration to firm pricing/operating viability and consumer welfare; speakers remain unidentified.",
+    "source_pinpoint": "V2LEGAL003 What we heard / Opportunities and considerations / 3 Role of banks",
+    "exact_passage": "helping firms keep payment transactions free or low cost for consumers",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-LORDS-COINBASE",
+    "final_values": {
+      "unspecified_holder_position": "permit",
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_A": "not_addressed"
+    },
+    "reason": "Paragraphs48–50 explicitly support holder interest and explain gains coexisting with par redemption regardless of backing-asset performance. This is the actor’s analytical safety claim, not validated risklessness. Holder payer and reserve-income source are not specified; do not infer A or B.",
+    "source_pinpoint": "ROOT-UKLORDS021/UK-LORDS-COINBASE §§48–50",
+    "exact_passage": "holders would have a right to redeem stablecoins at par value regardless of the performance of the backing assets",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-LORDS-WHITE",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit"
+    },
+    "reason": "Q5 expressly criticizes unremunerated reserves and the accompanying government-only backing as a monoculture subject to systemic collapse. Retain stability invocation for the E backing design, distinct from Q6 holder-interest permission. The rejection of compulsory reserve nonremuneration supplies E permission with no separate earnings safeguard specified.",
+    "source_pinpoint": "ROOT-UKLORDS081/UK-LORDS-WHITE Q5–6",
+    "exact_passage": "a monoculture subject to systemic collapse",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-LORDS-UKF",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "The majority/minority discussion expressly describes retained profits of other backing pools as a possible source of rewards. That describes E without independently supporting issuer earnings. Do not erase the minority transaction-reward permission or attribute majority position to every member.",
+    "source_pinpoint": "ROOT-UKLORDS079/UK-LORDS-UKF interest-bearing tokens section",
+    "exact_passage": "retained profits of the backing asset pools of other stablecoins",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSO-O-REVOLUT",
+    "final_values": {
+      "financial_stability_run_risk": "no"
+    },
+    "reason": "Q138 proposes diversified HQLAs and mentions aligning risk, but this passage does not specifically invoke runs, liquidity stress, contagion or systemic instability. Do not turn every prudential asset choice into the narrower financial-stability rationale. Preserve E safeguard and the distinct, explicit B pass-through advocacy.",
+    "source_pinpoint": "ROOT-UKLORDS065 Q138",
+    "exact_passage": "you are not putting it all into one HQLA",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O019",
+    "final_values": {
+      "financial_stability_run_risk": "no"
+    },
+    "reason": "Reserve-income permission is conditional on transparency/liquidity/capital, but the statement that this does not increase user risk is generic. No specified run, liquidity-stress or systemic mechanism is articulated in the passage. Keep safeguards in E conditional permission without overcoding the narrower rationale.",
+    "source_pinpoint": "ROOT-UKLORDS019 §2",
+    "exact_passage": "subject to strict transparency, liquidity, and capital requirements",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O011",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "monetary_policy_transmission": "no",
+      "category_A": "not_addressed"
+    },
+    "reason": "The paragraph begins with monetary policy but explains only bank-funding displacement in low-rate conditions; it identifies no separate policy/transmission mechanism. Holder interest is descriptive without payer identity; retain generic description rather than issuer-specific A.",
+    "source_pinpoint": "ROOT-UKLORDS011 response to opportunities/risks question",
+    "exact_passage": "thereby diminishing the funding base of commercial banks",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UK-O-LORDS-ALEXANDER",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "payments_vs_investment": "yes"
+    },
+    "reason": "Written evidence §4 expressly characterizes the described US policy as payments rather than savings, so the rationale is present as reported policy description. Oral Q36 discusses stablecoin interest without issuer identity before expressly endorsing associated-company benefits; retain descriptive unspecified-holder field alongside C permission. Actor’s legal descriptions are not adopted as the study’s current-law findings.",
+    "source_pinpoint": "ROOT-UKLORDS004/UK-LORDS-ALEXANDER §4; ROOT-UKLORDS005 Q36",
+    "exact_passage": "payments instruments, not savings",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O050",
+    "final_values": {
+      "unspecified_holder_position": "permit conditionally",
+      "financial_stability_run_risk": "yes",
+      "category_C": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "The text supports disclosed yield models without specifying intermediary payer, so C becomes generic conditional holder permission. Productive high-quality backing is an E design recommendation in a yield-model context. Contrary to the second coder, §28 expressly claims this design does not compromise stability, which counts as invoking stability even without proof; preserve as actor assertion.",
+    "source_pinpoint": "ROOT-UKLORDS050 §§27–28,32,35",
+    "exact_passage": "without compromising stability",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O058",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "NatWest supports adding remunerated bank deposits within the proposed safeguarded backing regime, expressly balanced with financial stability and liquidity provisions; therefore conditional E, not unrestricted permission. This concerns issuer reserves, not holder remuneration.",
+    "source_pinpoint": "ROOT-UKLORDS058 Proposed UK regulatory approach",
+    "exact_passage": "supporting financial stability and liquidity provisions",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O063",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "commercial_viability": "no",
+      "category_E": "permit conditionally"
+    },
+    "reason": "A levy on systemic issuers’ reserve spread is an explicit conditional treatment of E, rather than mere business-model description. Operational costs define the proposed levy base; they do not argue for issuer or intermediary ability to operate. Yield applications are descriptive and payer-unspecified.",
+    "source_pinpoint": "ROOT-UKLORDS063 §§4.1,7.3",
+    "exact_passage": "calculated on the margin between reserve asset yield and verified operational cost",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O070",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit"
+    },
+    "reason": "The submission criticizes compulsory nonremuneration as constraining entry and asks recalibration. Its same paragraph expressly acknowledges stronger stability and consumer protection from the constraint; therefore retain stability invocation, contrary to the blind code. Direction is trade-off acknowledged, not evidence that a remunerated alternative is unsafe.",
+    "source_pinpoint": "ROOT-UKLORDS070 §§13,17–19",
+    "exact_passage": "whilst offering stronger stability and consumer protection",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O072",
+    "final_values": {
+      "position": "ambiguous",
+      "category_A": "ambiguous",
+      "category_E": "permit conditionally"
+    },
+    "reason": "The specific issuer-interest rule is left for a time-bound evidence review, rather than clearly adopted or repealed. That unresolved A recommendation coexists with qualified platform-yield and activity-incentive support. E permission is under the expressly adopted issuer-level reserve/redemption/disclosure baseline.",
+    "source_pinpoint": "ROOT-UKLORDS072 §§5,25–26; recommendations4,6",
+    "exact_passage": "Review the interest prohibition",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O078",
+    "final_values": {
+      "unspecified_holder_position": "not_addressed"
+    },
+    "reason": "The only relevant interest critique in §28 explicitly concerns reserve balances paid to issuers. Adjacent tokenised-asset yield opportunities concern uses outside stablecoin holder remuneration. Do not retain a generic holder description merely because reserve interest is discussed.",
+    "source_pinpoint": "ROOT-UKLORDS078 §28",
+    "exact_passage": "prohibit interest on stablecoin reserves",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O084",
+    "final_values": {
+      "category_E": "permit"
+    },
+    "reason": "The submission criticizes compulsory reserve nonremuneration as rendering the regime unviable and raising fees; code opposition to that E restriction, with direction expressly limited to issuer earnings. It does not recommend holder interest or specify an alternative remunerated percentage.",
+    "source_pinpoint": "ROOT-UKLORDS084 §34",
+    "exact_passage": "By constraining the revenue models of issuers",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O001",
+    "final_values": {
+      "category_C": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Revenue paid to distribution partners compensates conversion/distribution service, not expressly holder remuneration by those partners. An MMF after redemption is a different asset. The actor’s complete oral contribution conditions earning reserves on high quality/liquidity and short maturity, qualifying E permission.",
+    "source_pinpoint": "ROOT-UKLORDS001 Unremunerated backing assets; ROOT-UKLORDS002 Q163–164",
+    "exact_passage": "They need to be high-quality, highly liquid assets.",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O030",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "category_A": "not_addressed",
+      "category_E": "no position"
+    },
+    "reason": "The FCA witness maintains the proposed holder-interest ban but does not identify a payer in this formulation. Backing-asset remuneration is expressly discussed as another regulator’s question, supplying descriptive E, not an FCA recommendation in this episode.",
+    "source_pinpoint": "ROOT-UKLORDS031 Q182",
+    "exact_passage": "On the holding of the backing assets",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O042",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "category_A": "not_addressed"
+    },
+    "reason": "The author describes a no-interest design and predicts competitive consequences; this does not identify the payer or normatively endorse the ban. Generic holder description replaces A.",
+    "source_pinpoint": "ROOT-UKLORDS042 §§1–3",
+    "exact_passage": "the non-interest feature will make stablecoins especially attractive to Big Tech",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O074",
+    "final_values": {
+      "category_D": "no position"
+    },
+    "reason": "Paragraph4 describes merchant adoption of programmable loyalty incentives. That is category D discussion without an independent policy recommendation on holder rewards.",
+    "source_pinpoint": "ROOT-UKLORDS074 §4",
+    "exact_passage": "programmable incentives like loyalty schemes",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "LORDSW-O082",
+    "final_values": {
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_D": "no position"
+    },
+    "reason": "Wilmarth explicitly links profitable money-type claims to bank prudential status, reports and contests issuer competitiveness objections to conservative E backing, and discusses the Bank’s consideration of usage incentives. The final advocated A/C ban concerns ownership/location inducements, so reported D consideration is descriptive. Actor assertions about Circle and other factual claims are not independently adopted.",
+    "source_pinpoint": "ROOT-UKLORDS082 §§50–53; ROOT-UKLORDS083 Q15",
+    "exact_passage": "unless you accept all the prudential safety and soundness oversight requirements that banks have historically accepted",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-CITYLORDS",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "The Corporation expressly reports IRSG’s reserve-remuneration competitiveness argument. This supplies an invoked rationale but not an independently adopted E permission. Its separate broad yield-use description identifies no payer. Preserve reported attribution.",
+    "source_pinpoint": "ROOT-UKLORDS018 Q5 p6; Q2(a)",
+    "exact_passage": "may undermine the UK’s competitiveness",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-CLEARBANKLORDS",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "category_A": "not_addressed"
+    },
+    "reason": "Paragraph19 describes non-interest stablecoins as unlikely substitutes for interest-bearing deposits. It neither specifies an issuer payer nor recommends a prohibition.",
+    "source_pinpoint": "ROOT-UKLORDS020 §19 p5",
+    "exact_passage": "as stablecoins do not pay interest",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-ENTREPRENEURSLORDS",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "The proposal relaxes cash/redemption constraints to allow viable earning assets while expressly adopting reserve-quality, transparency and oversight requirements. These qualify E earnings permission. The separate interest-pass-through critique does not identify backing income and is not explicit B.",
+    "source_pinpoint": "ROOT-UKLORDS028 Q5 p6; Q6 p7",
+    "exact_passage": "focusing on reserve quality, transparency and federal oversight",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-RIPPLELORDS",
+    "final_values": {
+      "commercial_viability": "yes"
+    },
+    "reason": "Ripple expressly says compulsory unremunerated balances disincentivize issuer operation in the UK. This invokes business operation/entry viability as well as competition; it concerns E only.",
+    "source_pinpoint": "ROOT-UKLORDS067 Q5(a) p4",
+    "exact_passage": "disincentivise international issuers from operating in the UK market",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "UKV2-O-INNOVATELORDS",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "category_A": "not_addressed"
+    },
+    "reason": "The comparative table says stablecoins are typically not interest bearing, without payer identity or recommendation. Descriptive generic-holder field replaces A; detailed E criticisms remain separate.",
+    "source_pinpoint": "ROOT-UKLORDS045 §1 comparative table p3",
+    "exact_passage": "Interest-bearing Yes Typically no",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EU-O005",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "The impact assessment expressly ties investment restrictions to issuer earnings, business-model funding gaps and competition, and its preferred safeguarded option protects liquid assets and insolvency claims. E permission is thus express in the economic argument, unlike investment-eligibility provisions with no income discussion. These are issuer-income rationales, not holder-ban reasons.",
+    "source_pinpoint": "EU020 pp16,50; preferred packages p35",
+    "exact_passage": "reduces the opportunity for EMIs to earn money on the funds they receive",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EU-O013",
+    "final_values": {
+      "category_D": "no position"
+    },
+    "reason": "BEUC’s annex describes content-vote rewards associated with Steem dollars. Preserve a descriptive activity-reward boundary example, not stablecoin policy permission or reserve-income distribution. Broad crypto/utility-token scope must accompany it.",
+    "source_pinpoint": "EU041 p11; ROOT-EUC-F509212 C33",
+    "exact_passage": "get remunerated for their contribution depending on the audience’s votes",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EU-O022",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "monetary_policy_transmission": "yes",
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes",
+      "category_E": "no position"
+    },
+    "reason": "Sections3.2.1 expressly examine issuer reserve yield/profitability and the bank funding, credit, liquidity and transmission trade-offs of changing deposit requirements. However the response frames those changes as options for further assessment and calibration, not a resolved permission recommendation. Use descriptive E for this assessment. The E-side rationales must not be reported as the grounds for §3.2.3’s holder-interest ban.",
+    "source_pinpoint": "EU022 PDF13–14/printed12–13 §3.2.1",
+    "exact_passage": "reviewing the approach to liquidity risk management for reserve assets could be considered",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EU-O023",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "legal_classification": "yes",
+      "commercial_viability": "yes",
+      "category_E": "no position"
+    },
+    "reason": "Q26 expressly assesses earning-asset alternatives, issuer viability, liquidity and bank funding but recommends a cost-benefit assessment before any decision. Thus E is contemplated, not conditionally permitted. Q67’s legal-regime/circumvention discussion supplies classification context for intermediary lending yield, separately from Q20’s ban.",
+    "source_pinpoint": "EU018 Q26 pp20–21; Q67 pp33–34",
+    "exact_passage": "Should the European Commission choose to carry out a cost benefit analysis",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EU-O027",
+    "final_values": {
+      "category_A": "not_addressed",
+      "category_E": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_B": null,
+      "category_D": null
+    },
+    "reason": "C436 describes quasi-financial services paying stablecoin deposit interest; no issuer payer identified. C447 recommends eligible reserve investments without expressly discussing receipt or allocation of investment income. Consistent with the stricter rule applied to EMD/MiCA investment powers, neither inference supplies express A or E. Existing C description is retained. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509358 C436/C447 (Q113.1/Q116.1)",
+    "exact_passage": "should be able to invest funds received in exchange for electronic money",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available answers read through C449. Published cells C33, C37, C62, C86, C90, C236, C313, C318–319, C326, C352, C388, C432, C434, C447 begin within lists or clauses: missing starts cannot be reconstructed from this source."
+  },
+  {
+    "observation_id": "EU-O028",
+    "final_values": {
+      "category_A": "not_addressed",
+      "category_E": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_B": null,
+      "category_D": null
+    },
+    "reason": "Described stablecoin-deposit services do not identify an issuer payer. The separate question about company-paid interest is not a permission recommendation. C448 authorizes eligible investments without discussing earnings allocation; do not infer express E from asset eligibility. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509293 C436/C440/C448",
+    "exact_passage": "the ability for a company to pay interest on deposits of e-money tokens",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available answers read through C449. C80, C86, C90, C259, C306, C313, C318–319, C326, C448 begin within lists or clauses; missing starts are not recoverable from the packet."
+  },
+  {
+    "observation_id": "EUSCA-O015",
+    "final_values": {
+      "unspecified_holder_position": "no position"
+    },
+    "reason": "C33’s proposed taxonomy explicitly asks whether an asset rewards holders, alongside stability/payment features. Preserve broad-crypto descriptive remuneration discussion, with no payer, category-specific position or permission inferred. Add a pinpoint quotation because the blind output omitted it.",
+    "source_pinpoint": "ROOT-EUC-F509387 C33/Q7",
+    "exact_passage": "Is asset rewarding holders?",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EUSCA-O083",
+    "final_values": {
+      "financial_stability_run_risk": "no",
+      "category_E": "not_addressed"
+    },
+    "reason": "Danske adopts AFME2020, whose Q25 safeguards reserve investments but does not explicitly address issuer receipt or allocation of earnings in the cited passage. No E remuneration stance follows from investment eligibility alone, and generic reserve safeguards therefore do not supply a remuneration-linked stability rationale here.",
+    "source_pinpoint": "ROOT-EUA-039 p1; EU014 Q25 pp15–16",
+    "exact_passage": "The reserve of assets should only be invested in safe and liquid assets",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "EUSCB-O051",
+    "final_values": {
+      "unspecified_holder_position": "no position"
+    },
+    "reason": "Q9 explicitly contemplates interest-generating stablecoins and opposes deposit classification; it does not specify a payer or ask for a holder-remuneration rule. Q12’s loan/interest functionality and collateral assertion do not identify reserve-income distribution.",
+    "source_pinpoint": "ROOT-EUC-F506865 C37/Q9, C64/Q12",
+    "exact_passage": "how to consider stablecoins that generate interest",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "V2EU-O002",
+    "final_values": {
+      "position": "ambiguous",
+      "category_D": "permit",
+      "category_E": "not_addressed"
+    },
+    "reason": "Recital9 expressly excepts benefits unrelated to holding duration, supplying D permission alongside the A ban and hence mixed overall stance. Article9 eligible safeguarding assets do not explicitly discuss earnings; inferred E is not counted.",
+    "source_pinpoint": "V2EU017 recital9 p6; Articles9/10c pp19,24",
+    "exact_passage": "unless these benefits are not related to the length of time",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "V2EU-O004",
+    "final_values": {
+      "commercial_viability": "yes"
+    },
+    "reason": "Q14 expressly identifies commercial challenges from reserve thresholds and advocates reserve efficiency, read with express E central-bank remuneration only for banks at Q25. Viability flag is reserve-design related, not a reason AFME opposes holder interest in Q20.",
+    "source_pinpoint": "V2EU023 Q14 p11; Q25 p18",
+    "exact_passage": "concentration, operational and commercial challenges",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "V2EU-O005",
+    "final_values": {
+      "position": "permit conditionally",
+      "category_C": "permit conditionally",
+      "category_D": "no position",
+      "category_E": "no position"
+    },
+    "reason": "Q20 expressly limits A/B to assessment, not immediate permission, and describes E in the possible pass-through model. For C it separately proposes a Level1 carve-out for independent third-party services under their own functional/risk regulation, with no issuer circumvention; this is a conditional framework recommendation rather than mere description. Rebates/loyalty are listed without a clearly specified activity trigger, so no substantive D permission is assigned. Retain the distinction between A/B assessment and C legal carve-out.",
+    "source_pinpoint": "V2EU038 Q20 pp9–10",
+    "exact_passage": "neither should every benefit offered by a third party be treated automatically as interest on the token",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately."
+  },
+  {
+    "observation_id": "V2EU-O007",
+    "final_values": {
+      "unspecified_holder_position": "permit",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null
+    },
+    "reason": "The complete actor-authored summary requests ending the interest prohibition without identifying payer or reserve-income source. Generic holder permission must be retained in aggregation; full underlying consultation response remains unavailable. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "V2EU030 section2",
+    "exact_passage": "an end to the interest prohibition",
+    "root_review": "Root checked the primary passage with adjacent complete paragraphs; independent full-source coverage retained separately. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Complete actor-authored webpage summary read; full underlying consultation response was not supplied in the observation packet."
+  },
+  {
+    "observation_id": "US_O_TRUST",
+    "final_values": {
+      "position": "prohibit",
+      "category_A": "not_addressed",
+      "unspecified_holder_position": "prohibit",
+      "legal_classification": "no"
+    },
+    "reason": "Instrument-level definitional exclusion within payment-stablecoin regime; payer is not explicit. Not a ban on all digital interest products. Securities exclusion is a legal mechanism, not an express deposit/e-money classification rationale for remuneration.",
+    "source_pinpoint": "US_BILLS-117s5340is §2(9)(E),§7,§10; USHS_TRUSTApr2022 §2(9)(E),§7,§9",
+    "exact_passage": "does not inherently pay interest to the holder",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_GENIUSMarch",
+    "final_values": {
+      "position": "prohibit",
+      "category_A": "not_addressed",
+      "unspecified_holder_position": "prohibit",
+      "legal_classification": "no"
+    },
+    "reason": "Explicit no-yield definitional boundary, payer unspecified. Classificatory legal mechanism is not itself an articulated legal-classification rationale. Reported version is March18, not May1.",
+    "source_pinpoint": "US_BILLS-119s919is p6; US_GENIUS_markup2025 p6; V2ROOTLEG042 p94",
+    "exact_passage": "does not offer a payment of yield or interest",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_GENIUSFinal",
+    "final_values": {
+      "category_B": "not_addressed"
+    },
+    "reason": "Source of the prohibited payment is not identified. General issuer ban can encompass reserve-funded interest as a legal-scope inference, but no explicit B argument is coded.",
+    "source_pinpoint": "US_PLAW-119publ27 §4(a)(11),139Stat432/PDF14",
+    "exact_passage": "any form of interest or yield",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_SenateMyths",
+    "final_values": {
+      "legal_classification": "no"
+    },
+    "reason": "Payments/banking economic-function distinction does not expressly apply deposit/e-money legal classification. Other prudential paragraphs are not reasons explicitly tied to the remuneration ban.",
+    "source_pinpoint": "US_SenateMythsMay2025 Myth5 lines99–103",
+    "exact_passage": "payments products are different than banking products",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_Campbell2023",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "no",
+      "legal_classification": "no",
+      "reserve_safety_distribution_distinguished": "yes"
+    },
+    "reason": "The worker example explicitly reconciles higher holder interest with reduced financial risks in the previously specified reserve framework, exceeding mere joint mention. It is A, not explicit B. Securities and money comparisons elsewhere are not remuneration-specific reasons.",
+    "source_pinpoint": "US_Campbell2023 pp4–6,10–11",
+    "exact_passage": "paid a higher rate of interest, pay lower fees, and not be subject to some of the complicated financial risks",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_Armstrong2025",
+    "final_values": {
+      "payments_vs_investment": "no",
+      "category_E": "no position"
+    },
+    "reason": "Explicit issuer retention is descriptive E. Payments and interest coexist in his model, but there is no payments-versus-investment restriction rationale. Reserve income pass-through is expressly advocated independently of issuer retention.",
+    "source_pinpoint": "US_Armstrong2025 Quick background and final section",
+    "exact_passage": "Interest earned on those investments is typically kept by the issuer.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_CoinbaseTreasury",
+    "final_values": {
+      "position": "ambiguous",
+      "category_A": "prohibit",
+      "legal_classification": "yes"
+    },
+    "reason": "Letter adopts issuer-only prohibition as required implementation scope while supporting C. This is contextual implementation stance, not general economic opposition to issuer yield. No debt classification argument is expressly anchored to the no-interest feature, and is therefore a legal-classification rationale.",
+    "source_pinpoint": "US_Coinbase_Treasury2025 pp5–6,9–10",
+    "exact_passage": "GENIUS explicitly prohibits a payment stablecoin issuer from paying interest or yield on payment stablecoins, unlike with issuers of debt instruments.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O024",
+    "final_values": {
+      "category_B": "not_addressed"
+    },
+    "reason": "Direct or indirect issuer-payment prohibition does not identify reserve income as its funding source. Preserve legal reach separately from explicit B coding.",
+    "source_pinpoint": "US_CREC_June5_2025 SA2299/2305, S3257/S3259",
+    "exact_passage": "shall directly or indirectly pay",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O025",
+    "final_values": {
+      "category_B": "not_addressed",
+      "category_D": "not_addressed"
+    },
+    "reason": "Amendment broadens payer to any person and covers similar inducements; it does not explicitly identify reserve income or holding-duration-independent activity rewards. Scope inferences cannot supply these explicit category codes.",
+    "source_pinpoint": "US_CREC_June9_2025 PDF48/S3287 SA2315",
+    "exact_passage": "No person may pay",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "V2ROOT-O019",
+    "final_values": {
+      "category_A": "prohibit"
+    },
+    "reason": "Full proposed replacement continues existing issuer ban while adding exchanges and affiliates. Novel extension is C but the amended clause also normatively includes A. Amendment rejected; not enacted rule.",
+    "source_pinpoint": "V2ROOTLEG019 amendment16 p1; incorporated V2ROOTLEG003 §4(a)(9) p27; V2ROOT008 report p28; V2ROOT011 FC-042 vote",
+    "exact_passage": "cryptocurrency exchange, or institution-affiliated party",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_CLARITY2026",
+    "final_values": {
+      "payments_vs_investment": "yes",
+      "category_A": "no position",
+      "deposit_displacement_bank_funding": "yes"
+    },
+    "reason": "Reported bill expressly prohibits marketing as investments/deposit products. Issuer-generated interest is described as a prohibited representation, not separately permitted. Activity exemption allows some duration/balance-based calculations, so not every exception is D. Proposed legislation only. Primary §404(b)(1) expressly ties bank-equivalent balance remuneration to inhibited depository functions, corroborated by mandated deposit/credit impact study §404(h)(3). The quoted depository-functions passage concerns intermediary balance remuneration (C); category-A description is supported separately by the reviewed marketing language.",
+    "source_pinpoint": "US_BILLS-119hr3633rs §404(b)(1),PDF469–470; §404(h)(3),PDF480; §404(d)PDF475–476",
+    "exact_passage": "may inhibit the key functions of depository institutions in the economy of the United States",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason.",
+    "quote_source_id": "US_BILLS-119hr3633rs",
+    "evidence_categories": [
+      "C"
+    ],
+    "evidence_position": "prohibit"
+  },
+  {
+    "observation_id": "US_O_BAOCC",
+    "final_values": {
+      "position": "ambiguous",
+      "financial_stability_run_risk": "yes",
+      "category_A": "prohibit",
+      "category_C": "permit",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Letter endorses narrow issuer anti-evasion as laudable, requests independent third-party freedom, and explicitly argues retention/liquidity benefits. Reserve-yield flexibility remains within low-risk eligible assets; E is conditional. Main C permission is not converted to conditional by a separate narrow affiliate-evasion exception.",
+    "source_pinpoint": "US_BA_OCC2026 pp5,12–14",
+    "exact_passage": "increase retention of user capital on a platform, which provides stability during volatile periods",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_ConsensysOCC",
+    "final_values": {
+      "position": "ambiguous",
+      "legal_classification": "yes",
+      "category_A": "prohibit",
+      "category_B": "permit conditionally",
+      "category_D": "permit conditionally",
+      "category_E": "no position"
+    },
+    "reason": "Adopts issuer restriction and an explicit independent-distributor test. Page5 expressly permits holder benefits from distributor revenues partly derived from reserve assets; this is mediated conditional B, not general direct pass-through permission. Page9 defines non-passive incentives and financial-instrument returns; E earnings descriptive onp3.",
+    "source_pinpoint": "US_Consensys_OCC2026 pp3–9, especially5,8–9",
+    "exact_passage": "commercial revenues the distributor is paid may derive at least in part from the income generated by the reserve assets backing the stablecoin",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_MSBAOCC",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "category_C": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Respondent invokes substitutes for deposit interest and safeguarded improvement of reserve yield. Third-party wording appears in reproduced regulator questions, not an attributable respondent C discussion. Retain first C absence rather than attribute the question to respondent.",
+    "source_pinpoint": "US_MSBA_OCC2026 pp8,10–11",
+    "exact_passage": "improving the ability to manage yield and roll-down risk without undermining safety",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_InterledgerFDIC",
+    "final_values": {
+      "category_D": "no position"
+    },
+    "reason": "Transaction-fee cross-subsidy is contemplated as an alternative economic benefit, with no definite normative permission or categorical opposition. Preserve scope as fee subsidy rather than passive holder interest.",
+    "source_pinpoint": "ROOT-USFDIC014 p12",
+    "exact_passage": "We can understand it, if used to cross-subsidise transaction fees and other operating costs.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_CoinbaseFDIC",
+    "final_values": {
+      "category_D": "no position"
+    },
+    "reason": "Letter advocates loyalty rewards generally, but full Q23 does not specify holding-duration independence. Footnote9 describes card-use rewards in a different multi-brand argument; that establishes descriptive D only, not an express stablecoin D permission. Third code avoids assuming every loyalty reward is D.",
+    "source_pinpoint": "ROOT-USFDIC056 pp5,7–8 footnote9",
+    "exact_passage": "accrue rewards at those companies by using cobranded credit cards",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_Fed2026",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "category_D": "permit conditionally",
+      "category_E": "no position"
+    },
+    "reason": "Q40 expressly seeks impact on bank deposits (contemplated rationale, not concluded harm). Merchant exception requires independent funding. Q51 discusses issuer claim to income in a reserve-identification question, hence descriptive E. All are proposed-rule material, not final law.",
+    "source_pinpoint": "US_FedGENIUS2026 FR61592–61593,61596;PDF13–14,17",
+    "exact_passage": "What impact would either prohibition have on bank deposits?",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "FDICS-O011",
+    "final_values": {
+      "category_B": "no position",
+      "category_E": "no position"
+    },
+    "reason": "Explicit reserve-earnings/third-party-flow disclosure is recommended to determine legality case by case. It does not explicitly recommend permitting the reserve-income-to-holder subset. Keep descriptive B rather than infer conditional permission from demand for fact-based enforcement. E earnings expressly contemplated.",
+    "source_pinpoint": "ROOT-USFDIC011 pp9–10",
+    "exact_passage": "the relationship between reserve earnings and any payments made by third parties",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "FDICS-O012",
+    "final_values": {
+      "payments_vs_investment": "no",
+      "commercial_viability": "yes",
+      "category_E": "no position"
+    },
+    "reason": "Investment-return marketing condition is agency-attribution test rather than a payments-versus-investment policy rationale. Pages6–7 explain revenue compensation for operating distribution services; E earnings descriptive, not holder permission.",
+    "source_pinpoint": "ROOT-USFDIC012 pp6–7",
+    "exact_passage": "customer acquisition, technical integration, user support, and ongoing operational maintenance",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_OCC",
+    "final_values": {
+      "category_D": "permit conditionally",
+      "category_E": "no position"
+    },
+    "reason": "Merchant discount is expressly conditioned on independent merchant provision. Text contemplates issuer dividends/removal of reserve excess in explaining prohibited sole-purpose repo borrowing; this is E context rather than B.",
+    "source_pinpoint": "US_OCC2026 FR10212–10213/PDF11–12",
+    "exact_passage": "merchant from independently offering a discount",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_FDIC",
+    "final_values": {
+      "category_D": "not_addressed"
+    },
+    "reason": "Q23 asks which rewards should be covered but does not specify activity-based, duration-independent rewards. Generic rewards contemplation cannot identify D. Retain first absence.",
+    "source_pinpoint": "US_FDIC2026 FR18540/PDF7 Q23",
+    "exact_passage": "What types of rewards, if any, should or should not be subject to the prohibition?",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "FDICS-O005",
+    "final_values": {
+      "category_E": "not_addressed"
+    },
+    "reason": "Generic return generation and reserve-funded benefits identify functions, without express receipt of reserve income by issuer. Do not invent E recipient. Whole supplement expressly disclaims position on substantive models.",
+    "source_pinpoint": "ROOT-USFDIC007 pp3–4, especiallyVII",
+    "exact_passage": "not intended to advocate for or against any specific yield",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O003",
+    "final_values": {
+      "legal_classification": "no",
+      "commercial_viability": "yes",
+      "category_D": "no position"
+    },
+    "reason": "Goldstein describes USDC purchase-fee waiver and issuer revenue pressures; these support descriptive D and E viability. General legal classification elsewhere is not tied to remuneration. Written Brown Q1 is undated but cites February2,2022; do not assign that passage to December2021 hearing chronology.",
+    "source_pinpoint": "US_Hearing2021_Alexis PDF45/printed41 and PDF90/printed86",
+    "exact_passage": "Stablecoin issuers that invest their reserves in very low-risk assets will likely face challenges generating positive returns.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O007",
+    "final_values": {
+      "position": "no position",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_D": "no position"
+    },
+    "reason": "FTX describes and explains its operating fee-subsidy incentives; it does not make a policy permission recommendation. Preserve descriptive D while coding explicit technological/customer-cost rationale. Root visually checked scanned page.",
+    "source_pinpoint": "USHS_FTX2021 PDF125–126/printed121–122",
+    "exact_passage": "The latter is free on FTX, which we want to strongly incentivize our users to take advantage of",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O016",
+    "final_values": {
+      "category_A": "no position",
+      "category_C": "not_addressed"
+    },
+    "reason": "Source describes Celsius as paying yield on its own stablecoin, hence descriptive A as represented by this actor, not an independent finding that this characterization is legally/factually correct. No third-party relationship is specified. Root visually checked letter page.",
+    "source_pinpoint": "US_Hearing2023_Public_Citizen PDF116/printed110, letter17April2023",
+    "exact_passage": "Celsius promised high yields to those who purchased its stablecoin",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O020",
+    "final_values": {
+      "financial_stability_run_risk": "no"
+    },
+    "reason": "ICBA reports allocation to investors rather than users, then discusses reserve liquidity and run risk. It does not analytically connect that allocation choice to risk. Generic adjacent reserve discussion is not a remuneration rationale. Scanned page visually verified.",
+    "source_pinpoint": "USHS_ICBA2019 PDF115/printed111",
+    "exact_passage": "The return on these assets would be distributed among Libra investors, though not Libra users.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O022",
+    "final_values": {
+      "monetary_policy_transmission": "no",
+      "commercial_viability": "yes"
+    },
+    "reason": "Long discusses central-bank interest and issuer profits, but not a remuneration transmission mechanism. Central-bank payer alone is not the monetary-transmission rationale. Risk-free profits expressly explain issuer economics. Scanned page visually verified.",
+    "source_pinpoint": "USHS_Long2019 PDF127/printed123",
+    "exact_passage": "Facebook and its project partners would pocket these interest payments as profits, risk-free.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USHS-O023",
+    "final_values": {
+      "category_D": "no position",
+      "category_E": "no position"
+    },
+    "reason": "Question8 expressly contemplates reserve earnings lowering users’ cost of buying Libra. This is a transaction-cost subsidy, descriptive D consistent with other subsidy codes; preserve first D rather than erase the activity dimension. Issuer/member return is descriptive E. Questions are contemplation, not a resolved B permission recommendation.",
+    "source_pinpoint": "US_LibraHearing2019 PDF65/printed61 Q7–8",
+    "exact_passage": "why not use earnings from user deposits to lower costs for users to buy into Libra?",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "V2ROOT-O001",
+    "final_values": {
+      "commercial_viability": "yes"
+    },
+    "reason": "The contemplated model expressly earns the difference between investor interest and backing-asset income. This is issuer margin viability, not a recommendation to permit or prohibit the model. Personal authored analysis is not adopted BPI membership position.",
+    "source_pinpoint": "V2ROOT001 L86",
+    "exact_passage": "earning the margin between that rate and the rates earned on the underlying assets",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-NCUA-O013",
+    "final_values": {
+      "financial_stability_run_risk": "yes"
+    },
+    "reason": "Retain first code because respondent expressly calls deposit-funding diversion a systemic risk in the same remuneration section. Risk may be bank-funding mediated; it need not concern reserve default to qualify.",
+    "source_pinpoint": "V2_NCUA-2026-1024-0013 p5 §VI",
+    "exact_passage": "These questions squarely raise the systemic risk",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "US_O_BetterMarketsTreasury",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Source expressly describes issuer reserve income paid to Coinbase and criticizes downstream holder rewards. E describes the income stream; the advocated prohibition targets B/C. Statements that GENIUS is already violated are respondent allegations, not adopted current-law findings.",
+    "source_pinpoint": "US_BetterMarkets_Treasury2025 p7",
+    "exact_passage": "they pay a portion of the income on their reserve assets to Coinbase",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-NCUA-O022",
+    "final_values": {
+      "payments_vs_investment": "yes",
+      "category_C": "permit"
+    },
+    "reason": "Preferred position omits third-party extension; fallback conditions are separately described, not substituted for main C position. Retain payments rationale because letter explicitly contrasts spending/commercial incentives with merely parking funds, directly in remuneration analysis.",
+    "source_pinpoint": "V2_NCUA-2026-1024-0022 pp2–3",
+    "exact_passage": "reward spending and commercial arrangements—not holding",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-NCUA-O026",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "Reserve-yield request expressly retains risk-based liquidity constraints. This is conditional E and not B.",
+    "source_pinpoint": "V2_NCUA-2026-1024-0026 p2 bullet6",
+    "exact_passage": "risk-based liquidity standard that does not trap reserves in low-interest tranches",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-ABA-O001",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Retain first flag: the immediate governing sentence expressly names consumer protection risk as a criterion for evaluating the listed nonbank limits including ability to pay interest. Consumer protection is within the combined welfare variable; no prohibition is inferred.",
+    "source_pinpoint": "USV2-ABA-Feb2025 p2–3/L40–44",
+    "exact_passage": "how well financial stability and consumer protection risk are mitigated",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-ABA-O002",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "deposit_displacement_bank_funding": "no",
+      "category_A": "not_addressed"
+    },
+    "reason": "Post-freeze primary recheck corrects broader-design overattribution. ABA expressly endorses no-interest change, but deposit/credit discussion specifically supports denying nonbank Fed master-account access and is not linked expressly to remuneration. General framework rhetoric is insufficient for a remuneration-specific rationale. Endorsement follows official proposal.",
+    "source_pinpoint": "USV2-ABA-Mar2025 pp2–3/L36–54",
+    "exact_passage": "especially the prohibition on interest | one important way to control this incentive structure is to prohibit nonbank payment stablecoin issuer access to Federal Reserve master accounts.",
+    "root_review": "Complete March13 four-page primary reader contribution reread; separate Feb11 document in same container not attributed.",
+    "quote_source_id": "USV2-ABA-Mar2025"
+  },
+  {
+    "observation_id": "USV2-OCC-O0249",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Letter expressly describes issuer reserve earnings and downstream holder transfers. It proposes prohibition of the latter, not of income accruing to the issuer.",
+    "source_pinpoint": "USV2-OCC-COM-0249 p1 §I",
+    "exact_passage": "Reserve income flows from the issuer to the exchange, which may pass a portion to retail holders.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-OCC-O0214",
+    "final_values": {
+      "legal_classification": "no"
+    },
+    "reason": "Mimicking deposits is an economic analogy in a bank-funding argument. No legal deposit/e-money classification is expressly invoked in the remuneration section.",
+    "source_pinpoint": "USV2-OCC-COM-0214 p19 §IV",
+    "exact_passage": "in a way that mimics deposits",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-PENDING-O001",
+    "final_values": {
+      "category_D": "not_addressed"
+    },
+    "reason": "Rewards and discounts are not specified as independent of holding duration. A broad issuer/affiliate restriction may cover D by legal inference, but no express D argument is located in this passage.",
+    "source_pinpoint": "USV2_CSBS_RFI2025_READER p5 Q25/L160–172",
+    "exact_passage": "other rewards, discounts, or financial incentives",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-PENDING-O003",
+    "final_values": {
+      "position": "permit",
+      "payments_vs_investment": "no",
+      "legal_classification": "no",
+      "category_C": "permit"
+    },
+    "reason": "Affirmatively advocates intermediated rewards. General framework and responsible-regulation language is not a specific remuneration safeguard. Introductory legal differences are not a rationale for the rewards recommendation; payments and store-of-value are treated as coexisting uses, not a boundary.",
+    "source_pinpoint": "USV2_CryptoTrades_Aug2025_READER pp2–3/L48–72,95–104",
+    "exact_passage": "banks and crypto firms alike be permitted, and incentivized, to develop an intermediated and competitive market",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-PENDING-O004",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Retain welfare flag because letter directly links incentive-driven migration to customers losing insurance and prudential protections as well as access to credit. This is broader than competitive bank interest.",
+    "source_pinpoint": "USV2_ABAJan2026_READER L564–570",
+    "exact_passage": "Customers could lose access to the credit these deposits represent and the protections that attach to bank and credit union deposits",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-PENDING-O005",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Express reserve interest-sharing relationship is described as a possible conduit; it does not seek to prohibit issuer earnings as such.",
+    "source_pinpoint": "USV2_CSBS_Treasury2025 p5 Q14(b)",
+    "exact_passage": "revenue sharing arrangements between the issuer and the affiliate or third-party related to fees or reserve interest",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "USV2-PENDING-O006",
+    "final_values": {
+      "commercial_viability": "yes"
+    },
+    "reason": "Retain explicit bank viability under the user-requested general commercial-viability concept. Blind rubric unnecessarily limited this to issuer/intermediary economics; final codebook must transparently include bank viability and tag the beneficiary rather than erase the argument. Full PDF unavailable; available HTML excerpt is partial.",
+    "source_pinpoint": "USV2_ABADec2025_HTML_READER L583–586",
+    "exact_passage": "Managing this spread is critical to the bank's economic viability",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "V2LATE-US-O001",
+    "final_values": {
+      "commercial_viability": "yes",
+      "reserve_safety_distribution_distinguished": "not_addressed",
+      "category_B": "prohibit"
+    },
+    "reason": "Explicitly adopted graphic describes reserve interest not passed to holders within letter advocating retention/extension of ban. This supports B opposition in context, but joint table listing safe reserves and a ban does not assess separability. Bank margin viability retained under general commercial concept; blind narrower issuer-only criterion disclosed as protocol limitation. Both letter pages and full graphic visually verified.",
+    "source_pinpoint": "V2SDBA001 pp1–2; V2SDBA002 issuer column/How they generate yield",
+    "exact_passage": "Interest from Treasuries – but cannot pass it to holders",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EU-O009",
+    "final_values": {
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "IA expressly links EMD2 classification to the interest ban and evaluates innovation costs of reserve/par-redemption constraints. Article34(3) expressly allocates investment profits/losses to issuer subject to paragraph1 liquid low-risk assets, supporting conditional E.",
+    "source_pinpoint": "EU007 Art34(1),(3)/PDF73; EU008 §6.3 PDF57–58",
+    "exact_passage": "All profits or losses",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EU-O016",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Council text explicitly allocates reserve investment profits to issuer with liquidity/concentration safeguards, connects reserve composition to redemption liquidity, and states store-of-value reason for holder prohibition. Risk flag refers to E design, not a separately stated B risk.",
+    "source_pinpoint": "EU027 Art34/PDF163–164,Art32(1c)/PDF151,recital41/PDF28",
+    "exact_passage": "To reduce the risks that asset-referenced tokens are used as a store of value",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EU-O017",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "MiCA Art38 expressly allocates profits/losses to ART issuer subject to highly liquid low-risk investment constraints. Art36 states redemption-liquidity purpose for reserve management. Do not extend ART provision automatically to all EMT reserve income or infer explicit B analysis.",
+    "source_pinpoint": "EU-AUD001 Art38(1),(4); EU045 Art36(1)/PDF179",
+    "exact_passage": "liquidity risks associated to the permanent rights of redemption of the holders are addressed",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EU-O024",
+    "final_values": {
+      "position": "permit",
+      "financial_stability_run_risk": "no",
+      "category_D": "permit",
+      "category_E": "not_addressed"
+    },
+    "reason": "Specific prose calls for full repeal; activity-only rewards are fallback without an additional safeguard. Bare permitted-asset proposals onpp37/41 do not explicitly address issuer receipt of income, so noE; their general reserve contagion concern cannot be assigned as remuneration rationale.",
+    "source_pinpoint": "EU017 Q20/PDF48;Q14–15/PDF37,41",
+    "exact_passage": "the prohibition should be removed fully",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EUSCA-O043",
+    "final_values": {
+      "financial_stability_run_risk": "no",
+      "category_E": "not_addressed"
+    },
+    "reason": "FESE proposes safe reserve assets but does not expressly address issuer income from them. Preserve reserve-risk context separately; cannot infer E or a remuneration-specific stability rationale from investment eligibility alone.",
+    "source_pinpoint": "ROOT-EUA-024 Q25.1(a)/PDF16",
+    "exact_passage": "assets of the reserve should be highly liquid",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EUSCA-O054",
+    "final_values": {
+      "position": "no position",
+      "financial_stability_run_risk": "no",
+      "category_A": "not_addressed",
+      "category_C": "no position",
+      "category_E": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "payments_vs_investment": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_B": null,
+      "category_D": null
+    },
+    "reason": "Describes quasi-financial deposit/lending services and requests legal clarification, without resolving remuneration permission. No issuer payer identified; C is descriptive. Reserve eligibility alone supplies neither explicit E earnings nor remuneration-specific risk rationale. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509327 C436,C440,C137",
+    "exact_passage": "these clarifications should at least apply to",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All nonempty published cells through450 read; C36,C222,C256,C280–281,C290,C312,C316,C339,C388 start mid-list/sentence. Linked French-regime brochure is background reference, not supplied annex. Full original prose cannot be reconstructed."
+  },
+  {
+    "observation_id": "EUSCB-O005",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "reserve_safety_distribution_distinguished": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null
+    },
+    "reason": "Annex classifies interest/dividend income as investable features and lists stablecoins among non-investable cases. This is a descriptive classificatory boundary, not a proposed remuneration ban. Questionnaire remains anonymous; annex is visibly STASIS-authored, which is not proof of submitter identity. Missing questionnaire context does not itself establish ambiguous analysis of reserve safety and income distribution; observed annex contains no such analysis. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUA-046 pp1–2 §§2–3",
+    "exact_passage": "passive income (interest or dividend earnings)",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason. Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All visible questionnaire and four-page STASIS annex read. Annex recovers missing opening of C30; C77 still starts \"greater threat\" with context absent. Full negative therefore not certified. Stablecoins called non-investable; general security-token income not recoded as explicit stablecoin interest ban."
+  },
+  {
+    "observation_id": "UK-O-FSA2002",
+    "final_values": {
+      "monetary_policy_transmission": "yes",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "legal_classification": "yes",
+      "commercial_viability": "yes",
+      "category_C": "permit conditionally",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Final guidance expressly permits third-party-funded promotional D within issue-price backing conditions (C/D overlap, not passive third-party yield). Float instruments explicitly pay interest subject to maturity/reset limits. Interest-ban mismatch rationale, discount monetary-control rationale and promotion opportunity costs are separate argument directions.",
+    "source_pinpoint": "UK-FSA2002 ELM3.3.5/PDF36,4.2.3/PDF51,4.3.7/4.4.2–3/PDF53–54; UKV2-PS117 PDF14,22,46",
+    "exact_passage": "The ban on interest payments removes the risk that there could be a mismatch between the liabilities and the asset side.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-BOE2021",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "commercial_viability": "yes"
+    },
+    "reason": "Bank contemplates tiered rates for monetary/financial risks, links expected absence of interest to payment focus, and constrains achievable rates by backing returns. These are contemplated mechanisms, not settled permissions or bans.",
+    "source_pinpoint": "UK-BOE2021 §§1.2,3.1,5.5",
+    "exact_passage": "Stablecoins will also be constrained as to the interest rates they can offer on deposits by the returns on the assets",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-BOE2023",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_B": "no position"
+    },
+    "reason": "Chapter4 expressly links reserve/remuneration design to stability; footnote42 retrospectively reports interest pass-through assumption in earlier model. B descriptive only; later ban is not proof of specific origin of anonymous proposal.",
+    "source_pinpoint": "UK-BOE2023 §4 opening,§4.1 footnote42",
+    "exact_passage": "This assumed that backing assets were interest-earning, with the interest being passed on to coinholders.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-FCA2023",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "legal_classification": "yes",
+      "commercial_viability": "yes",
+      "reserve_safety_distribution_distinguished": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Keep legal classification: §3.12 expressly states regulatory distinction from deposits, not merely payments convenience. Reconciliation §§3.26–31 separates principal protection from income removal and addresses insolvency contamination, sufficient explicit analytical separation. E income remains constrained by backing and top-up rules; issuer revenue model express.",
+    "source_pinpoint": "UK-FCA2023 §§3.11–12,3.26–31/PDF22,25–26",
+    "exact_passage": "any income or growth in value of the regulated stablecoin backing assets should be removed from the client account",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-CP117",
+    "final_values": {
+      "monetary_policy_transmission": "yes",
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes",
+      "category_D": "prohibit"
+    },
+    "reason": "FSA expressly proposed no discount issue and acknowledged promotion opportunity cost; annex explains monetary-stock risk, while §§6.35–37 separately state asset/liability mismatch and cash/deposit boundary for interest. This is a UK proposal before EMD2, not mandated by EMD1 interest text.",
+    "source_pinpoint": "UK-FSA2001 §§6.35–37/PDF43–44,§14.83/PDF91;draftELM4.2.3/PDF127,4.5.1/PDF130",
+    "exact_passage": "Interest rate risk could also arise from a negative mismatch",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-PS117AGG",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Anonymous reported respondents explicitly argue use-based promotions avoid interest-rate exposure, and promote competition/adoption. No identity or common position of every respondent inferred.",
+    "source_pinpoint": "UKV2-PS117 Q12/PDF21;Q2/PDF10–11",
+    "exact_passage": "Such promotions would not cause interest rate exposure.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-UKF2024FCA",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "category_B": "no position",
+      "category_D": "no position",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Explicit issuer-yield flexibility is constrained by overcollateralisation, low-risk assets and easier redemption. Q12 reports no reserve returns to consumers as reason against investment promotions classification, not B opposition. Programmable prizes are descriptive activity benefits.",
+    "source_pinpoint": "UK-UKF2024FCA Q3/PDF5–6,Q4/PDF7,Q6/PDF8,Q12/PDF12",
+    "exact_passage": "Given that the proposed regime does not intend for the consumer themselves to receive returns generated from backing assets",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-UKF2024BOE",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Explicit consumer fee/adoption consequences follow the loss of issuer backing income; combined competition/consumer-welfare flag applies, without treating E as B.",
+    "source_pinpoint": "UK-UKF2024BOE Q14/PDF9",
+    "exact_passage": "this may dissuade consumers from using the stablecoin",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-EMA2025",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "Optimising issuer yield through multi-currency backing is expressly subject to hedging, FX limits and controls. Q7 issuer income preference does not erase those conditions.",
+    "source_pinpoint": "UK-EMA2025 Q6–7/PDF3–4",
+    "exact_passage": "provided they have strong risk management",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-UKF2025",
+    "final_values": {
+      "position": "ambiguous",
+      "category_D": "ambiguous",
+      "category_E": "no position"
+    },
+    "reason": "Keep ambiguity: identifies opening bonuses/payment rewards as routes undermining policy aims, but requested replacement aligns to EMR45 duration-linked rule. It does not resolve how a genuinely duration-independent benefit would be treated. Reserve-pool retained profits are expressly described E, not new E permission.",
+    "source_pinpoint": "UK-UKF2025 Q4/PDF11",
+    "exact_passage": "a more robust prohibition scope and one that aligns with the prohibition on electronic money issuers",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-GDF2025",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_A": "prohibit",
+      "category_B": "permit conditionally"
+    },
+    "reason": "Explicitly accepts no coin-attached interest while requesting discretionary backing-yield-funded holder benefits such as cashback/fee discounts. This is conditional B overlapping D, not permission for a contractual reserve-income claim. Fully backed prudential compatibility and international competition are express.",
+    "source_pinpoint": "UK-GDF2025 Q5/PDF14–15",
+    "exact_passage": "issuers could use yield to offer discretionary benefits such as transaction fee discounts, cashback",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UK-O-UKF2026",
+    "final_values": {
+      "unspecified_holder_position": "prohibit",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_C": "not_addressed",
+      "category_E": "ambiguous"
+    },
+    "reason": "Named association reports majority ban support and minority usage-reward support, preserved as a mixed observation. Direct/indirect remuneration wording alone does not identify a third-party payer. E contains support for safe securities income but expressly mixed views on central-bank remuneration; final aggregate E ambiguous. Entry effects are explicit.",
+    "source_pinpoint": "UK-UKF2026 PDF9–13,Q18/PDF25",
+    "exact_passage": "There are mixed views as to whether remuneration should be paid by the Bank on any central bank deposits.",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-EMA2026",
+    "final_values": {
+      "unspecified_holder_position": "no position"
+    },
+    "reason": "Broad remuneration-policy criticism does not specify payer or reserve source; D conditional usage rewards remain the concrete recommendation. Generic issue is contemplated, not a clear passive holder permission.",
+    "source_pinpoint": "UKV2-EMA2026 Q12/PDF5–6",
+    "exact_passage": "a strict or inflexible remuneration prohibition",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-CRYPTOUK2026",
+    "final_values": {
+      "payments_vs_investment": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Q20 distinguishes yield-driven holdings from domestic-payment displacement. Explicit earnings request operates within 1:1 liquid same-currency reserves; preserve conditional E. Payer of yield-seeking opportunities unspecified, no B inference.",
+    "source_pinpoint": "UKV2-CRYPTOUK2026PDF Q1/PDF2,Q3/PDF3,Q20/PDF9",
+    "exact_passage": "yield-seeking rather than the immediate displacement of domestic payments",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-WSBA2026",
+    "final_values": {
+      "payments_vs_investment": "yes"
+    },
+    "reason": "Explicit no-interest/savings-preference argument assesses holding caps and deposit substitution. Rationale is descriptive, not adoption of the ban.",
+    "source_pinpoint": "UKV2-WSBA2026 Q10/PDF11",
+    "exact_passage": "rational depositors would generally prefer bank deposits for savings and liquidity purposes",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-UKCBC2026",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Explicit argument reconciles holder returns with protected 1:1 claim and rejects investment-downside concern. E backing flexibility is subject to liquid assets/stress forecasting. These are actor claims, not findings of risklessness.",
+    "source_pinpoint": "UKV2-UKCBC2026 §§3.2.1–2/PDF2–3,§10.1/PDF7",
+    "exact_passage": "they would not face the risk of downsides in the event of a loss of reserve value",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-UKF2021",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_A": "not_addressed",
+      "category_C": "no position",
+      "category_E": "no position"
+    },
+    "reason": "Payer of new digital money remuneration is not specified; retain generic descriptive holder code and do not infer A. Diagram depicts third-party token lending, a boundary C case, not passive holder remuneration. Backing-fund interest explicitly contemplated inQ10. Credit-cost effects are consumer welfare. No named B proponent is established.",
+    "source_pinpoint": "UKV2-UKF2021ARCHIVE Q1/PDF9,Q5–6/PDF17–19,Q10/PDF23",
+    "exact_passage": "whether these forms of money are interest bearing (and whether this interest is passed on to the end user)",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "UKV2-O-EMA2024",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "Express issuer-income support is linked to diversification and investment criteria limiting exposure, not unrestricted reserve risk. Central-bank interest is one proposed component.",
+    "source_pinpoint": "UKV2-EMA2024 Q11–12/PDF5–6,Q27/PDF10",
+    "exact_passage": "a combination of investment criteria, that limit exposure",
+    "root_review": "Primary operative provision or complete relevant pages read with surrounding context; source scope stated in reason."
+  },
+  {
+    "observation_id": "EU-O004",
+    "final_values": {
+      "reserve_safety_distribution_distinguished": "not_addressed",
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null
+    },
+    "reason": "The aggregate says respondents were divided on interest, but contains no reserve-income/safety analysis. Missing individual submissions are a coverage limitation, not a contradictory substantive safety-separation code. Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "EU021 PDF7 section3.1",
+    "exact_passage": "Respondents were divided on whether ELMIs should be prohibited from paying interest",
+    "root_review": "Relevant complete primary paragraphs read with surrounding context; absence is limited to this source. Administrative source-coverage adjudication, using full independent coverage report: Read complete16-page report; all reported respondent statements in sections3–4. Original individual respondent submissions and consultants evaluation annex not present."
+  },
+  {
+    "observation_id": "V2EU-O003",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": "ECON report expressly allocates investment profits/losses to issuer subject to liquidity/risk safeguards; recital41 expressly links interest ban to exchange versus store of value. E safeguard rationale is separate from claim about holder-distribution risk.",
+    "source_pinpoint": "EU009 recitals39–41;Article34(1),(3); V2EU059 EP column rows550,577",
+    "exact_passage": "All profits or losses",
+    "root_review": "Relevant complete primary paragraphs read with surrounding context; absence is limited to this source."
+  },
+  {
+    "observation_id": "US_O_JointTradesTreasury",
+    "final_values": {
+      "commercial_viability": "yes",
+      "category_B": "prohibit",
+      "category_D": "prohibit",
+      "category_E": "no position"
+    },
+    "reason": "Explicit objection to higher reserve returns funding holder benefits supports B; broad use-conditioned rewards restriction supports D, except intrinsic payment/settlement benefit in fn27. Issuer funding burden/small-issuer survival and adopted bank-margin argument support viability. E descriptive, not recommendation on entitlement.",
+    "source_pinpoint": "US_JointTrades_Treasury2025 pp3–8, fn9/18/27",
+    "exact_passage": "in order to earn higher returns and fund the economic benefits provided",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O017",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Issuer reserve income is explicitly described as input to prohibited exchange pass-through; no separate normative position on issuer earnings.",
+    "source_pinpoint": "ROOT-USFDIC017 PDF3 §1.2",
+    "exact_passage": "a PPSI pays an exchange a percentage of reserve income",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O018",
+    "final_values": {
+      "commercial_viability": "yes",
+      "category_A": "no position"
+    },
+    "reason": "Expressly describes statutory issuer yield constraint and allocates excess issuer earnings back to operating funding. Proposed insurance compensation is contingent indemnification, not a settled ordinary holder-yield permission.",
+    "source_pinpoint": "ROOT-USFDIC018 pp3–5; p3 original image visually checked by root",
+    "exact_passage": "excess interest thereafter reverts to issuer operations",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O029",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "no"
+    },
+    "reason": "Generic innovation preface and concern about allegations of biased rulemaking do not supply a developed remuneration-linked competition or consumer-welfare argument. Specific reasons are transactional/deposit distinction and avoiding evasion.",
+    "source_pinpoint": "ROOT-USFDIC029 pp1–4",
+    "exact_passage": "will close off pathways both for potential evasion and for allegations that rulemaking is biased",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O032",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Explicit description of issuer sharing reserve income supports descriptive E; opposition targets B/C income transfer, not issuer earnings themselves.",
+    "source_pinpoint": "ROOT-USFDIC032 pp5–6 §VII",
+    "exact_passage": "an issuer shares reserve income with an exchange",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O033",
+    "final_values": {
+      "position": "ambiguous",
+      "category_D": "ambiguous",
+      "category_E": "no position"
+    },
+    "reason": "Source describes activity-reward allowance and criticizes insufficient restrictions but never resolves its precise desired treatment of genuinely activity-based benefits. A/B/C opposition remains explicit; overall captures unresolved D. Issuer reserve income descriptive.",
+    "source_pinpoint": "ROOT-USFDIC033 pp2–3 §1",
+    "exact_passage": "Activity-based rewards and yield would be allowed under this framework",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O042",
+    "final_values": {
+      "deposit_displacement_bank_funding": "no",
+      "financial_stability_run_risk": "no",
+      "category_E": "ambiguous"
+    },
+    "reason": "Yield and independent-rewards arguments are distinct from extensive general reserve run/funding arguments. E passage demands parity regarding indirect central-bank interest advantages but does not choose universal permission or prohibition.",
+    "source_pinpoint": "ROOT-USFDIC042 pp6–7,17 Q46–52",
+    "exact_passage": "including any interest economics, intraday-credit benefit, liquidity treatment",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O050",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "legal_classification": "no",
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Proposal for PPSIs to hold interest-bearing USIG reserve assets expressly links income-bearing asset design to first-loss/liquidity protections and innovation. Reserve-asset eligibility argument is not stablecoin legal classification as deposit/e-money/security. No A/B permission inferred.",
+    "source_pinpoint": "ROOT-USFDIC050 pp1–3,5",
+    "exact_passage": "junior certificates that will absorb any losses",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O051",
+    "final_values": {
+      "payments_vs_investment": "no",
+      "category_D": "permit conditionally"
+    },
+    "reason": "Independent merchant discount safe harbor adds payer-independence safeguard. Statutory scope dispute distinguishes issuer from third party but does not advocate payments-only product purpose. Deposit-effect counterargument retained separately.",
+    "source_pinpoint": "ROOT-USFDIC051 pp3–5 §II.2",
+    "exact_passage": "a merchant from independently offering a discount",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "FDICS-O062",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "legal_classification": "no",
+      "competition_innovation_consumer_welfare": "yes"
+    },
+    "reason": "Economic matrix separates liquidity from residual return allocation. Express holder-loss and issuer-risk-taking model supports E/B safety and consumer-protection rationales; organizational analogy is not legal classification recommendation. No changed holder-remuneration entitlement advocated.",
+    "source_pinpoint": "ROOT-USFDIC062 pp1–4 §§2–6",
+    "exact_passage": "the buffer moves $12,500 of them onto the operator",
+    "root_review": "Full relevant pages and adjacent sections read from primary derivative; scope bounded to specified passage."
+  },
+  {
+    "observation_id": "US_O_CEA",
+    "final_values": {
+      "monetary_policy_transmission": "yes",
+      "commercial_viability": "no",
+      "category_A": "no position",
+      "category_E": "no position"
+    },
+    "reason": "Retain monetary-policy flag: model expressly links yield prohibition effects to monetary-policy stance and reserve regime, although it does not claim impairment of transmission. Retain no commercial viability: allocation of profits/lost yield is welfare accounting, not operating viability. A/E described, not separate operative rule recommendation.",
+    "source_pinpoint": "US_CEA_April2026 PDF5,7–10 / printed4,6–9",
+    "exact_passage": "the lending effects—and any accompanying welfare loss—are themselves a function of monetary policy",
+    "root_review": "Root read full relevant primary pages and adjacent analysis."
+  },
+  {
+    "observation_id": "US_O_ICBAOCC",
+    "final_values": {
+      "position": "prohibit",
+      "legal_classification": "no",
+      "category_D": "not_addressed",
+      "category_E": "no position",
+      "commercial_viability": "yes"
+    },
+    "reason": "Examples concern balance-dependent benefits; no separate activity-independent D stance. Economic resemblance to deposit is not legal classification. E is explicitly described as operational funding, supporting descriptive issuer commercial-model rationale; does not establish E permission or B support.",
+    "source_pinpoint": "US_ICBA_OCC2026 pp5,40–43",
+    "exact_passage": "earn yield to cover operational expenses",
+    "root_review": "Root read full relevant primary pages and adjacent analysis."
+  },
+  {
+    "observation_id": "US_O_ICBAFDIC",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_E": "no position"
+    },
+    "reason": "Full yield/recycling argument links holder benefits to concentrated banking, local credit loss and systemic resilience. E described in explicit opposed reserve-income pass-through mechanism.",
+    "source_pinpoint": "US_ICBA_FDIC2026 pp16–17,27",
+    "exact_passage": "resiliency of the U.S. financial system",
+    "root_review": "Root read full relevant primary pages and adjacent analysis."
+  },
+  {
+    "observation_id": "FDICS-O023",
+    "final_values": {
+      "category_E": "no position"
+    },
+    "reason": "Incorporated OCC letter expressly describes issuer reserve earnings flowing through distributors. This is descriptive E, distinct from advocated B/C prohibition.",
+    "source_pinpoint": "ROOT-USFDIC023 PDF23 / AppendixA printed11",
+    "exact_passage": "Reserve interest flows from the issuer to the exchange",
+    "root_review": "Root read full relevant primary pages and adjacent analysis."
+  },
+  {
+    "observation_id": "FDICS-O043",
+    "final_values": {
+      "position": "prohibit",
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_A": "prohibit",
+      "category_B": "prohibit",
+      "category_C": "prohibit",
+      "category_D": "prohibit",
+      "category_E": "no position"
+    },
+    "reason": "Correct false negative after retrieving expressly incorporated primary submissions. FDIC pp2–3 adopts IIB Treasury/OCC; IIB Treasury Q14 explicitly endorses BPI response, whose joint primary letter pp3–8 contains these restrictions and rationales. Attribute as express two-stage adoption, not IIB original words. D excludes intrinsic payment utility; C is issuer-related arrangements.",
+    "source_pinpoint": "ROOT-USFDIC043 pp2–3; US_IIB_Treasury2025_adopted p23 Q14; US_JointTrades_Treasury2025 pp3–8; V2IIBOCC2026 p22fn69",
+    "exact_passage": "Our members endorse the positions expressed by the Bank Policy Institute",
+    "root_review": "Root read complete incorporation clauses and adopted remuneration section, including limiting footnotes."
+  },
+  {
+    "observation_id": "FDICS-O048",
+    "final_values": {
+      "legal_classification": "yes",
+      "category_D": "permit conditionally",
+      "category_E": "permit conditionally",
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes"
+    },
+    "reason": "Main submission expressly adopts statutory deposit/MMF product distinction, endorses independent merchant and other incentives with control/funding safeguards, and describes reserve yields as reporting data. These codes concern fully read main text; incorporated sources require separate coverage qualification. Explicitly adopted OCC letter acknowledges bank-member deposit/credit risks while rejecting a broad third-party ban; safeguarded treasury optimization supports E and operating economics, not B permission.",
+    "source_pinpoint": "ROOT-USFDIC048 pp9–10,41–42 | ROOT-USFDIC048 p1 incorporated prior OCC response; V2TDC_OCC_G2 pp3,15–16",
+    "exact_passage": "distinguish payment stablecoins from traditional deposit products and money market funds | the resulting deposit outflows could impair the ability of banks to lend and could have broader implications for credit creation and financial stability.",
+    "root_review": "Root read complete incorporation clauses and adopted remuneration section, including limiting footnotes. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "V2TDC_OCC_G2"
+  },
+  {
+    "observation_id": "FDICS-O025",
+    "final_values": {
+      "position": "prohibit",
+      "category_D": "prohibit",
+      "category_E": "no position"
+    },
+    "reason": "Explicit requested scope includes use-based benefits and discounts without duration condition; substantial unrelated business-purpose exception is preserved but not a general D permission. E reserve earnings described within explicit prohibition on pass-through, without separate earnings recommendation. Main letter expressly incorporates full OCC attachment.",
+    "source_pinpoint": "ROOT-USFDIC025 PDF41–42,65–66 / AnnexB17–18,41–42",
+    "exact_passage": "providing interest or yield through a discount",
+    "root_review": "Complete relevant primary pages with context read."
+  },
+  {
+    "observation_id": "US_O_CircleFDIC",
+    "final_values": {
+      "category_E": "not_addressed"
+    },
+    "reason": "Retain first code: quoted Q91 is FDIC question text. Circle answer discusses reserve-composition reporting but does not itself mention yields or issuer income entitlement. Do not assign E merely from reproduced prompts.",
+    "source_pinpoint": "ROOT-USFDIC052 pp38–39 Q91",
+    "exact_passage": "data that is directly relevant to PPSI supervision and within the issuer’s operational control",
+    "root_review": "Complete relevant primary pages with context read."
+  },
+  {
+    "observation_id": "FDICS-O030",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "category_B": "prohibit",
+      "category_D": "prohibit",
+      "category_E": "no position"
+    },
+    "reason": "June9 Kansas main expressly aligns with ABA FDIC feedback, which includes adopted OCC letter. B/D and the additional rationales therefore arise by broad express adoption, not independent Kansas wording. Do not backdate May1 ABA text to April30 Kansas attachment.",
+    "source_pinpoint": "ROOT-USFDIC030 p1; ROOT-USFDIC023 PDF14–15,23–28",
+    "exact_passage": "The KBA is aligned with the ABA’s feedback.",
+    "root_review": "Full adoption paragraph and full adopted remuneration paragraphs rechecked against primary."
+  },
+  {
+    "observation_id": "FDICS-O049",
+    "final_values": {
+      "category_E": "permit conditionally"
+    },
+    "reason": "Supports earning higher reserve yields on longer-term high-quality assets expressly permitted by GENIUS; retained statutory asset quality is the safeguard. Not general unconstrained reserve-return permission and not B.",
+    "source_pinpoint": "ROOT-USFDIC049 p9 reserveWAM discussion",
+    "exact_passage": "higher yields offered by longer-term, high-quality assets",
+    "root_review": "Full relevant primary page read."
+  },
+  {
+    "observation_id": "EU-O026",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509360; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Columns 33 and 101 appear truncated; all visible answers read. No full negative certified."
+  },
+  {
+    "observation_id": "EUSCA-O005",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null,
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test. Explicitly endorses Q25 safe/liquid reserve-investment safeguard. E includes investment authorization subject to safeguards; this does not establish holder remuneration or B.",
+    "source_pinpoint": "ROOT-EUC-F515368 | ROOT-EUA-003 | ROOT-EUA-004 | ROOT-EUA-005 | ROOT-EUA-006 | ROOT-EUA-007 | ROOT-EUA-008 | ROOT-EUA-009 | ROOT-EUA-010 | ROOT-EUA-011; published-answer coverage listed by independent reviewer | ROOT-EUC-F515368 C113/127 Q25; complete question and answer",
+    "exact_passage": " | Relevant",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Read complete nonempty questionnaire through451 and all9annexes: ROOT-EUA0035pp,0044pp,0054pp,0066pp,0074pp,0083pp,0091p,0103pp,01111pp, including footnotes and tables. StablecoinCode PartVI expressly incorporates missing KeyConsiderations companion; GDF taxonomy/custody also cross-referenced. Complete packet read but adopted companion not available. Read full9-page official-hosted PDF reader of9May2019 summit discussion draft, including taxonomy, all risk categories and footnote. This is contextual and is not substituted for the exact approved2020 incorporated companion. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-EUC-F515368"
+  },
+  {
+    "observation_id": "EUSCA-O010",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F515363; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All visible responses read. C304 ends unfinished \"used for payment as well\"; no missing annex supplied. No remuneration text in visible contribution; incomplete hybrid-payment answer prevents global negative."
+  },
+  {
+    "observation_id": "EUSCA-O018",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509384; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available prose read including securities and payment law sections; C33 begins mid-sentence and C80 starts \"making it difficult\". No certified global negative from incomplete published answers."
+  },
+  {
+    "observation_id": "EUSCA-O020",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null,
+      "financial_stability_run_risk": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test. Explicitly endorses Q25 safe/liquid reserve-investment safeguard. E includes investment authorization subject to safeguards; this does not establish holder remuneration or B.",
+    "source_pinpoint": "ROOT-EUC-F509382 | ROOT-EUA-015 | ROOT-EUA-016 | ROOT-EUA-017; published-answer coverage listed by independent reviewer | ROOT-EUC-F509382 C113/127 Q25; complete question and answer",
+    "exact_passage": " | Relevant",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Read all published questionnaire cells1–451 and complete3annexes:21-page German12April2019 DK submission,31-page English11March2019 BdB DLTsecurities discussion(including table and legal annex),1-page GermanKWG definition. Questionnaire C77,C86,C90,C221,C253,C289,C310,C324,C325,C352–353 contain fragment openings. Explicitly endorsed IOSCO2020trading-platform report and ESMA2017DLT report are not supplied adopted annexes and not read here. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-EUC-F509382"
+  },
+  {
+    "observation_id": "EUSCA-O028",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509372; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All visible answers and ratings read. C30 starts \"these assets could subsequently\"; C35 retains only final FINMA reference and Liechtenstein sentence. No remuneration position in visible text; truncated classification answers prevent global negative."
+  },
+  {
+    "observation_id": "EUSCA-O032",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509366; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All visible contribution read. C101 begins \"and (vi)\" and omits preceding stablecoin risk discussion. No remuneration mentioned in available prose, but missing beginning prevents global negative."
+  },
+  {
+    "observation_id": "EUSCA-O034",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509363; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available questionnaire cells read. C323 starts “or by incorporating”; C353 starts “there are still many challenges”, apparently omitted initial material. No complete global negative certified. C33 concerns securities/utility-token remuneration expressly excluding currency/payment tokens, not stablecoin-holder remuneration."
+  },
+  {
+    "observation_id": "EUSCA-O035",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509362; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available answers read. C272 begins \"or depending\"; C312 only \"and (ii)\" fragment; C368–369 start \"the other\" with preceding context missing. No remuneration visible, but no full negative certified."
+  },
+  {
+    "observation_id": "EUSCA-O038",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509357; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All visible prose and response ratings read. C290 starts \"although the underlying technology\" with preceding clause missing. Its visible content concerns securities infrastructure; absent complete source context, no global negative certified."
+  },
+  {
+    "observation_id": "EUSCA-O059",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509322 | ROOT-EUA-029; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available questionnaire answers and all 12 PDF pages of conceptual annex read. C30 starts with item b, no item a; annex does not restore exact missing answer. No global negative. General EMD incorporation, crypto mining/staking rewards and airdrops are not explicit stablecoin remuneration positions."
+  },
+  {
+    "observation_id": "EUSCA-O060",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null,
+      "financial_stability_run_risk": "yes",
+      "commercial_viability": "yes",
+      "category_E": "permit conditionally"
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test. Safe/liquid reserve-investment condition accepted; negative rates expressly affect collateral-management economics. Neither passage supports holder pass-through.",
+    "source_pinpoint": "ROOT-EUC-F509321; published-answer coverage listed by independent reviewer | ROOT-EUC-F509321 C77,102,113,126–138",
+    "exact_passage": " | The current negative rate environment makes such activity quite difficult from an economic perspective.",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Read all nonempty published answers and rating cells through434. C33,C36,C80,C86,C90,C236,C264,C370,C427 are fragments beginning mid-list/sentence; referenced General comments/PartII are not complete in this published record. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-EUC-F509321"
+  },
+  {
+    "observation_id": "EUSCA-O065",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509316 | ROOT-EUA-034; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available questionnaire answers and full five-page EC.Additional.Info annex read. C35 begins \"however\" and omits previous taxonomy discussion. No remuneration in visible text; source fragment prevents global negative."
+  },
+  {
+    "observation_id": "EUSCA-O070",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509311; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available published questionnaire cells read. C33 starts with list fragment; C325 starts “pump-and-dump”. No global negative certified. C222 general wallet bonus/membership programmes do not identify stablecoin holding or activity-based stablecoin remuneration; C76 monetary-policy risk concerns stablecoins generally, not remuneration."
+  },
+  {
+    "observation_id": "EUSCA-O077",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509304; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Columns 30 and 261 start with second numbered clauses; column 264 ends mid-sentence. Complete published cells read, but source fragments preclude full-document absence."
+  },
+  {
+    "observation_id": "EUSCA-O082",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509298; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Column 90 starts with further, technological risks, indicating a missing first part; all visible answers read."
+  },
+  {
+    "observation_id": "EUSCA-O086",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509294; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available questionnaire cells read; C33 begins “however”, C64 starts “or (iii)”, C86 begins “(e)”, C249/C255 start “and”: incomplete published answers. General application of EMD2 does not by itself supply a remuneration stance."
+  },
+  {
+    "observation_id": "EUSCA-O087",
+    "final_values": {
+      "position": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "category_E": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test. Do not assign EBF April1 publication content to Finance Denmark March18 adoption: the exact adopted version has not been recovered. Adoption is explicit, but version identity remains unverified. Positives from the later EBF source are not safely attributable to this episode.",
+    "source_pinpoint": "ROOT-EUC-F509292 | ROOT-EUA-040; published-answer coverage listed by independent reviewer | ROOT-EUA-040 full2pp dated18March2020; ROOT-EUC-F515365 published1April2020",
+    "exact_passage": " | we support the positions and comments of EBF.",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Complete Finance Denmark metadata and two-page18March2020 letter; complete nonempty published EBF F515365 answers read with repeated prompts collapsed. EBF public contribution dated1April2020, later than incorporation letter; exact adopted18March version and any nonpublic annex remain unavailable. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-EUA-040"
+  },
+  {
+    "observation_id": "EUSCA-O092",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509287; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Column 259 starts mid-sentence (and (b)); prior text unavailable in the published cell; all visible answers concern AML/CFT."
+  },
+  {
+    "observation_id": "EUSCB-O007",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509225; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All available answers read. C33 begins midway through payment-token definition; C90 starts \"further, technological risks\". Securities interest/dividend rights in C33 do not explicitly concern stablecoin remuneration. No global negative certified."
+  },
+  {
+    "observation_id": "EUSCB-O019",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F509165; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Column 90 starts with and; complete reasoning is not recoverable from this cell. Linked Liechtenstein legislative references were not supplied as attachments."
+  },
+  {
+    "observation_id": "EUSCB-O029",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F508656 | ROOT-EUA-055 | ROOT-EUA-056; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All nonempty CSV cells read, plus complete21-page September2019 GoverningDLTNetworks and29-page March2019 GuidingPrinciples papers, including tables, diagram labels and endnotes. CSV C286 andC292 begin mid-sentence; annexes supply broad subject context but cannot certify every omitted submitted word. Diagrams read from native labels, not independently visually checked."
+  },
+  {
+    "observation_id": "EUSCB-O041",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F515352; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. All questionnaire text read. Multiple answers replace substantive stablecoin discussion with a linked digital-money book and video (C64,C76,C101,C138,C140,C258,C259,C438), neither supplied as packet attachment nor read here; no full negative certified. Broad regulatory opposition does not itself establish remuneration permission."
+  },
+  {
+    "observation_id": "EUSCB-O049",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F506867; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Column 33 starts mid-sentence (dividends rights); missing preceding text prevents complete classification review."
+  },
+  {
+    "observation_id": "EUSCB-O053",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "ROOT-EUC-F505937; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Full visible response read. C33 starts mid-sentence \"for a currency token to be used\"; security-token dividends elsewhere concern generic security tokens, not stablecoin remuneration. Missing beginning prevents global negative."
+  },
+  {
+    "observation_id": "EUSCB-O059",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "reserve_safety_distribution_distinguished": null,
+      "category_E": "no position"
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test. Describes investment of issuer assets under fund investment policy without recommendation or holder-income beneficiary. Published C100 is fragmentary; preserve unknown holder fields.",
+    "source_pinpoint": "ROOT-EUC-F503358; published-answer coverage listed by independent reviewer | ROOT-EUC-F503358 C100/126",
+    "exact_passage": " | Then the issuer (fund) invests the assets in accordance with T&C of the fund and investment policies",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Full available response read, but C100 is only the fragment \"issuer=fund).\" C126 describes reserve investment under fund rules without explicit distribution of income to holders. Missing context prevents global negative. Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-EUC-F503358"
+  },
+  {
+    "observation_id": "V2EU-O008",
+    "final_values": {
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "competition_innovation_consumer_welfare": null,
+      "category_B": null,
+      "category_D": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "V2EU070; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Supplied source is a web-extracted excerpt: lines 911–1290, PDF pages 25–39 of a 132-page response. All excerpt text read; remaining 117 pages not supplied here."
+  },
+  {
+    "observation_id": "V2EU-O012",
+    "final_values": {
+      "position": null,
+      "deposit_displacement_bank_funding": null,
+      "monetary_policy_transmission": null,
+      "financial_stability_run_risk": null,
+      "payments_vs_investment": null,
+      "legal_classification": null,
+      "competition_innovation_consumer_welfare": null,
+      "commercial_viability": null,
+      "category_A": null,
+      "category_B": null,
+      "category_C": null,
+      "category_D": null,
+      "category_E": null,
+      "reserve_safety_distribution_distinguished": null
+    },
+    "reason": " Unavailable or truncated source content cannot certify absence. Null is retained as administrative missingness, excluded from classified-stance denominators; it is neither no position nor substantive ambiguity. Optional unspecified-payer field is not a standalone missing-data test.",
+    "source_pinpoint": "V2EU025; published-answer coverage listed by independent reviewer",
+    "exact_passage": "",
+    "root_review": " Administrative source-coverage adjudication, using full independent coverage report: Read all nonempty published questionnaire answers, including prose and rating cells; repeated common form prompts collapsed. Complete actor-authored webpage summary read; full underlying consultation response was not supplied in the observation packet."
+  },
+  {
+    "observation_id": "US_O_Marcus2019",
+    "final_values": {
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "category_C": "no position"
+    },
+    "reason": " Oral no-interest business model rebuts deposit substitution; written answers describe consumer benefits, intermediary rebates, reserve-yield risk and Howey boundary. These remain descriptive rather than general legal prohibition. Written answers are undated and postdate25July2019, so must not be backdated to oral hearing.",
+    "source_pinpoint": " | US_LibraHearing2019 oralPDF14/16; writtenPDF65,87–88,90–94",
+    "exact_passage": " | Libra is not meant to compete with bank accounts. We will, for instance, not pay interest.",
+    "root_review": " Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "US_LibraHearing2019"
+  },
+  {
+    "observation_id": "FDICS-O038",
+    "final_values": {
+      "position": "ambiguous",
+      "deposit_displacement_bank_funding": "yes",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "legal_classification": "yes",
+      "competition_innovation_consumer_welfare": "yes",
+      "commercial_viability": "yes",
+      "category_A": "prohibit",
+      "category_B": "prohibit",
+      "category_C": "ambiguous",
+      "category_D": "ambiguous",
+      "category_E": "permit conditionally"
+    },
+    "reason": " Broad non-exhaustive express alignment imports IIB and TDC, with conflicting C/D recommendations. Preserve mixed adoption; do not portray SG as unambiguously supporting a third-party ban. IIB Treasury→joint letter attribution and TDC OCC investment-safeguard passages independently checked.",
+    "source_pinpoint": " | ROOT-USFDIC038 pp5–6; ROOT-USFDIC043 pp2–3; US_IIB_Treasury2025_adopted p23; US_JointTrades_Treasury2025 pp3–8; ROOT-USFDIC048 pp9–10; V2TDC_OCC_G2 pp3,15–16",
+    "exact_passage": " | SG aligns itself with comments submitted by the Institute of International Bankers (“IIB”) and the Digital Chamber (“TDC”), notably, without limitation",
+    "root_review": " Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "ROOT-USFDIC038"
+  },
+  {
+    "observation_id": "USV2-NCUA-O027",
+    "final_values": {
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "commercial_viability": "yes",
+      "category_B": "prohibit",
+      "category_E": "permit conditionally"
+    },
+    "reason": " Broad adopted OCC commentary excludes holders from reserve-return optimization and accepts issuer-yield prohibition while permitting independent transactional benefits. E subject to risk controls is not B permission. Relevant bank-deposit/run rationale, business costs and payment/return distinction expressly developed.",
+    "source_pinpoint": " | V2_NCUA-2026-1024-0027 p1/8–9; V2TDC_OCC_G2 pp3,15–16",
+    "exact_passage": " | This would allow issuers to maximize returns on reserve assets (for the issuer's benefit, not stablecoin holders) while maintaining full compliance with reserve requirements.",
+    "root_review": " Full cited primary paragraphs/pages inspected by root; source attribution checked.",
+    "quote_source_id": "V2TDC_OCC_G2"
+  },
+  {
+    "observation_id": "NCUAF-O005",
+    "final_values": {
+      "category_E": "not_addressed"
+    },
+    "reason": "The only reserve yield/interest language is the reproduced NCUA Question 125. The respondent answers identifier/reporting design, without its own description or normative treatment of reserve remuneration. Questionnaire boilerplate cannot supply an actor code. Retain E not_addressed; this is distinct from a respondent-authored descriptive no-position passage.",
+    "source_pinpoint": "V2_NCUA-2026-1024-0010: PDF p. 2, Question 125 versus respondent answer; full six-/seven-page contribution reviewed",
+    "exact_passage": "DTIF recommends that the weekly reporting fields in § 706.205(h) include the DTI (ISO 24165) code for each Payment Stablecoin",
+    "root_review": "Root read both full documents, reread truncated opening page, and distinguished quoted agency wording from respondent prose."
+  },
+  {
+    "observation_id": "NCUAF-O013",
+    "final_values": {
+      "category_E": "not_addressed"
+    },
+    "reason": "The only reserve yield/interest language is the reproduced NCUA Question 125. The respondent answers identifier/reporting design, without its own description or normative treatment of reserve remuneration. Questionnaire boilerplate cannot supply an actor code. Retain E not_addressed; this is distinct from a respondent-authored descriptive no-position passage.",
+    "source_pinpoint": "V2_NCUA-2026-1024-0020: PDF p. 2, Question 125 versus respondent answer; full six-/seven-page contribution reviewed",
+    "exact_passage": "The SAG recommends that the weekly reporting fields in § 706.205(h) include the DTI",
+    "root_review": "Root read both full documents, reread truncated opening page, and distinguished quoted agency wording from respondent prose."
+  },
+  {
+    "observation_id": "EUSCA-O053",
+    "final_values": {
+      "competition_innovation_consumer_welfare": "no",
+      "category_C": "not_addressed"
+    },
+    "reason": "Full second review identifies an investment fund deploying stablecoins into lending protocols, whose Participants receive the fund strategy returns. That separate investment product is outside the holder-balance remuneration category C used here. General DeFi innovation is not a rationale for a stablecoin remuneration rule. Preserve the explicit lending description as a boundary case; do not report textual silence or infer B.",
+    "source_pinpoint": "ROOT-EUA-028: PDF pp. 18–20, Question 12 and adjacent risk context; ROOT-EUC-F509329 matched contribution",
+    "exact_passage": "providing Stablecoins to Lending Protocols and receives an interest in return. | To provide steady interest returns for the Participants",
+    "root_review": "Root read complete Q12 and adjacent question context against independent full 104-page and CSV review; adopted the separate-product boundary."
+  },
+  {
+    "observation_id": "USHS-O004",
+    "final_values": {
+      "unspecified_holder_position": "no position",
+      "financial_stability_run_risk": "yes",
+      "payments_vs_investment": "yes",
+      "category_A": "not_addressed",
+      "category_E": "permit conditionally"
+    },
+    "reason": "Massari personally endorses a limited safe-reserve revenue model and tailored capital treatment; E conditional permission is a disclosed endorsed-model interpretation. Non-interest-bearing names no payer and is descriptive/classificatory, not an issuer ban. Reserve risk and viability are expressly analyzed for E. The clear returns-versus-payments contrast is undated QFR and is not backdated. Holder-income safety separation remains not_addressed and no B proposal is established.",
+    "source_pinpoint": "US_Hearing2021_Jai: oral printed pp. 24 and 30 / PDF pp. 28 and 34; prepared printed p. 63 / PDF p. 67; QFR printed p. 101 / PDF p. 105 (undated)",
+    "exact_passage": "the stablecoin business model would be uneconomic for an insured depository institution | The stablecoin business, rather than generating returns from long-term lending and investments, is instead focused on payment services.",
+    "root_review": "Root read complete cited pages including speaker attribution and questions; read QFR with undated limitation; accepted separate E interpretation and payer-unspecified coding."
+  }
+]

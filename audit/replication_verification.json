@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-10",
+  "status": "passed",
+  "test_scope": "Copied package, independent temporary working directory, no source archive referenced, network connections disabled by a socket guard. Numerical and rendered outputs rerun with deterministic byte identity in the tested environment.",
+  "runs": [
+    {
+      "script": "scripts/reproduce.py",
+      "exit_code": 0
+    },
+    {
+      "script": "scripts/plot_heatmap.py",
+      "exit_code": 0
+    },
+    {
+      "script": "scripts/reproduce.py",
+      "exit_code": 0
+    }
+  ],
+  "deterministic_results_files": 15,
+  "python": "3.12.14",
+  "platform": "Darwin arm64",
+  "packages": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.3"
+  },
+  "semantic_recoding_performed": false,
+  "live_url_validation_performed": false,
+  "raw_third_party_corpus_included": false,
+  "quantitative_source_archive_unchanged": true,
+  "figure_design_note": "Regenerated outputs reproduce research_v2 artwork. The separate manuscript_figure1.pdf is supplied unchanged; no byte-identity claim across those different designs."
+}

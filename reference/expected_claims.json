@@ -1,0 +1,35 @@
+{
+  "actor_episodes": 517,
+  "adjudicated_observations": 192,
+  "field_reconciliation_comparisons": 4800,
+  "field_reconciliation_mismatches": 0,
+  "figure_classifiable_denominators": [
+    323,
+    323,
+    327,
+    323,
+    327,
+    324,
+    325
+  ],
+  "named_private_actor_episodes": 350,
+  "no_position_second_review": {
+    "not_in_second_review": 132,
+    "qualified": 5,
+    "strict_complete_context": 108
+  },
+  "not_in_second_review": 197,
+  "private_stance": {
+    "ambiguous": 34,
+    "no position": 245,
+    "permit": 12,
+    "permit conditionally": 10,
+    "prohibit": 27,
+    "unknown": 22
+  },
+  "private_substantive_or_mixed_stance": 83,
+  "qualified_second_reviews": 76,
+  "second_reviews": 320,
+  "source_records": 2176,
+  "strict_complete_context_second_reviews": 244
+}

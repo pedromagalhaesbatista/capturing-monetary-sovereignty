@@ -1,0 +1,9 @@
+# Clarification 001 — scope of safety/distribution variable
+
+Issued during the fresh blind pass, 3 October 2026 UTC. Prompted by a neutral reviewer question, without disclosing prior codes or findings. Sent to all fresh reviewers.
+
+The principal `reserve_safety_distribution_distinguished` variable concerns allocation/pass-through of income to holders, especially B. Explicit analysis solely of issuer E earnings compatible with safe backing is a separate analysis of issuer earnings. Code the principal holder-allocation flag and `reserve_income_separation_level` as `not_addressed`; preserve `issuer_earnings_safety_analysis=yes` and the exact E-only scope. This avoids treating issuer earnings as holder distribution.
+
+`joint_mention_only` applies where holder remuneration and reserves both occur but their compatibility or allocation is not expressly analysed. It does not mean the reviewer overlooked an explicit E-only argument.
+
+The new instrument already differs from v1. Agreement measures describe a frozen first-pass versus revised-instrument recoding audit; they are not pure inter-rater reliability under an unchanged instrument. Reviewer revisions made before disclosure of first codes remain blind revisions and must be preserved with the clarification.

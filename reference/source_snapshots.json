@@ -1,0 +1,170 @@
+[
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/respondent_level_dataset.csv",
+    "original_sha256": "d3fa31b9ad398bcbe09e64f85d921e6ef25969403bc0679631bc239ef96017de",
+    "package_path": "data/actor_episode.csv",
+    "package_sha256": "e17cb0e1dbfc95d08bb8ff619b1eff58c1d680251d0898946afd8d0f8dc20e76",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/source_universe.csv",
+    "original_sha256": "8c1673c4594699db46f30998cb3fd1a62a5f2da62b9f230f9998d752824bcf7c",
+    "package_path": "data/source_register.csv",
+    "package_sha256": "07b50b033fe6d3898f664646bb1e4136aa6a2a0d03d7ba6a76e76e464eb5b130",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/argument_level_dataset.csv",
+    "original_sha256": "afb3d6c1a085f3adc61e6f6c7ed8055709a3d24093dc4883b0a6abe0af9fd4a9",
+    "package_path": "evidence/passage_ledger.csv",
+    "package_sha256": "aaae01284a5dd256ddda6de8919a03c61504e229ccc9226ab94cf6fee6d3693c",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/argument_coding_rows.csv",
+    "original_sha256": "fb894b888ef65a93fd9dcace5342e83dae3b9a3c080f3f24bb2c6d1fd664c932",
+    "package_path": "audit/historical_argument_rows.csv",
+    "package_sha256": "ac79de98e183f9f5fce15068cf9112aed5fd877c2fd899fcdc05d7894cc58550",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/actor_type_by_rationale.csv",
+    "original_sha256": "d3d8dff4012f11a4377a9f98c61923785bdfd25f38c589a4d8e924c96ef193cf",
+    "package_path": "reference/original_heatmap_cells.csv",
+    "package_sha256": "ed33ee3aa967b8fcadbf4e1e69fd1fa5ac5f4a54466e86eefcf87c3bb92de0fe",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/observation_population_metadata.csv",
+    "original_sha256": "bfa77e2ce7df1cf235926103de85c34baf9420d07332f1d3d12ac18fa0c68312",
+    "package_path": "audit/original_population_metadata.csv",
+    "package_sha256": "06a3e073f965a6c7da6c659875afb568554661e8140d198b905fde5f6e5c444c",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/codebook.md",
+    "original_sha256": "1ec8b43910a24d3b410c634ff27c3e5c7d9fb342e0b6f587b973482d49c638e7",
+    "package_path": "methods/final_codebook.txt",
+    "package_sha256": "92104d5d7ecc8e499550e5865179cfabf1a4fdd74cbf3bc92c5589d9ed51ed63",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved. Prepended a package path crosswalk; preserved codebook text follows."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/PROTOCOL.md",
+    "original_sha256": "4a31b121b5972a4e4fe56b66088e2bf966c8fcb2f8eec2939503a2e2f285ab32",
+    "package_path": "methods/original_protocol.txt",
+    "package_sha256": "4a31b121b5972a4e4fe56b66088e2bf966c8fcb2f8eec2939503a2e2f285ab32",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/methods.md",
+    "original_sha256": "6d3b0c1ec81584b297407ceaf461f376a2d77c4f07fb671bc61881446098392e",
+    "package_path": "methods/original_methods.txt",
+    "package_sha256": "6d3b0c1ec81584b297407ceaf461f376a2d77c4f07fb671bc61881446098392e",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/blind_coding_rubric.md",
+    "original_sha256": "9b89ee2985aa5e04fe216838cf17e622335fd02db9f0d86cdea92b463edb43df",
+    "package_path": "methods/blind_coding_rubric.txt",
+    "package_sha256": "9b89ee2985aa5e04fe216838cf17e622335fd02db9f0d86cdea92b463edb43df",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/rubric_clarification_001.md",
+    "original_sha256": "055524c7f0a475079284ef14bde811003e5322c28f385f1f8884a581b5710002",
+    "package_path": "methods/rubric_clarification_001.txt",
+    "package_sha256": "055524c7f0a475079284ef14bde811003e5322c28f385f1f8884a581b5710002",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/reliability_report.md",
+    "original_sha256": "daf1cb0c39d7566f54116e47cb470b1580f94f4e1403dd2162b971a8aae01c22",
+    "package_path": "audit/original_reliability_report.txt",
+    "package_sha256": "daf1cb0c39d7566f54116e47cb470b1580f94f4e1403dd2162b971a8aae01c22",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/adjudication_log.csv",
+    "original_sha256": "2959b0cc31f382ff1741a3483388cc4b3d1a3d9dc645af571807fac95b1b6736",
+    "package_path": "audit/original_adjudication_log.csv",
+    "package_sha256": "7052b59ebe37bc8d4adb543ac16be37783ce0aa82ac9f3d23f92a3f7cd3457df",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/independent_review_coverage.csv",
+    "original_sha256": "a821e1e3987b42767259eca5a8c58f06a4803f646270d27dd46530447145222f",
+    "package_path": "audit/original_review_coverage.csv",
+    "package_sha256": "3e67b84503354bf8136098fa78c167adc4bc7a4e275990d6ed8cf83ce5a151e8",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/reliability_statistics.csv",
+    "original_sha256": "db77cc0c24c53e2c44e1bebf3da2cd005d9175c3319f87e4cbd15ebd0c25db1c",
+    "package_path": "audit/original_agreement_statistics.csv",
+    "package_sha256": "17b63eded744e64bd32cb1521dd9e0d59f84c963ac19daf8807287cf5b1ebe33",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/episode_coverage.json",
+    "original_sha256": "026155e514c8039a94e63431e771e7c0377cd7fe53a09d624a73f595c559c802",
+    "package_path": "audit/episode_coverage.json",
+    "package_sha256": "026155e514c8039a94e63431e771e7c0377cd7fe53a09d624a73f595c559c802",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/adjudication_decisions.json",
+    "original_sha256": "34cb086fe71b014f3dc3ac814444d7b4f74c7ddea571cde301a8901396df1872",
+    "package_path": "audit/adjudication_decisions.json",
+    "package_sha256": "34cb086fe71b014f3dc3ac814444d7b4f74c7ddea571cde301a8901396df1872",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/substantive_findings.json",
+    "original_sha256": "2b1b4da4f11c52f50fd0902be64ca9f0535e507070fba3f7e9a3fea35f6c629a",
+    "package_path": "supplements/substantive_findings.json",
+    "package_sha256": "2b1b4da4f11c52f50fd0902be64ca9f0535e507070fba3f7e9a3fea35f6c629a",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/actor_mapping.json",
+    "original_sha256": "de1effc7778b104f6d13fddc9ed78f5ac3eda2bfe2b2c4af657f5cd55e36ef27",
+    "package_path": "supplements/actor_mapping.json",
+    "package_sha256": "de1effc7778b104f6d13fddc9ed78f5ac3eda2bfe2b2c4af657f5cd55e36ef27",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/pass2_us.json",
+    "original_sha256": "c86d570fa578c00c2347d34121ae57df224093de5e4b3a5285315905d344f902",
+    "package_path": "supplements/pass2_us.json",
+    "package_sha256": "c86d570fa578c00c2347d34121ae57df224093de5e4b3a5285315905d344f902",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/pass2_lords.json",
+    "original_sha256": "ef25667992483c6deeb594e4dcf73b00b73f623adb631ec32cc8a7a73e180049",
+    "package_path": "supplements/pass2_lords.json",
+    "package_sha256": "277b79f247daa11526e28327744ccfc6a7ee09eff0d0642535d550770f510da3",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/pass2_uk_eu.json",
+    "original_sha256": "d6639a30df4b135aa6e406872f7c219c3c237c0b3ee79387421d656421d9d948",
+    "package_path": "supplements/pass2_uk_eu.json",
+    "package_sha256": "d6639a30df4b135aa6e406872f7c219c3c237c0b3ee79387421d656421d9d948",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "original_relative_path": "OUTPUT/working/comment_revision_2026-10-09/source_inspection/inspection_summary.json",
+    "original_sha256": "bd9596c8c8acb2de647ebe0065600f17acc127c58e2519a31242c448b4152078",
+    "package_path": "supplements/inspection_summary.json",
+    "package_sha256": "bd9596c8c8acb2de647ebe0065600f17acc127c58e2519a31242c448b4152078",
+    "transformation": "UTF-8 without BOM; author-local absolute paths and contact email strings removed; analytical classification values otherwise preserved."
+  },
+  {
+    "package_path": "audit/second_review_codes.json",
+    "original_relative_path": "The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/review/v2/blind_combined.json",
+    "original_sha256": "c851c2265b7d9cc05a5386b88ed176b51fff938ba03c00a0f0e3f8b9593f5af5",
+    "package_sha256": "ac9b0eb3ab884de52310fc53306e626ef71a461d9d30f9c0513ed10e06505966",
+    "transformation": "Project observation_id and all fifteen review-code fields from the archived second-review records; no code-value changes."
+  }
+]

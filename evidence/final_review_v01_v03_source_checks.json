@@ -1,0 +1,19 @@
+[
+  {
+    "finding": "V01",
+    "decision": "implement",
+    "source_url": "https://www.legislation.gov.uk/uksi/2026/102/pdfs/uksi_20260102_en.pdf",
+    "pinpoints": "regulations 1(2)–(3), 43 and 47; printed pp 4–5, 44–45 and 47–48",
+    "verification": "Enacted exclusions contain non-payment/non-arrangement and normal par-redemption conditions. Loss of the specific exclusions does not itself satisfy the fund definitions. General commencement is 25 October 2027, subject to preparatory purposes.",
+    "changes": "Sections III.C, IV.B and V; notes 30, 31, 44 and 52."
+  },
+  {
+    "finding": "V03",
+    "decision": "implement",
+    "source_url": "https://doi.org/10.2139/ssrn.5586850",
+    "sha256": "6b257098211b48f3169c9282eab54061ff2967d53b3b955bd1ad9afa30d28c06",
+    "pinpoints": "pp 6–7, 10 and 81–82; table 3",
+    "verification": "The original 99-page paper confirms the non-interest scenario (6.2% deposit decline; USD 250 billion reduction in lending capacity) and interest scenario (25.9%; USD 1,500 billion). Scenario framing appears at p 10 and the CBDC analogy at pp 81–82. The difference of 19.7 percentage points and USD 1,250 billion is subtraction of rounded figures, not a causal estimate or model replication.",
+    "changes": "Two paragraphs in section IV.A and note 41."
+  }
+]

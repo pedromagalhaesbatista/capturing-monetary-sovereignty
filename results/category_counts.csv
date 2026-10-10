@@ -1,0 +1,35 @@
+category,position,actor_episodes,eligible_private_actor_episodes
+A,unknown,38,350
+A,ambiguous,3,350
+A,no position,24,350
+A,not_addressed,218,350
+A,permit,7,350
+A,permit conditionally,7,350
+A,prohibit,53,350
+B,unknown,42,350
+B,ambiguous,1,350
+B,no position,15,350
+B,not_addressed,261,350
+B,permit,4,350
+B,permit conditionally,7,350
+B,prohibit,20,350
+C,unknown,38,350
+C,ambiguous,1,350
+C,no position,14,350
+C,not_addressed,243,350
+C,permit,12,350
+C,permit conditionally,12,350
+C,prohibit,30,350
+D,unknown,43,350
+D,ambiguous,5,350
+D,no position,15,350
+D,not_addressed,255,350
+D,permit,11,350
+D,permit conditionally,13,350
+D,prohibit,8,350
+E,unknown,36,350
+E,ambiguous,2,350
+E,no position,40,350
+E,not_addressed,219,350
+E,permit,6,350
+E,permit conditionally,47,350

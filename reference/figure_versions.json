@@ -1,0 +1,20 @@
+[
+  {
+    "path": "reference/original_actor_type_rationale_heatmap.pdf",
+    "sha256": "340b157cfcfe74f09e06924d178135a7dac9875c22ba69e1f67e10b26c2bbdee",
+    "bytes": 51374,
+    "role": "Unchanged research_v2 archive figure; regenerated design matches this reference."
+  },
+  {
+    "path": "reference/manuscript_figure1.pdf",
+    "sha256": "311b341c88b9d6f9d37bdb640369664890ccef85265020840387bc0319c98893",
+    "bytes": 57654,
+    "role": "Unchanged FINAL manuscript figure; styling may differ, with the same frozen cell values."
+  },
+  {
+    "path": "results/actor_type_rationale_heatmap.pdf",
+    "sha256": "340b157cfcfe74f09e06924d178135a7dac9875c22ba69e1f67e10b26c2bbdee",
+    "bytes": 51374,
+    "role": "Regenerated figure from scripts/plot_heatmap.py; reproduces the research_v2 design, not a claim of byte identity with the manuscript artwork."
+  }
+]

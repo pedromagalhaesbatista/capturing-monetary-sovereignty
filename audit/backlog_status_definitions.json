@@ -1,0 +1,16 @@
+{
+  "direct_full_document_review": "This register entry has a reported complete substantive-document reading in the October 9 supplementary passes.",
+  "direct_targeted_review": "Relevant sections were read; the complete contribution was not certified.",
+  "document_relationship_check": "Overlap/incorporation checked without full review of the composite document.",
+  "index_with_targeted_linked_response_review": "The register entry is an index; a linked substantive response received targeted review.",
+  "lead_awaiting_content_recovery": "No direct substantive review or resolving link recorded; includes metadata-only leads. It is not a finding that every underlying document is irretrievably unavailable.",
+  "link_to_existing_included_or_inspected_record": "A related source is already included/inspected in the frozen archive, at heterogeneous depths; not proof that this entry is a duplicate or fully read.",
+  "link_to_existing_partial_review": "Related source has partial recorded coverage.",
+  "link_to_new_supplemental_review": "Linked source received a supplementary review; inspect that source’s scope.",
+  "metadata_or_index_only_inspection": "Index/landing page inspected; no substantive contribution represented.",
+  "mutually_exclusive": true,
+  "other_unresolved_linked_record": "A source relation exists but does not resolve substantive coverage.",
+  "precedence": "A later direct review replaces the earlier local-pending status; otherwise retain the first-pass direct or link/lead status. Related links are separate from direct review and do not inherit it.",
+  "retrieval_limit": "26 selected regulations.gov attachment attempts returned HTTP 403 in the first supplement pass. This is not 26 unique irrecoverable documents or a finding about all 891 residual leads.",
+  "unit": "source-register entry"
+}

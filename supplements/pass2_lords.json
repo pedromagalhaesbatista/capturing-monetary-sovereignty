@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-09",
+  "scope": "Targeted semantic reading of six locally archived Lords sources. Long transcripts and the 44-page written response were read at the complete questions or numbered sections recorded below, following discovery screening of the whole text. This is not full-document reading, independent human validation or recoding of the frozen dataset.",
+  "archive_unchanged": true,
+  "status_csv_unchanged": true,
+  "quantitative_action": "None. Keep original 517 actor–episode / 350 named-private cohort and figure unchanged.",
+  "sources": [
+    {
+      "source_id": "ROOT-UKLORDS015",
+      "actor": "Matthias Bauer-Langgartner, Chainalysis",
+      "date": "2026-03-11",
+      "url": "https://committees.parliament.uk/oralevidence/17317/html/",
+      "scope": "Targeted semantic: complete Q101 (opening statement), transcript lines16–113, pp1–3; complete Q109, lines496–562, pp11–13. Whole text screened for remuneration/interest/yield/reward/income/return terms; remaining Q112 interest hit denotes commercial attention, not monetary remuneration.",
+      "finding": "The opening statement calls remuneration, holding limits and backing-asset composition material pinch points affecting UK location and competitiveness. It does not identify whether remuneration refers to issuer reserves, holders or intermediaries. Q109 concerns the income of Chainalysis itself from software/data services, not issuer reserve income.",
+      "coding_caution": "Do not infer a holder-remuneration permission position from the opening phrase. No whole-transcript absence conclusion is made.",
+      "manuscript_action": "No necessary correction or addition. Preserve only as contextual supplementary evidence.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS015_full.txt",
+      "sha256": "919cadf5e86aeed680da7214bce735ac120110ddc9d373ad8c24cc053123cb50"
+    },
+    {
+      "source_id": "ROOT-UKLORDS022",
+      "actor": "Tom Duff Gordon, Coinbase",
+      "date": "2026-03-04",
+      "url": "https://committees.parliament.uk/oralevidence/17284/html/",
+      "scope": "Targeted semantic: complete Q67 (lines15–158, pp1–4); complete Q69–71 (lines279–773, pp6–17); complete Q74–76 (lines921–1206, pp20–27). Q68 and Q72–73 not read in full, so this is not a full transcript review.",
+      "findings": [
+        "Q67 explicitly asks for distributor rewards. Q69 describes a commercial relationship and equity stake with Circle but denies mechanical direct pass-through of reserve interest: Coinbase says it funds customer rewards from its marketing/operating budget, with no necessary one-for-one response to changes in Circle income.",
+        "Q70 frames rewards as fair returns and competition for low-yield bank balances. Q71 attributes opposition principally to transition speed and protection of bank funding margins, explicitly defending rewards paid as distributor.",
+        "Q74 distinguishes issuer access to remunerated central-bank reserves from holder returns, then argues that rapid repricing could improve transmission. Q75 confirms that the existing proposed central-bank balance is unremunerated. These statements should not be flattened into a single direct issuer-interest proposal.",
+        "Q76 argues banks can substitute capital-market funding, with Lord Eatwell contesting its stability. These are competing propositions within a hearing, not established macroeconomic findings."
+      ],
+      "pinpoints": "Q69 pp7–9; Q70 pp13–14; Q71 pp16–17; Q74 pp21–22; Q75 pp23–24; Q76 pp25–27",
+      "coding_caution": "A member's question about sharing reserve interest is not the witness's proposed contractual mechanism. The witness's argument is distributor rewards plus issuer reserve remuneration; do not code it as general direct issuer-to-holder pass-through.",
+      "manuscript_action": "Corroborates the existing intermediary attribution discussion. No necessary addition within the article's word budget. A future supplement could contrast it with Innovate Finance's position.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS022_full.txt",
+      "sha256": "8b8849ff46811b962fe0952c70f96c1cb5f8850de1f9de59bbea27210e7a3523"
+    },
+    {
+      "source_id": "ROOT-UKLORDS025",
+      "actor": "Global Digital Finance and Crypto Council for Innovation",
+      "date": "2026-03-11",
+      "url": "https://committees.parliament.uk/writtenevidence/163778/html/",
+      "scope": "Targeted semantic: paras6–18, pp2–5 (lines89–244); paras69–73, pp15–16 (lines694–722); paragraph92/93 context, pp19–20 (lines874–900); financial-stability and bank-funding parts of para115, pp24–25 (lines1075–1120); paras117–134, pp26–28 (lines1174–1271); paras154–159, pp30–32 (lines1366–1419); paras192–199, pp37–39 (lines1655–1759). Remaining written response and incorporated annexes not read in full.",
+      "findings": [
+        "The response treats qualifying stablecoins as non-interest payment products in its descriptive definition. It explains issuers retaining reserve spread and paying distribution costs, then strongly challenges the 40% unremunerated central-bank reserve requirement on viability and international-competition grounds.",
+        "Paras127–130 oppose shielding incumbent funding models, while expressly observing that the absence of holder yield limits deposit substitution under the proposal.",
+        "Paras157–158 expressly say their proposed monetary-transmission channels do not operate through interest to holders; they concern reserve reinvestment and demand for short-dated sovereign instruments.",
+        "The reference to 39% receiving income in stablecoins concerns payments received in stablecoins, not yields on balances. The description of DeFi yield is descriptive usage, not a recommendation for holder remuneration."
+      ],
+      "pinpoints": "Paras7,12,15–18; 127–130; 157–158; 192–199",
+      "coding_caution": "Do not classify a call for remuneration of issuer reserves as support for paying holders. Do not infer an affirmative recommendation to retain the holder ban solely from descriptive statements of the proposed regime. Unread incorporated consultation response remains outside this review.",
+      "manuscript_action": "No necessary correction. Strong methodological example of why issuer reserve earnings and holder returns are separate coding fields, but existing methods already makes the distinction.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS025_full.txt",
+      "sha256": "1dbbe4d1301fe312ec12cbcef5d74481b2241b1ea43754f514268ac21a242805"
+    },
+    {
+      "source_id": "ROOT-UKLORDS036",
+      "actor": "Professor Simon Gleeson",
+      "date": "2026-02-11",
+      "url": "https://committees.parliament.uk/oralevidence/17190/html/",
+      "scope": "Targeted semantic: complete Q22–24 (lines68–332, pp2–8); complete Q27 (lines415–476, pp9–11); complete Q29 (lines559–661, pp12–15). Other questions not read in full.",
+      "findings": [
+        "Q22 reports an emerging regulatory consensus against holder interest, while identifying unresolved allocation of income on backing assets and rate-dependent issuer viability. It separately warns about runs from stablecoins into other assets and potential government-bond liquidation pressure.",
+        "Q24 accepts a deposit/credit-displacement concern but locates responses in fiscal and monetary policy rather than simply the remuneration ban.",
+        "Q27 agrees that competitive rewards can recreate some benefits despite formal restrictions, notes imperfect consumer price sensitivity and pass-through, and describes bank resistance to competing products. These are the witness's claims, not findings of capture.",
+        "Q29 discusses sovereign-credit risk, bank-issued stablecoin branding and the boundary around deposit insurance. It does not establish that public backing assets are unconditionally risk free."
+      ],
+      "coding_caution": "Reported consensus is not equivalent to an express recommendation to prohibit. The member's speculative retail discount scheme is a hypothetical, not an observed evasion case.",
+      "manuscript_action": "Corroborative background for existing risk/avoidance analysis; no necessary insertion.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS036_full.txt",
+      "sha256": "446a90148803a4441f6e6cfb8281be0ae7baf8a01eece3b178cd7b8efc5b845c"
+    },
+    {
+      "source_id": "ROOT-UKLORDS046",
+      "actor": "Adam Jackson, Innovate Finance",
+      "date": "2026-03-04",
+      "url": "https://committees.parliament.uk/oralevidence/17285/html/",
+      "scope": "Targeted semantic: complete Q79–80, lines182–373, pp4–8, including surrounding solvency, liquidity, deposit-migration and bank-protection discussion. Remaining questions not read in full.",
+      "findings": [
+        "Q79 says members are divided and some want permission for interest to the direct holder. Jackson accepts non-interest stablecoins as the initial payment product, argues interest would make the product more like a bank account, and supports flexibility for activity rewards. He separately notes payments to intermediaries as part of the business model.",
+        "The same answer uses non-remuneration to limit expected deposit substitution. Q80 then criticises holding limits as disproportionate and unduly protective of banks, while declining to speculate about deliberate intent.",
+        "This is contrary evidence to an inference that every actor opposing incumbent protection supports holder remuneration. It also extends the article's account of within-sector disagreement beyond UK Finance."
+      ],
+      "pinpoints": "Q79, pp6–7, especially lines250–274; Q80, pp7–8, especially lines330–356",
+      "coding_caution": "No majority/minority proportions are supplied. Do not attribute a uniform policy to all Innovate Finance members. The witness distinguishes direct holder interest from activity rewards and intermediary payments.",
+      "manuscript_action": "Optional worthwhile addition after p84: 'Disagreement was not confined to banking. Innovate Finance’s Adam Jackson reported that some members wanted holder interest, while defending an initial payment model without it and room for activity rewards. He nevertheless criticised holding limits as unduly protective of banks.' Append primary transcript citation to existing note28 or create a note if needed. Keep chart counts unchanged.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS046_full.txt",
+      "sha256": "6bd2867e1808ec4be8a64b536a0364d95cf2c1dd4362b0f03ee1c60a9e3ae2f4"
+    },
+    {
+      "source_id": "ROOT-UKLORDS080",
+      "actor": "Jana Mackintosh, UK Finance",
+      "date": "2026-02-25",
+      "url": "https://committees.parliament.uk/oralevidence/17245/html/",
+      "scope": "Targeted contextual semantic: complete Q57 (lines96–144, pp2–3); Q60 (lines265–347, pp6–8); Q65 (lines601–729, pp13–16). Whole-text term screening found no explicit monetary remuneration phrase, but the unread questions mean no whole-transcript negative is assigned.",
+      "findings": [
+        "Q57 directly rejects a uniform bank-versus-nonbank picture. Views depend on bank business models, credit creation and customer bases; UK Finance describes its role as presenting a diversity of views rather than manufacturing unanimity.",
+        "Q60 concerns tokenised-deposit infrastructure and interoperability. Q65 explains the shift from defensive responses to competitive opportunities, while recognising banks' balance-sheet and market-share concerns.",
+        "The selected exchanges add context for the manuscript's treatment of UK Finance's stated majority/minority response but do not themselves establish a new holder-remuneration stance."
+      ],
+      "coding_caution": "Do not read support for tokenised deposits or competitive bank investment as a recommendation on stablecoin holder interest. Do not assign no-position to the entire transcript on the strength of term screening alone.",
+      "manuscript_action": "No necessary correction; optional corroboration for the already documented within-banking differences.",
+      "local_file": "AUTHOR_WORKSPACE/The Battle Over Stablecoins Remuneration Restrictions/research_v2_2026-10-02/extracted/UK/v2/ROOT-UKLORDS080_full.txt",
+      "sha256": "b0ff5083e0f91d280a26464ea993f80b2735207fbb9f5f729d26bcd795c6ff05"
+    }
+  ],
+  "overall_assessment": "No primary finding requires correction of the revised manuscript's current legal or empirical claims. The most useful new evidence is Innovate Finance's explicit internal disagreement and its simultaneous acceptance of a non-interest payment boundary and opposition to holding limits. All other readings refine attribution and prevent false positives; they need not all be inserted. This supplement records targeted substantive progress, not completion of the complete research archive."
+}

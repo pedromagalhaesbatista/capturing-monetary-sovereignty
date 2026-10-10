@@ -1,0 +1,687 @@
+{
+  "verification_date": "2026-10-10",
+  "scope": "V04/V05 targeted primary-source verification; not independent human validation or whole-corpus recoding.",
+  "code_precedence": "Final category-specific actor fields govern. Historical V2ADJ rows record adjudication reasoning and must not be independently aggregated as category-specific votes.",
+  "private_public_separation": "This map may accompany the public replication materials. The separate Reviewer_Source_Companion contains complete third-party PDFs for private reviewer inspection only; those PDFs are not part of the public replication package.",
+  "sources": [
+    {
+      "verification_item": "V04",
+      "source_id": "EU029",
+      "document_title": "Questionnaire on the Electronic Money Directive (2000/46/EC)",
+      "verified_document_date": "2005-07-14",
+      "register_document_date": "2005-07-14",
+      "document_version": "Ref. E-Money003/2005; public consultation document of Commission services (DG Internal Market)",
+      "source_url": "http://ec.europa.eu/internal_market/bank/docs/e-money/questionnaire_en.pdf",
+      "archived_original_url": "https://web.archive.org/web/20060624163456id_/http://ec.europa.eu:80/internal_market/bank/docs/e-money/questionnaire_en.pdf",
+      "sha256": "7355e06e21042f984cec4c36213a194abd18c36c83eccfe10f9ba491ab3011d1",
+      "page_count": 13,
+      "pinpoint": "PDF/printed p6, item11 and questions11(a)–(b); cover p1.",
+      "brief_exact_phrase": "prevent the lighter regulated ELMIs from competing with banks for deposits",
+      "page_context_paraphrase": "Item11 is a retrospective statement by Commission services about negotiations preceding EMD1. It attributes the proposal to unnamed Member States and then asks whether a prohibition is needed. It does not identify the proposing states or furnish their original papers. The surrounding page moves from waivers to interest and then scope; this is holder interest on funds exchanged for e-money, not issuer reserve earnings.",
+      "verification_result": "Claim supported with the manuscript’s existing attribution and limits. Treat this as official retrospective evidence, not proof of a named national submission.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "V2EU-O001",
+          "actor": "Certain Member States (unnamed, reported by Commission)",
+          "observation_kind": "anonymous_aggregate",
+          "canonical_episode_id": "EU-EMD1",
+          "overall_position": "prohibit",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "not_addressed",
+            "E": "not_addressed"
+          },
+          "rationales": [
+            "deposit_displacement_bank_funding",
+            "competition_innovation_consumer_welfare"
+          ],
+          "argument_ids": [
+            "V2REV-V2EU-O001-001-1",
+            "V2ADJ-V2EU-O001"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/EU029.pdf",
+      "rights_note": "EU Commission text: current general reuse policy is permissive with attribution and indication of changes, subject to specific notices/third-party rights. No contrary document notice found. Do not label archived2005 file itself as expressly CC-BY-marked. Retain in private companion as instructed."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "EU021",
+      "document_title": "SEC(2006)1049: Review of E-Money Directive",
+      "verified_document_date": "2006-07-19",
+      "register_document_date": "2006-07-19",
+      "document_version": "SEC(2006)1049, enclosed in Council12007/06; not the separate contractor evaluation",
+      "source_url": "https://data.consilium.europa.eu/doc/document/ST-12007-2006-INIT/en/pdf",
+      "archived_original_url": "",
+      "sha256": "0e24041d8d09088ef67a2e6e65efdae7e1c12939764775e896a1f719c0345647",
+      "page_count": 16,
+      "pinpoint": "PDF p7/printed p6, section3.1, subsection on possible interest prohibition; Commission cover PDFp2; Council forwarding cover PDFp1.",
+      "brief_exact_phrase": "Respondents were divided",
+      "page_context_paraphrase": "The subsection reports only one identified example of a firm paying interest, describes respondents as divided, and states Commission services saw no apparent strong justification for a prohibition. The next heading begins the market assessment; the claim is the services’ evaluative conclusion, not the unanimous view of all respondents. Neither this passage nor the aggregate account identifies individual anti-ban voices.",
+      "verification_result": "Claim supported. Date is Commission document19July2006; the Council cover dated26July2006 and receipt24July2006 must not replace the document date.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "EU-O003",
+          "actor": "European Commission",
+          "observation_kind": "institutional_policy",
+          "canonical_episode_id": "EU-EMD-review-2005",
+          "overall_position": "permit",
+          "category_positions": {
+            "A": "permit",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "not_addressed",
+            "E": "permit conditionally"
+          },
+          "rationales": [
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-EU-O003-001-1",
+            "V2REV-EU-O003-002-1",
+            "V2REV-EU-O003-003-1",
+            "V2ADJ-EU-O003"
+          ]
+        },
+        {
+          "observation_id": "EU-O004",
+          "actor": "Unidentified EMD-review respondents (Commission aggregate summary)",
+          "observation_kind": "anonymous_aggregate",
+          "canonical_episode_id": "EU-EMD-review-2005",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "ambiguous",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": ""
+          },
+          "rationales": [],
+          "argument_ids": [
+            "V2REV-EU-O004-001-1",
+            "V2ADJ-EU-O004"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/EU021.pdf",
+      "rights_note": "Commission-origin text on official Council site: general EU reuse policies support credited, undistorted reuse absent exceptions; no special restrictive notice found. Private companion only in current package design."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "EU049",
+      "document_title": "ECON draft report PE415.201",
+      "verified_document_date": "2008-11-17",
+      "register_document_date": "2008-11-17",
+      "document_version": "PE415.201v01-00; PR752060EN.doc; ECON draft dated17November2008, rapporteur JohnPurvis",
+      "source_url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-415201_EN.html",
+      "archived_original_url": "https://web.archive.org/web/20190626231440id_/http://www.europarl.europa.eu/meetdocs/2004_2009/documents/pr/752/752060/752060en.pdf",
+      "sha256": "fbf562737a23ad9ea1a2e3025eac562f6e6e75a13d90e49e16551cc81a9ee19f",
+      "page_count": 23,
+      "pinpoint": "PDF/printed p21 under Initial Capital requirements; cover p1.",
+      "brief_exact_phrase": "He is not unduly concerned if this does happen",
+      "page_context_paraphrase": "After discussing initial capital, the explanation acknowledges the Commission recital’s payment/savings distinction, predicts e-money could become a small savings vehicle with naturally developing incentives, and conditions the absence of concern on not creating credit. This is the rapporteur’s draft explanatory reasoning, not an enacted permission, a Parliament-wide adopted position, or an explicit recommendation to pay a particular yield.",
+      "verification_result": "Claim supported when presented as draft rapporteur reasoning. Do not recast it as an express remuneration amendment.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "historical primary source without a frozen actor–episode row",
+      "actor_episode_links": [],
+      "private_companion_path": "sources/EU049.pdf",
+      "rights_note": "Parliament general notice permits credited reproduction of complete material subject to item-specific conditions and third-party rights. No special restrictive document notice found; preserve complete draft and authorship. Private companion in this package."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "V2EU008",
+      "document_title": "Council ST 5575/09, Presidency compromise on EMD2",
+      "verified_document_date": "2009-01-21",
+      "register_document_date": "2009-01-21",
+      "document_version": "Council ST5575/09 INIT;21January2009; Presidency compromise following14January working-party meeting",
+      "source_url": "https://data.consilium.europa.eu/doc/document/ST-5575-2009-INIT/en/pdf",
+      "archived_original_url": "",
+      "sha256": "af6937b9ce5adc7a593b1a6c0b3c43f92b4cbac36109dfec0ffce11e23f23a68",
+      "page_count": 27,
+      "pinpoint": "PDF/printed p22, Article10c; cover p1 states version/comparison conventions.",
+      "brief_exact_phrase": "[unless these funds constitute deposits or other repayable funds",
+      "page_context_paraphrase": "Article10c bans interest or other benefits tied to the duration of holding e-money, then contains an express square-bracketed exception. The exception refers cumulatively to deposits or repayable funds under Directive2006/48/EC Article4(1) and deposits under Directive94/19/EC Article1(1). The closing bracket is immediately before the final full stop. The full clause is bold and underlined in this version. Page1 explains underlining as changes against the Commission proposal, (…) as deletions, and bold as changes against the last compromise. These are drafting conventions, not proof that this was the earliest-ever formulation.",
+      "verification_result": "Claim supported. Preserve bracketed status and avoid an unqualified claim that January2009 was the rule’s first drafting origin.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "V2EU-O002",
+          "actor": "Council Presidency",
+          "observation_kind": "institutional_policy",
+          "canonical_episode_id": "EU-EMD2",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "permit",
+            "E": "not_addressed"
+          },
+          "rationales": [
+            "payments_vs_investment",
+            "legal_classification"
+          ],
+          "argument_ids": []
+        }
+      ],
+      "private_companion_path": "sources/V2EU008.pdf",
+      "rights_note": "Council general copyright notice permits credited reproduction without distortion and with changes identified, subject to specific restrictions/third-party works. No contrary notice found. Private companion in this package."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "V2EU017",
+      "document_title": "Council ST 6064/09, revised Presidency compromise on EMD2",
+      "verified_document_date": "2009-02-11",
+      "register_document_date": "2009-02-11",
+      "document_version": "Council ST6064/09 INIT;11February2009; Presidency compromise following2February working-party meeting",
+      "source_url": "https://data.consilium.europa.eu/doc/document/ST-6064-2009-INIT/en/pdf",
+      "archived_original_url": "",
+      "sha256": "b5cc5ed722089ffe792dfdd576efe4b8f60e5630cae6a1ea40668f3ca93581b1",
+      "page_count": 30,
+      "pinpoint": "PDF/printed p24 Article10c; p6 recital9; cover p1.",
+      "brief_exact_phrase": "the electronic money holder holds the electronic money.",
+      "page_context_paraphrase": "Article10c now ends directly after the duration-of-holding prohibition, without the January bracketed deposit exception. Recital9 links payment/savings classification, prohibition of credit from issuing funds, and limits on interest or duration-related benefits. The exception’s removal is established by comparing the complete January and February clauses: the February page does not display the deleted wording as strikeout.",
+      "verification_result": "Substantive claim supported. Citation correction required in earlier reviewed manuscript: ST6044/09 was wrong; correct document is ST6064/09. Root confirms this correction is now applied.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "V2EU-O002",
+          "actor": "Council Presidency",
+          "observation_kind": "institutional_policy",
+          "canonical_episode_id": "EU-EMD2",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "permit",
+            "E": "not_addressed"
+          },
+          "rationales": [
+            "payments_vs_investment",
+            "legal_classification"
+          ],
+          "argument_ids": [
+            "V2REV-V2EU-O002-001-1",
+            "V2REV-V2EU-O002-002-1",
+            "V2REV-V2EU-O002-003-1",
+            "V2ADJ-V2EU-O002"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/V2EU017.pdf",
+      "rights_note": "Council general copyright notice permits credited reproduction without distortion and with changes identified, subject to specific restrictions/third-party works. No contrary notice found. Private companion in this package."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "UK-FSA2001",
+      "document_title": "CP117 The regulation of electronic money issuers",
+      "verified_document_date": "2001-12",
+      "register_document_date": "2001-12-19",
+      "document_version": "FSA ConsultationPaper117, December2001;200-page archived original including annexes",
+      "source_url": "http://www.fsa.gov.uk/pubs/cp/cp117.pdf",
+      "archived_original_url": "https://web.archive.org/web/20030318174624id_/http://www.fsa.gov.uk:80/pubs/cp/cp117.pdf",
+      "sha256": "7d69f8f2e86c656b2a779000fc4fe36bf028eeb4ba90e3a4d341fea2c596fd93",
+      "page_count": 200,
+      "pinpoint": "PDF pp43–44/printed pp42–43, paras6.35–6.37 and Q12; cover p1 and contents/copyright p2.",
+      "brief_exact_phrase": "negative mismatch between interest received",
+      "page_context_paraphrase": "Paragraph6.35 distinguishes interest-rate exposure of backing investments from mismatch between returns received on assets and interest paid on outstanding e-money. It pairs a maturity/reset restriction for assets with a holder-interest ban to contain risk without burdensome measurement/management. Paragraph6.37 expressly calls interest a feature of deposits rather than payment mechanisms, invokes the cash-substitute character of e-money, and acknowledges EMD1 did not then prohibit interest. It is not a ban on the issuer earning reserve interest.",
+      "verification_result": "Manuscript account supported. Paragraph6.36’s phrasing about losses from declining market rates is a statement in the source, not an economic proposition the manuscript should independently endorse; the manuscript does not rely on that detail.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review. Cover verifies December 2001 only; register day 19 December is retained separately and not treated as a verified printed date.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "UKV2-O-CP117",
+          "actor": "Financial Services Authority",
+          "observation_kind": "institutional_policy",
+          "canonical_episode_id": "UK-EMD2001-PROPOSAL",
+          "overall_position": "prohibit",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "prohibit",
+            "E": "permit conditionally"
+          },
+          "rationales": [
+            "monetary_policy_transmission",
+            "financial_stability_run_risk",
+            "payments_vs_investment",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-UKV2-O-CP117-001-1",
+            "V2REV-UKV2-O-CP117-002-1",
+            "V2REV-UKV2-O-CP117-003-1",
+            "V2REV-UKV2-O-CP117-004-1",
+            "V2REV-UKV2-O-CP117-005-1",
+            "V2REV-UKV2-O-CP117-006-1",
+            "V2REV-UKV2-O-CP117-007-1",
+            "V2REV-UKV2-O-CP117-008-1",
+            "V2REV-UKV2-O-CP117-009-1",
+            "V2REV-UKV2-O-CP117-010-1",
+            "V2ADJ-UKV2-O-CP117"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/UK-FSA2001.pdf",
+      "rights_note": "FSA2001 copyright is expressly shown on PDFp2. No general public-redistribution licence established for this legacy PDF. Current FCA terms do not grant blanket public republication of narrative documents. Supply stable archived-original link, brief phrases and pinpoints in public map; preserve original privately; no claim of public-domain/OGL status."
+    },
+    {
+      "verification_item": "V04",
+      "source_id": "UKV2-PS117",
+      "document_title": "The regulation of electronic money issuers: Feedback on CP117",
+      "verified_document_date": "2002-04",
+      "register_document_date": "2002-04",
+      "document_version": "FSA PolicyStatement, The Regulation of Electronic Money Issuers: Feedback on CP117, April2002;49pages",
+      "source_url": "http://www.fsa.gov.uk/pubs/policy/ps117.pdf",
+      "archived_original_url": "https://web.archive.org/web/20030318140749id_/http://www.fsa.gov.uk:80/pubs/policy/ps117.pdf",
+      "sha256": "97bbf816d4c37c88813f1441eec08aaa3730836ac1d441f4e7eddf3b4f8c6b14",
+      "page_count": 49,
+      "pinpoint": "PDF pp21–22/printed pp20–21, Q12 and Our reply; PDFp46/printedp45 separately discusses discounted issuance; cover p1 and copyright p2.",
+      "brief_exact_phrase": "not meant to stop promotional activities",
+      "page_context_paraphrase": "The Q12 summary reports mixed opinions: one criticism of excessive restriction, broad agreement from others qualified by concern about loyalty/cash promotions and asset maturity limits. FSA says it will not amend the rule but explains that free first-load e-money, bonus and loyalty payments are not stopped. Its second reply retains asset restrictions because eliminating liability mismatch does not eliminate market-value risk in interest-bearing backing assets. The account is aggregated: the respondent list does not identify which actor took each position. Printedp45 concerns a separate discounted-issuance clarification requiring a third party to make up the face-value shortfall; it should not be used as the main support for the interest-ban clarification.",
+      "verification_result": "Current manuscript’s wording “promotional benefits” is correct and supported; no wording repair needed. An earlier visual message suggesting “proportional” was my reading error. Footnote25’s pp20–21 are the decisive support.",
+      "review_scope": "Relevant complete primary pages with adjacent context and cover/version identification; visual verification of decisive pages. Not full-document semantic review.",
+      "cohort_role": "frozen institutional/aggregate observation source",
+      "actor_episode_links": [
+        {
+          "observation_id": "UK-O-FSA2002",
+          "actor": "Financial Services Authority",
+          "observation_kind": "institutional_policy",
+          "canonical_episode_id": "UK-EMD2001-FINAL",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "permit conditionally",
+            "D": "permit conditionally",
+            "E": "permit conditionally"
+          },
+          "rationales": [
+            "monetary_policy_transmission",
+            "financial_stability_run_risk",
+            "payments_vs_investment",
+            "legal_classification",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-UK-O-FSA2002-005-1",
+            "V2REV-UK-O-FSA2002-007-1",
+            "V2REV-UK-O-FSA2002-008-1",
+            "V2REV-UK-O-FSA2002-009-1",
+            "V2REV-UK-O-FSA2002-010-1"
+          ]
+        },
+        {
+          "observation_id": "UKV2-O-PS117AGG",
+          "actor": "Unidentified respondents summarized by FSA (CP117)",
+          "observation_kind": "anonymous_aggregate",
+          "canonical_episode_id": "UK-EMD2001-FEEDBACK",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "ambiguous",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "permit conditionally",
+            "E": "permit conditionally"
+          },
+          "rationales": [
+            "financial_stability_run_risk",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-UKV2-O-PS117AGG-001-1",
+            "V2REV-UKV2-O-PS117AGG-002-1",
+            "V2REV-UKV2-O-PS117AGG-003-1",
+            "V2REV-UKV2-O-PS117AGG-004-1",
+            "V2REV-UKV2-O-PS117AGG-005-1",
+            "V2REV-UKV2-O-PS117AGG-006-1",
+            "V2REV-UKV2-O-PS117AGG-007-1",
+            "V2ADJ-UKV2-O-PS117AGG"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/UKV2-PS117.pdf",
+      "rights_note": "FSA2002 copyright expressly shown on PDFp2. No general public-redistribution licence established. Same private-original/public-link treatment as CP117; do not assume OGL merely because this is regulatory material."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "UKV2-UKF2021ARCHIVE",
+      "document_title": "UK Finance and Asset and Liability Management Association — consultation response",
+      "verified_document_date": "2021-09-07",
+      "register_document_date": "2021-09-07",
+      "document_version": "Cover page 1: Date: 07 September 2021. Archived respondent-hosted v1.0 PDF, Wayback capture 20210915220157; original bytes retained.",
+      "source_url": "https://web.archive.org/web/20210915220157id_/https://www.ukfinance.org.uk/system/files/Bank%20of%20England%20Discussion%20paper%20-%20New%20forms%20of%20digital%20money%20-%20UKF%20Response%20v1.0.pdf",
+      "archived_original_url": "https://web.archive.org/web/20210915220157id_/https://www.ukfinance.org.uk/system/files/Bank%20of%20England%20Discussion%20paper%20-%20New%20forms%20of%20digital%20money%20-%20UKF%20Response%20v1.0.pdf",
+      "sha256": "728234c3ce75372b041d840a10cdcdc589d4fb27a837a3492f5a33de074a82e5",
+      "page_count": 25,
+      "pinpoint": "pp 17–19, Q6; pp 23–24, Q10; contextual checks pp 9–11 and 25",
+      "brief_exact_phrase": "it might restrict or impede the implementation of monetary policy",
+      "page_context_paraphrase": "Q6 examines both remunerated and unremunerated CBDC/stablecoin scenarios. Non-remuneration can stabilize bank deposits yet impede transmission; changes in policy rates may move funds in the opposite direction to the intended credit effect. Q10 warns that a banking model may obstruct entry and protect incumbents, while declining to choose a final regulatory framework.",
+      "verification_result": "Supports the manuscript’s analytical counterexample, not an attribution of categorical support for holder remuneration. The generic interest pass-through in Q5 does not identify reserve income. Do not attribute the Bank’s anonymous 2022 income-sharing proposal to these organisations. The Q1 token-lending illustration concerns a separate risk-bearing arrangement.",
+      "review_scope": "Cover, Q1–2 pp 9–11, Q5–6 pp 17–19 and Q10–11 pp 23–25 rechecked; full-text remuneration search. Prior frozen review records all 25 pages. This verification is targeted, not a second complete recoding.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "UKV2-O-UKF2021",
+          "actor": "UK Finance and Asset and Liability Management Association",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "UK-BOE2021",
+          "overall_position": "no position",
+          "category_positions": {
+            "A": "not_addressed",
+            "B": "not_addressed",
+            "C": "no position",
+            "D": "not_addressed",
+            "E": "no position"
+          },
+          "rationales": [
+            "deposit_displacement_bank_funding",
+            "monetary_policy_transmission",
+            "financial_stability_run_risk",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-UKV2-O-UKF2021-001-1",
+            "V2REV-UKV2-O-UKF2021-002-1",
+            "V2REV-UKV2-O-UKF2021-003-1",
+            "V2REV-UKV2-O-UKF2021-004-1",
+            "V2REV-UKV2-O-UKF2021-005-1",
+            "V2REV-UKV2-O-UKF2021-006-1",
+            "V2REV-UKV2-O-UKF2021-007-1",
+            "V2REV-UKV2-O-UKF2021-008-1",
+            "V2REV-UKV2-O-UKF2021-009-1",
+            "V2REV-UKV2-O-UKF2021-010-1",
+            "V2REV-UKV2-O-UKF2021-011-1",
+            "V2ADJ-UKV2-O-UKF2021"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/UKV2-UKF2021ARCHIVE.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "UKV2-UKCBC2026",
+      "document_title": "UK Cryptoasset Business Council — consultation response",
+      "verified_document_date": "",
+      "register_document_date": "",
+      "document_version": "Undated contribution; date remains unknown. Cover §1.3 identifies the Bank consultation and refers to FCA consultations published 16 December 2025 and 23 January 2026. This supplies an internal terminus after 23 January 2026, not a signature or submission date. The title, 40/60 backing-asset proposal, and annex question crosswalk identify the Bank’s 2025 consultation. Recovered 2026; source-register access date 3 October 2026. ROOT-UKBOENAME27 is a participation lead, not position evidence.",
+      "source_url": "https://static1.squarespace.com/static/651bea53fe849553fe8a19d0/t/69a57345efc9636c5c95994d/1772450630107/UKCBC%2Bresponse%2BProposed%2BRegulatory%2BRegime%2Bfor%2BSterling-Denominated%2BSystemic%2BStablecoins.pdf",
+      "archived_original_url": "",
+      "sha256": "470065314f77a26545453a684d10db669f0c602c59242d2933dd77050700543e",
+      "page_count": 11,
+      "pinpoint": "p 1 §1.3; pp 2–3 §§2.2.7 and 3.2.1–3.2.2; p 7 §§10.1–10.3; pp 9–11 annex",
+      "brief_exact_phrase": "issuers should have the flexibility to determine themselves whether interest on backing assets can and should be passed on",
+      "page_context_paraphrase": "Section 10 expressly recommends issuer discretion to share backing income, contests the payments/investment boundary, and treats competition for deposits as beneficial. It separately seeks permission and clarity for issuer and non-issuer rewards, including activity rewards. Section 3.2 seeks issuer earnings on backing assets and central-bank deposits subject to liquidity safeguards.",
+      "verification_result": "Supports A/B permission and separate C/D rewards permission; issuer earnings are E and must not substitute for evidence of holder income. The claim that statutory-trust backing prevents downside is the respondent’s argument, not an independently established legal or prudential fact. The manuscript correctly attributes it. Keep the contribution undated and identify the consultation year separately.",
+      "review_scope": "Cover and §§1–4, 10–12 and full annex rechecked; prior frozen review records the entire 11-page PDF.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "UKV2-O-UKCBC2026",
+          "actor": "UK Cryptoasset Business Council",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "UK-BOE2025",
+          "overall_position": "permit",
+          "category_positions": {
+            "A": "permit",
+            "B": "permit",
+            "C": "permit",
+            "D": "permit",
+            "E": "permit conditionally"
+          },
+          "rationales": [
+            "deposit_displacement_bank_funding",
+            "monetary_policy_transmission",
+            "financial_stability_run_risk",
+            "payments_vs_investment",
+            "legal_classification",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-UKV2-O-UKCBC2026-001-1",
+            "V2REV-UKV2-O-UKCBC2026-002-1",
+            "V2REV-UKV2-O-UKCBC2026-003-1",
+            "V2REV-UKV2-O-UKCBC2026-004-1",
+            "V2REV-UKV2-O-UKCBC2026-005-1",
+            "V2REV-UKV2-O-UKCBC2026-006-1",
+            "V2REV-UKV2-O-UKCBC2026-007-1",
+            "V2REV-UKV2-O-UKCBC2026-008-1",
+            "V2REV-UKV2-O-UKCBC2026-009-1",
+            "V2ADJ-UKV2-O-UKCBC2026"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/UKV2-UKCBC2026.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "USV2-OCC-COM-0249",
+      "document_title": "American Bankers Association and state bankers associations (joint submission) — consultation response",
+      "verified_document_date": "2026-05-01",
+      "register_document_date": "2026-05-01",
+      "document_version": "Letter cover dated May 1, 2026. Register separately records receipt April 30 and posting May 3. Use the letter date for citation and preserve metadata discrepancy without inferring an actual submission date.",
+      "source_url": "https://downloads.regulations.gov/OCC-2025-0372-0249/attachment_1.pdf",
+      "archived_original_url": "",
+      "sha256": "0319b0459b306011ae2d97eed598ff56700ddad1a4443a468de5ad4bbda0c8a8",
+      "page_count": 4,
+      "pinpoint": "pp 1–2 §§I–II; p 3 §§III–IV; p 4 signatories",
+      "brief_exact_phrase": "Reserve income flows from the issuer to the exchange, which may pass a portion to retail holders.",
+      "page_context_paraphrase": "Section I describes reserve-income routing. Section II then recommends extending the prohibition to upstream economic value regardless of its label, including coordination or issuer-derived funds, and expressly prohibits direct or indirect benefits. Section III would catch nominal extra conditions. Section IV argues that recycling into wholesale deposits does not preserve community-bank funding.",
+      "verification_result": "The descriptive routing passage gains prohibitory meaning from the explicit recommendations that immediately follow. Supports A/B/C prohibition and the funding rationale. It does not oppose the issuer earning reserve income for itself. No distinct policy on genuine activity rewards is inferred from the anti-evasion necessary-condition test. Count the joint letter once, not separately by signatory.",
+      "review_scope": "Complete four-page contribution, including footnotes and signatory list, rechecked.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "USV2-OCC-O0249",
+          "actor": "American Bankers Association and state bankers associations (joint submission)",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "US_OCCNPRM2026",
+          "overall_position": "prohibit",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "prohibit",
+            "C": "prohibit",
+            "D": "not_addressed",
+            "E": "no position"
+          },
+          "rationales": [
+            "deposit_displacement_bank_funding"
+          ],
+          "argument_ids": [
+            "V2REV-USV2-OCC-O0249-001-1",
+            "V2REV-USV2-OCC-O0249-001-2",
+            "V2REV-USV2-OCC-O0249-002-1",
+            "V2REV-USV2-OCC-O0249-003-1",
+            "V2ADJ-USV2-OCC-O0249"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/USV2-OCC-COM-0249.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "USV2-OCC-COM-0303",
+      "document_title": "PayPal, Inc. — consultation response",
+      "verified_document_date": "2026-05-01",
+      "register_document_date": "2026-05-01",
+      "document_version": "Letter cover dated May 1, 2026. Register separately records receipt April 30 and posting May 4; retain both rather than overriding the signed date.",
+      "source_url": "https://downloads.regulations.gov/OCC-2025-0372-0303/attachment_1.pdf",
+      "archived_original_url": "",
+      "sha256": "06ab10b0cb459d88aac57efb40fac97505fed2a8b0268f4138dcc7a5570e6311",
+      "page_count": 12,
+      "pinpoint": "pp 4–6, response to Q35–39; continuation at top of p 7; cover p 1",
+      "brief_exact_phrase": "under the issuer’s direction and control",
+      "page_context_paraphrase": "The letter accepts implementation of the issuer prohibition, objects to attributing independent third-party conduct merely because commercial revenue/profit sharing exists, and favors targeting issuer direction or arrangement. It explicitly protects promotional payments, activity-based rewards and discounts. Its competition and compliance-cost arguments accompany this boundary.",
+      "verification_result": "Supports A prohibit, C permit conditionally and D permit. Overall ambiguous reflects category differentiation, not textual incoherence. Commercial revenue sharing is not an explicit recommendation for reserve-income pass-through, so B remains not addressed. Do not describe PayPal as advocating general direct issuer remuneration.",
+      "review_scope": "Cover, summary and entire Q35–39 response pp 4–7 rechecked. Prior frozen review records full 12-page contribution.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "USV2-OCC-O0303",
+          "actor": "PayPal Inc.",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "US_OCCNPRM2026",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "not_addressed",
+            "C": "permit conditionally",
+            "D": "permit",
+            "E": "not_addressed"
+          },
+          "rationales": [
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-USV2-OCC-O0303-001-1",
+            "V2REV-USV2-OCC-O0303-001-2",
+            "V2REV-USV2-OCC-O0303-002-1",
+            "V2REV-USV2-OCC-O0303-003-1",
+            "V2REV-USV2-OCC-O0303-004-1",
+            "V2REV-USV2-OCC-O0303-005-1",
+            "V2REV-USV2-OCC-O0303-006-1"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/USV2-OCC-COM-0303.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "USV2-OCC-COM-0271",
+      "document_title": "Circle Internet Group, Inc. — consultation response",
+      "verified_document_date": "2026-05-01",
+      "register_document_date": "",
+      "document_version": "Cover page 1 expressly identifies Circle Internet Group, Inc. and May 1, 2026. The old source-register document-date field is blank; this verification supplies the date without altering the register. Receipt metadata April 30; posting May 4.",
+      "source_url": "https://downloads.regulations.gov/OCC-2025-0372-0271/attachment_1.pdf",
+      "archived_original_url": "",
+      "sha256": "322ca1ef7e2a13f6b559877c6851c7092c3bed623022e43787006f4ba3dc0a24",
+      "page_count": 140,
+      "pinpoint": "pp 31–34, Q35–39; pp 129–130, Q200; cover p 1",
+      "brief_exact_phrase": "rather than by layering in a de minimis exception",
+      "page_context_paraphrase": "Q35 rejects a de minimis exception and targets issuer-directed or contractual yield arrangements, while protecting independent merchants/distributors. Q36–38 oppose broad attribution of independent conduct but retain an issuer-centred anti-evasion rule. Q39 and Q200 contest claims of material deposit/lending effects while maintaining a payments/deposits distinction.",
+      "verification_result": "Supports the manuscript’s qualified account; it does not support blanket permission for issuer-funded holder yield. This attachment was inspected as a later qualitative supplement on 9 October 2026. It has no frozen actor–episode observation or final A–E code in the 517/350 cohort. Other Circle FDIC/NCUA observations must not be substituted by actor-name matching.",
+      "review_scope": "Cover, Q35–39 pp 31–34 and Q200 pp 129–130 rechecked, with adjacent question boundaries. Targeted scope only; no claim that all 140 pages were substantively reviewed.",
+      "cohort_role": "later_qualitative_supplement",
+      "actor_episode_links": [],
+      "private_companion_path": "sources/USV2-OCC-COM-0271.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "ROOT-USFDIC033",
+      "document_title": "National Community Reinvestment Coalition — consultation response",
+      "verified_document_date": "2026-06-09",
+      "register_document_date": "2026-06-09",
+      "document_version": "Cover dated June 9, 2026; six-page letter, with conclusion/signature on image-based page 6 and retained OCR supplement.",
+      "source_url": "https://www.fdic.gov/federal-register-publications/ncrc-jesse-van-tol-rin-3064-ag19.pdf",
+      "archived_original_url": "",
+      "sha256": "72689daf1b63ff14a835a803ac8adddd1af70078b8f3bef8083caedb1a64472e",
+      "page_count": 6,
+      "pinpoint": "pp 2–3, §1 and note 2; cover p 1; conclusion p 6",
+      "brief_exact_phrase": "Yield provisions and presumption do not go far enough to prevent deposit flight.",
+      "page_context_paraphrase": "The letter describes reserve interest routed through exchanges, then argues that the proposed restrictions are insufficient. It links deposit flight to lending costs and community investment, including loss of infrastructure in underserved areas. Its sentence about activity rewards being allowed describes the proposal; it is not a recommendation to permit them.",
+      "verification_result": "Supports stronger A/B/C restrictions, with D ambiguous and E no position retained. The overall ambiguous field follows the category mix and does not negate the explicit call for a stronger ban. The manuscript attributes funding/community-access concerns; its later discussion of tokenized-deposit runs should not be recoded as a remuneration-linked stability rationale.",
+      "review_scope": "All six pages of text, including retained OCR of page 6, rechecked. Operative remuneration section is pp 2–3.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "FDICS-O033",
+          "actor": "National Community Reinvestment Coalition",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "US_FDICNPRM2026",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "prohibit",
+            "B": "prohibit",
+            "C": "prohibit",
+            "D": "ambiguous",
+            "E": "no position"
+          },
+          "rationales": [
+            "deposit_displacement_bank_funding",
+            "competition_innovation_consumer_welfare"
+          ],
+          "argument_ids": [
+            "V2REV-FDICS-O033-001-1",
+            "V2REV-FDICS-O033-002-1",
+            "V2REV-FDICS-O033-002-2",
+            "V2REV-FDICS-O033-003-1",
+            "V2REV-FDICS-O033-004-1",
+            "V2REV-FDICS-O033-005-1",
+            "V2ADJ-FDICS-O033"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/ROOT-USFDIC033.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    },
+    {
+      "verification_item": "V05",
+      "source_id": "ROOT-USFDIC014",
+      "document_title": "Interledger Foundation — consultation response",
+      "verified_document_date": "2026-06-04",
+      "register_document_date": "",
+      "document_version": "Cover page 1 dated June 4, 2026; signed by Briana Marbury, President and CEO, on p 13. The older source-register document-date field is blank, but the actor record correctly gives 4 June.",
+      "source_url": "https://www.fdic.gov/federal-register-publications/interledger-foundation-briana-marbury-rin-3064-ag19.pdf",
+      "archived_original_url": "",
+      "sha256": "c5ec3959a88af148d65f0076cbe67fac578bcbe6f428bec7c36dc96d9c3a17a0",
+      "page_count": 13,
+      "pinpoint": "p 12 §VI, second observation; cover p 1 and signature p 13",
+      "brief_exact_phrase": "we do not oppose it categorically",
+      "page_context_paraphrase": "The full second observation recognises systemic risk, explains why earning even modest returns matters for lower-income users, accepts the possible cross-subsidy of fees and operating costs, and asks whether the prohibition can be calibrated without excluding every beneficial value return.",
+      "verification_result": "Supports a qualified distributional argument, not categorical permission. A and overall position remain ambiguous. Fee cross-subsidy does not explicitly establish a reserve-income distribution model (B), an intermediary reward recommendation (C), or a specific activity-reward proposal (D).",
+      "review_scope": "Cover, pp 11–13 and complete §VI rechecked. Prior frozen review records all 13 pages, including extraction/OCR checks.",
+      "cohort_role": "frozen_actor_episode",
+      "actor_episode_links": [
+        {
+          "observation_id": "US_O_InterledgerFDIC",
+          "actor": "Interledger Foundation",
+          "observation_kind": "named_input",
+          "canonical_episode_id": "US_FDICNPRM2026",
+          "overall_position": "ambiguous",
+          "category_positions": {
+            "A": "ambiguous",
+            "B": "not_addressed",
+            "C": "not_addressed",
+            "D": "no position",
+            "E": "not_addressed"
+          },
+          "rationales": [
+            "financial_stability_run_risk",
+            "competition_innovation_consumer_welfare",
+            "commercial_viability"
+          ],
+          "argument_ids": [
+            "V2REV-US_O_InterledgerFDIC-001-1",
+            "V2REV-US_O_InterledgerFDIC-002-1",
+            "V2REV-US_O_InterledgerFDIC-003-1",
+            "V2ADJ-US_O_InterledgerFDIC"
+          ]
+        }
+      ],
+      "private_companion_path": "sources/ROOT-USFDIC014.pdf",
+      "rights_note": "Complete respondent contribution supplied only for private reviewer inspection. Public availability does not establish a general redistribution licence; no public-publication permission asserted."
+    }
+  ]
+}

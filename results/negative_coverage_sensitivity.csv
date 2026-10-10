@@ -1,0 +1,4 @@
+scenario,eligible_actor_episodes,permit,permit conditionally,prohibit,ambiguous,no position,unknown
+frozen_private_cohort,350,12,10,27,34,245,22
+exclude_no_position_without_strict_second_review_keep_unknown,213,12,10,27,34,108,22
+strict_second_review_for_negative_or_unknown,191,12,10,27,34,108,0

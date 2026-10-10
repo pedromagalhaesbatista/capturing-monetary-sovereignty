@@ -1,0 +1,6 @@
+{
+  "deposit_decline_difference_percentage_points": "19.7",
+  "lending_capacity_reduction_difference_USD_billions": "1250",
+  "qualification": "Subtraction of rounded reported scenarios, not a causal estimate, independent model replication or harmonisation with the CEA model.",
+  "source": "https://doi.org/10.2139/ssrn.5586850"
+}
